@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-13",
+  "topics": [
+    {
+      "id": "my-market",
+      "title": "My market",
+      "items": [
+        {
+          "id": "nemetschek-hcss",
+          "title": "Nemetschek buys HCSS in the biggest contech deal of the year",
+          "note": "heavy-civil software, ~$215M revenue, 4,000 contractors",
+          "source": "Construction Dive",
+          "url": "https://www.constructiondive.com/news/nemetschek-group-acquires-hcss-contech-merger-acquisition/817673/"
+        },
+        {
+          "id": "higharc-series-c",
+          "title": "Higharc raises $95M Series C for homebuilding AI",
+          "note": "Insight Partners leads; total funding past $170M",
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/higharc-raises-95m-series-c-to-scale-ai-for-homebuilding-302814598.html"
+        },
+        {
+          "id": "trimble-document-crunch",
+          "title": "Trimble to acquire Document Crunch",
+          "note": "AI contract review folded into the Trimble stack",
+          "source": "Construction Dive",
+          "url": "https://www.constructiondive.com/news/trimble-acquire-document-crunch-contech/816630/"
+        }
+      ]
+    },
+    {
+      "id": "agents",
+      "title": "Agents & AI infra",
+      "items": [
+        {
+          "id": "together-ai-800m",
+          "title": "Together AI raises $800M at an $8.3B valuation",
+          "note": "open-model inference; bookings past $1B, capacity to grow 50x",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/"
+        },
+        {
+          "id": "taktile-110m",
+          "title": "Taktile raises $110M to let agents make bank decisions",
+          "note": "Goldman leads; agentic underwriting, claims and fraud — vertical AI, regulated buyers",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/06/24/exclusive-taktile-goldman-sachs-ai-bank-insurance-funding/"
+        }
+      ]
+    },
+    {
+      "id": "us-real-estate",
+      "title": "US real estate",
+      "items": [
+        {
+          "id": "ct-wholesaler-registration",
+          "title": "Connecticut now requires wholesalers to register — as of July 1",
+          "note": "$285 with the DCP, must disclose wholesaler status, seller gets a 3-day cancel window",
+          "source": "CT Dept of Consumer Protection",
+          "url": "https://portal.ct.gov/dcp/news-releases-from-the-department-of-consumer-protection/2026-news-releases/real-estate-wholesalers-required-to-register-with-dcp"
+        },
+        {
+          "id": "ohio-wholesaling-legal",
+          "title": "Ohio made wholesaling legal and regulated",
+          "note": "ORC §5301.95 — assignments allowed, marketing the property is not",
+          "source": "Ohio Broker Direct",
+          "url": "https://ohiobrokerdirect.com/wholesaling-is-now-legal-in-ohio-what-homeowners-investors-and-wholesalers-need-to-know-in-2026/"
+        },
+        {
+          "id": "mortgage-rates-jul13",
+          "title": "30-year mortgage back near 6.7% as the Iran war lifts oil",
+          "note": "rates climbing; Fed held at 3.50–3.75%, next call July 28-29",
+          "source": "Fortune",
+          "url": "https://fortune.com/article/current-mortgage-rates-07-13-2026/"
+        }
+      ]
+    },
+    {
+      "id": "israel-tech",
+      "title": "Israel tech",
+      "items": [
+        {
+          "id": "israel-h1-2026-funding",
+          "title": "Israeli tech fundraising up 52% in H1 — $7.6B",
+          "note": "post-Wiz money still landing; defense, space and quantum took $846M of it",
+          "source": "Globes",
+          "url": "https://en.globes.co.il/en/article-israeli-tech-fundraising-up-52-in-h1-2026-1001547660"
+        }
+      ]
+    }
+  ]
+}
