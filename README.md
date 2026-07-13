@@ -107,7 +107,8 @@ regulators are the primary source for the wholesale rules he acts on):
 > US housing data: redfin · zillow · realtor · corelogic · attomdata ·
 > freddiemac · fanniemae · nar.realtor · mba.org
 > Israel: globes · calcalistech · ctech · calcalist · timesofisrael · jpost ·
-> geektime · nocamels · themarker · haaretz · startupnationcentral · israel21c ·
+> geektime · nocamels · themarker · haaretz · ynet · ynetnews · bizportal ·
+> israelhayom · startupnationcentral · israel21c ·
 > and the funds themselves: team8.vc · viola-group · pitango · cyberstarts ·
 > glilotcapital · grove.vc · aleph.vc
 > wholesale voices: youtube.com — **only** Pace Morby, Rick & Zach Ginn, Jerry
