@@ -48,8 +48,9 @@ Four is the cap. A fifth topic means deleting one.
 6. **Fresh only** — last ~24–48h (a few days is fine for a slow topic). The app
    hides any briefing whose `date` isn't today: stale news reads as fresh news.
 7. **Primary sources** (the company, the regulator, the outlet that broke it) over
-   aggregator reposts. The app displays the link's **real domain**, not the
-   `source` you type — so a mislabelled link outs itself.
+   aggregator reposts. **The app shows the link's real domain**, derived from the
+   url itself — there is no `source` field to write, and a mislabelled link would
+   out itself anyway. Pick links you'd be happy to see named on screen.
 8. **≤24 web searches per run.** Enough for four topics plus a retry.
 
 ## Never repeat yourself
@@ -78,7 +79,6 @@ one-line **`why`** in his words. He pastes that list in from the app
           "id": "short-slug",
           "title": "The headline",
           "note": "the one fact that matters",
-          "source": "Construction Dive",
           "url": "https://…"
         }
       ]
