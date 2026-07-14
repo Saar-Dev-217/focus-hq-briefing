@@ -4,7 +4,20 @@
     {
       "id": "my-market",
       "title": "My market",
-      "items": []
+      "items": [
+        {
+          "id": "zoom-acquires-common-room",
+          "title": "Zoom acquires GTM intelligence startup Common Room",
+          "note": "adds buyer-signal AI agents to Zoom's revenue platform, deal closes in coming weeks",
+          "url": "https://www.globenewswire.com/news-release/2026/07/02/3321315/0/en/zoom-to-acquire-common-room-bringing-buyer-intelligence-to-its-ai-revenue-platform.html"
+        },
+        {
+          "id": "agave-15m-series-a",
+          "title": "Agave raises $15M Series A to bring AI to construction financials",
+          "note": "Accel-led round, automates AP and vendor compliance for 500+ contractors via two-way ERP connections",
+          "url": "https://www.businesswire.com/news/home/20260707861533/en/Agave-Raises-$15M-Series-A-to-Bring-AI-to-Construction-Financials"
+        }
+      ]
     },
     {
       "id": "agents",
@@ -17,6 +30,12 @@
           "url": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html"
         },
         {
+          "id": "meta-muse-spark-1-1",
+          "title": "Meta launches Muse Spark 1.1 and its first paid model API",
+          "note": "agentic coding model with 1M-token context, priced at $1.25/$4.25 per million tokens to undercut GPT-5.5 and Opus 4.8",
+          "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/"
+        },
+        {
           "id": "bespoke-labs-40m-series-a",
           "title": "Bespoke Labs raises $40M to build training environments for reliable agents",
           "note": "Series A led by Wing VC with Anthropic, OpenAI and Meta insiders as angels, builds sandboxes that mimic real codebases and microservices",
@@ -27,12 +46,32 @@
     {
       "id": "us-real-estate",
       "title": "US real estate",
-      "items": []
+      "items": [
+        {
+          "id": "road-to-housing-act-investor-limit",
+          "title": "21st Century ROAD to Housing Act becomes law, curbs institutional home buying",
+          "note": "bars investors who own 350+ single-family homes from buying more, takes effect in 180 days",
+          "url": "https://www.housingwire.com/articles/what-the-road-to-housing-act-means-for-agents-homebuyers/"
+        }
+      ]
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
-      "items": []
+      "items": [
+        {
+          "id": "velocity-27m-seed-ai-ads",
+          "title": "Ex-ironSource execs raise $27M seed for AI monetization startup Velocity",
+          "note": "NFX and Red Dot Capital lead round building an ad and mediation layer for AI-native apps",
+          "url": "https://www.calcalistech.com/ctechnews/article/rjbsaioxfl"
+        },
+        {
+          "id": "plaxidityx-argus-shutdown",
+          "title": "PlaxidityX, Israel's $450M Argus Cyber Security exit, shuts down",
+          "note": "Continental spinoff Aumovio closes the Israeli unit, laying off the remaining 80 employees",
+          "url": "https://www.calcalistech.com/ctechnews/article/rj3q6xzmfg"
+        }
+      ]
     }
   ]
 }
