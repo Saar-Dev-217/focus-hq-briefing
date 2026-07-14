@@ -81,15 +81,30 @@ round they led, a notable partner move. Plus people moving between companies.
 4. **Two lines on screen:** a headline that stands alone, plus a `note` that is
    the single fact that matters — a fragment, no full stop.
 5. **News, not commentary.** Something *happened*. A trends essay is not news.
-6. **Fresh only** — last ~24–48h (a few days is fine for a slow topic). The app
-   hides any briefing whose `date` isn't today: stale news reads as fresh news.
+6. **Fresh, but not absurdly so.** Prefer the last 24–48h. For a slow topic
+   (`my-market`, `israel-tech` on a quiet week) anything up to **7 days old that
+   has not already shipped** is fair game — the history file, not the clock, is
+   what stops repeats. The app hides a briefing whose `date` isn't today, so the
+   file is always dated today regardless of when a story broke.
 7. **Primary sources** (the company, the regulator, the outlet that broke it) over
    aggregator reposts. **The app shows the link's real domain**, derived from the
    url itself — there is no `source` field to write.
 8. **The app only renders links from an allowlist of publishers** (see below). A
    link to anything else is silently dropped — so a story you can only find on an
    off-list site does not ship. Find it on a listed outlet, or skip it.
-9. **≤24 web searches per run.** Enough for four topics plus a retry.
+9. **Search budget: ~40 per run, and AT LEAST 4 PER TOPIC.** Never let the first
+   topics eat the budget — work topic by topic and reserve searches for the ones
+   that come last. Israel tech is listed last and must not be the one that starves.
+10. **An empty topic must be EARNED, not defaulted to.** Empty is correct when you
+   searched properly and there is genuinely nothing new — it is NOT correct when
+   you ran out of budget, ran one lazy query, or everything you found was blocked
+   by the allowlist. If a topic ends up empty, **say in your commit message which
+   queries you ran for it.** That is the receipt.
+11. **Where to look when a topic looks empty:** the trackers. Calcalist/CTech keep a
+   running list of every Israeli funding round; Construction Dive and Inman run
+   daily; Freddie Mac posts rates weekly; state `.gov` sites post wholesaling bills
+   and enforcement. A "nothing happened" verdict after one generic query is almost
+   always wrong.
 
 ## Where you may link
 Only **HTTPS** links, and only these publishers (or any `.gov` / `.gov.il` — the
