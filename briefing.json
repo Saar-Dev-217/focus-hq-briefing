@@ -1,65 +1,38 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": [
-        {
-          "id": "avid-health-tech-med",
-          "title": "Avid Health at Home completes its 8th tuck-in acquisition",
-          "note": "Havencrest-backed home care platform adds Kentucky/Ohio agency Tech Medical, cites AI workflow automation",
-          "url": "https://www.prnewswire.com/news-releases/avid-health-at-home-completes-8th-acquisition-featured-as-leading-technology-enabled-home-care-services-platform-302818883.html"
-        },
-        {
-          "id": "exodigo-va-acquisition",
-          "title": "Exodigo buys engineering firm V&A in a $25-30M contech deal",
-          "note": "AI underground-mapping startup adds SoCal infrastructure engineering, clients include Caltrans and LA Metro",
-          "url": "https://www.globenewswire.com/news-release/2026/07/08/3324168/0/en/exodigo-acquires-v-a-inc-to-expand-engineering-capabilities-and-accelerate-ai-powered-infrastructure-delivery.html"
-        }
-      ]
+      "items": []
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "claude-cowork-mobile-web",
-          "title": "Claude Cowork expands to mobile and web",
-          "note": "rollout began July 7; over 90% of usage is non-coding work, tasks run and wait for approval from your phone",
-          "url": "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding"
+          "id": "gpt-5-6-public-release",
+          "title": "OpenAI publicly releases the GPT-5.6 family: Sol, Terra, Luna",
+          "note": "Sol adds an Ultra subagent mode and Max reasoning-effort setting, Terra matches 5.5-level quality at half the cost",
+          "url": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html"
         },
         {
-          "id": "chatgpt-work-launch",
-          "title": "OpenAI launches ChatGPT Work, its GPT-5.6 workplace agent",
-          "note": "spans Slack, Drive, email and CRMs to turn a goal into finished docs, sheets and slides over hours",
-          "url": "https://openai.com/chatgpt-work/"
+          "id": "bespoke-labs-40m-series-a",
+          "title": "Bespoke Labs raises $40M to build training environments for reliable agents",
+          "note": "Series A led by Wing VC with Anthropic, OpenAI and Meta insiders as angels, builds sandboxes that mimic real codebases and microservices",
+          "url": "https://www.businesswire.com/news/home/20260706827813/en/Bespoke-Labs-Announces-$40M-to-Build-the-Environments-That-Train-Reliable-Agents"
         }
       ]
     },
     {
       "id": "us-real-estate",
       "title": "US real estate",
-      "items": [
-        {
-          "id": "mortgage-rate-jul9",
-          "title": "30-year mortgage ticks up to 6.49%",
-          "note": "Freddie Mac's weekly PMMS, up from 6.43% the week before, still below 6.72% a year ago",
-          "url": "https://www.globenewswire.com/news-release/2026/07/09/3325072/0/en/Mortgage-Rates-Hover-in-Mid-Six-Percent-Range.html"
-        }
-      ]
+      "items": []
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
-      "items": [
-        {
-          "id": "cyera-oasis-acquisition",
-          "title": "Cyera in advanced talks to buy Oasis Security for over $1B",
-          "note": "would be Cyera's 6th acquisition in 18 months, Oasis built agentic access management and raised ~$195M",
-          "url": "https://www.calcalistech.com/ctechnews/article/fwczo9inf"
-        }
-      ]
+      "items": []
     }
   ]
 }
