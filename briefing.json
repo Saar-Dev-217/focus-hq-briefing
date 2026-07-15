@@ -1,21 +1,15 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
       "items": [
         {
-          "id": "zoom-acquires-common-room",
-          "title": "Zoom acquires GTM intelligence startup Common Room",
-          "note": "adds buyer-signal AI agents to Zoom's revenue platform, deal closes in coming weeks",
-          "url": "https://www.globenewswire.com/news-release/2026/07/02/3321315/0/en/zoom-to-acquire-common-room-bringing-buyer-intelligence-to-its-ai-revenue-platform.html"
-        },
-        {
-          "id": "agave-15m-series-a",
-          "title": "Agave raises $15M Series A to bring AI to construction financials",
-          "note": "Accel-led round, automates AP and vendor compliance for 500+ contractors via two-way ERP connections",
-          "url": "https://www.businesswire.com/news/home/20260707861533/en/Agave-Raises-$15M-Series-A-to-Bring-AI-to-Construction-Financials"
+          "id": "alta-25m-series-a-gtm",
+          "title": "Alta raises $25M Series A to rebuild the GTM stack with AI agents",
+          "note": "Tel Aviv startup already powers Snowflake, Deel and Atlassian, on track for 800% revenue growth this year",
+          "url": "https://www.prnewswire.com/news-releases/alta-raises-25m-to-redefine-the-go-to-market-architecture-for-revenue-teams-302820618.html"
         }
       ]
     },
@@ -24,22 +18,22 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "gpt-5-6-public-release",
-          "title": "OpenAI publicly releases the GPT-5.6 family: Sol, Terra, Luna",
-          "note": "Sol adds an Ultra subagent mode and Max reasoning-effort setting, Terra matches 5.5-level quality at half the cost",
-          "url": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html"
+          "id": "lyzr-agent-runs-own-fundraise",
+          "title": "Lyzr closes $100M Series B after letting its own AI agent run the raise",
+          "note": "SivaClaw fielded 130+ investor Q&As and tracked slide engagement, round doubles valuation to $500M",
+          "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/"
         },
         {
-          "id": "meta-muse-spark-1-1",
-          "title": "Meta launches Muse Spark 1.1 and its first paid model API",
-          "note": "agentic coding model with 1M-token context, priced at $1.25/$4.25 per million tokens to undercut GPT-5.5 and Opus 4.8",
-          "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/"
+          "id": "prime-intellect-130m-series-a",
+          "title": "Prime Intellect raises $130M so enterprises can train their own AI agents",
+          "note": "Radical Ventures-led round hits $1B valuation, Ramp and Zapier already paying customers",
+          "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/"
         },
         {
-          "id": "bespoke-labs-40m-series-a",
-          "title": "Bespoke Labs raises $40M to build training environments for reliable agents",
-          "note": "Series A led by Wing VC with Anthropic, OpenAI and Meta insiders as angels, builds sandboxes that mimic real codebases and microservices",
-          "url": "https://www.businesswire.com/news/home/20260706827813/en/Bespoke-Labs-Announces-$40M-to-Build-the-Environments-That-Train-Reliable-Agents"
+          "id": "grok-4-5-half-price-launch",
+          "title": "xAI's Grok 4.5 launches at half the price of Claude and GPT rivals",
+          "note": "$2/$6 per million tokens undercuts Opus 4.8 by 60%+, first product since the Anysphere/Cursor acquisition",
+          "url": "https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai"
         }
       ]
     },
@@ -48,10 +42,10 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "road-to-housing-act-investor-limit",
-          "title": "21st Century ROAD to Housing Act becomes law, curbs institutional home buying",
-          "note": "bars investors who own 350+ single-family homes from buying more, takes effect in 180 days",
-          "url": "https://www.housingwire.com/articles/what-the-road-to-housing-act-means-for-agents-homebuyers/"
+          "id": "nar-existing-home-sales-june-dip",
+          "title": "Existing-home sales fall 2.4% in June as rates hold near 6.5%",
+          "note": "NAR report shows sales still up 2.8% year-over-year despite the monthly pullback",
+          "url": "https://www.nar.realtor/newsroom/nar-existing-home-sales-report-shows-2-4-decrease-in-june"
         }
       ]
     },
@@ -60,16 +54,10 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "velocity-27m-seed-ai-ads",
-          "title": "Ex-ironSource execs raise $27M seed for AI monetization startup Velocity",
-          "note": "NFX and Red Dot Capital lead round building an ad and mediation layer for AI-native apps",
-          "url": "https://www.calcalistech.com/ctechnews/article/rjbsaioxfl"
-        },
-        {
-          "id": "plaxidityx-argus-shutdown",
-          "title": "PlaxidityX, Israel's $450M Argus Cyber Security exit, shuts down",
-          "note": "Continental spinoff Aumovio closes the Israeli unit, laying off the remaining 80 employees",
-          "url": "https://www.calcalistech.com/ctechnews/article/rj3q6xzmfg"
+          "id": "tangos-ai-20m-seed-fincrime",
+          "title": "Serial founder Eyal Azoulay raises $20M seed for AI financial-crime investigator Tangos",
+          "note": "Third exit for Azoulay, team includes ex-OFAC and Israeli intel veterans, led by Red Dot Capital",
+          "url": "https://www.calcalistech.com/ctechnews/article/rk8uoy9mze"
         }
       ]
     }
