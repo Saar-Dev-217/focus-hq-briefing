@@ -1,15 +1,21 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
       "items": [
         {
-          "id": "alta-25m-series-a-gtm",
-          "title": "Alta raises $25M Series A to rebuild the GTM stack with AI agents",
-          "note": "Tel Aviv startup already powers Snowflake, Deel and Atlassian, on track for 800% revenue growth this year",
-          "url": "https://www.prnewswire.com/news-releases/alta-raises-25m-to-redefine-the-go-to-market-architecture-for-revenue-teams-302820618.html"
+          "id": "guthrie-ai-4m-seed-glazing-bids",
+          "title": "Guthrie AI raises $4M seed to put a virtual bid assistant on every glazing crew",
+          "note": "52 glazing contractors already cut bid turnaround from weeks to days, bidding 70% more without adding staff",
+          "url": "https://www.businesswire.com/news/home/20260713043407/en/Guthrie-AI-Raises-$4-Million-Seed-Round-Led-by-Chicago-Ventures-to-Put-a-Virtual-Bid-Assistant-on-Every-Glazing-Team"
+        },
+        {
+          "id": "terrafirma-115m-autonomous-construction",
+          "title": "TerraFirma raises $115M to pair AI pre-construction software with autonomous heavy machinery",
+          "note": "Kleiner Perkins leads $100M Series A, claims up to 300% operator effectiveness on retrofitted equipment",
+          "url": "https://www.businesswire.com/news/home/20260714397606/en/TerraFirma-Raises-$115M-to-Accelerate-Construction-on-Earth-and-Beyond"
         }
       ]
     },
@@ -18,22 +24,16 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "lyzr-agent-runs-own-fundraise",
-          "title": "Lyzr closes $100M Series B after letting its own AI agent run the raise",
-          "note": "SivaClaw fielded 130+ investor Q&As and tracked slide engagement, round doubles valuation to $500M",
-          "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/"
+          "id": "nous-research-hermes-1-5b-talks",
+          "title": "Hermes agent maker Nous Research in talks to raise at $1.5B valuation",
+          "note": "Robot Ventures leading at least $75M round for the open-source agent with 214,000 GitHub stars",
+          "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/"
         },
         {
-          "id": "prime-intellect-130m-series-a",
-          "title": "Prime Intellect raises $130M so enterprises can train their own AI agents",
-          "note": "Radical Ventures-led round hits $1B valuation, Ramp and Zapier already paying customers",
-          "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/"
-        },
-        {
-          "id": "grok-4-5-half-price-launch",
-          "title": "xAI's Grok 4.5 launches at half the price of Claude and GPT rivals",
-          "note": "$2/$6 per million tokens undercuts Opus 4.8 by 60%+, first product since the Anysphere/Cursor acquisition",
-          "url": "https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai"
+          "id": "slackbot-crm-data-integration",
+          "title": "Slack's Slackbot can now pull CRM data, build charts and send DocuSigns from a chat message",
+          "note": "Salesforce deepens the agent's platform access as it competes with Microsoft Copilot and Google Gemini",
+          "url": "https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data-generate-charts-and-send-docusigns-all-from-a-chat-message"
         }
       ]
     },
@@ -42,10 +42,16 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "nar-existing-home-sales-june-dip",
-          "title": "Existing-home sales fall 2.4% in June as rates hold near 6.5%",
-          "note": "NAR report shows sales still up 2.8% year-over-year despite the monthly pullback",
-          "url": "https://www.nar.realtor/newsroom/nar-existing-home-sales-report-shows-2-4-decrease-in-june"
+          "id": "road-to-housing-act-btr-pivot",
+          "title": "ROAD to Housing Act's built-to-rent carve-out pushes institutional investors toward new construction",
+          "note": "Existing-home buying ban has a loophole for build-to-rent, so big landlords are shifting capital to development pipelines",
+          "url": "https://www.globest.com/2026/07/15/road-to-housing-act-pushes-institutional-investors-toward-new-construction/"
+        },
+        {
+          "id": "attom-mid-year-2026-foreclosure-report",
+          "title": "ATTOM's mid-year report shows foreclosure activity still climbing toward a 6-year high",
+          "note": "Starts and bank repossessions kept rising through H1 after Q1 filings jumped 26% year-over-year",
+          "url": "https://www.attomdata.com/news/market-trends/foreclosures/2026-mid-year-foreclosure-market-report/"
         }
       ]
     },
@@ -54,10 +60,22 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "tangos-ai-20m-seed-fincrime",
-          "title": "Serial founder Eyal Azoulay raises $20M seed for AI financial-crime investigator Tangos",
-          "note": "Third exit for Azoulay, team includes ex-OFAC and Israeli intel veterans, led by Red Dot Capital",
-          "url": "https://www.calcalistech.com/ctechnews/article/rk8uoy9mze"
+          "id": "cribl-acquires-cardinalops-100m",
+          "title": "Cribl acquires Israeli detection-engineering startup CardinalOps for around $100M",
+          "note": "Founded by Unit 8200 veterans, deal gives Cribl a new Tel Aviv office and agentic SOC tooling",
+          "url": "https://www.calcalistech.com/ctechnews/article/rk71zhxeml"
+        },
+        {
+          "id": "hemispheric-52m-stealth-neuroai",
+          "title": "Hemispheric emerges from six years in stealth with $52M for a foundation AI model of the brain",
+          "note": "Descartes model trained on 250,000+ hours of EEG data, co-founded by the Face ID co-inventor",
+          "url": "https://www.calcalistech.com/ctechnews/article/rjentgbege"
+        },
+        {
+          "id": "oak-60m-seed-identity-ai",
+          "title": "Serial founder Shai Morag raises $60M seed for Oak's AI-native identity security platform",
+          "note": "Fourth company for the founder of three prior exits worth ~$500M combined, Accel and Greylock co-lead",
+          "url": "https://en.globes.co.il/en/article-israeli-ai-cybersecurity-co-oak-raises-60m-1001549415"
         }
       ]
     }
