@@ -1,21 +1,15 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-19",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
       "items": [
         {
-          "id": "guthrie-ai-4m-seed-glazing-bids",
-          "title": "Guthrie AI raises $4M seed to put a virtual bid assistant on every glazing crew",
-          "note": "52 glazing contractors already cut bid turnaround from weeks to days, bidding 70% more without adding staff",
-          "url": "https://www.businesswire.com/news/home/20260713043407/en/Guthrie-AI-Raises-$4-Million-Seed-Round-Led-by-Chicago-Ventures-to-Put-a-Virtual-Bid-Assistant-on-Every-Glazing-Team"
-        },
-        {
-          "id": "terrafirma-115m-autonomous-construction",
-          "title": "TerraFirma raises $115M to pair AI pre-construction software with autonomous heavy machinery",
-          "note": "Kleiner Perkins leads $100M Series A, claims up to 300% operator effectiveness on retrofitted equipment",
-          "url": "https://www.businesswire.com/news/home/20260714397606/en/TerraFirma-Raises-$115M-to-Accelerate-Construction-on-Earth-and-Beyond"
+          "id": "proaction-4-2m-seed-fleet-management",
+          "title": "Proaction raises $4.2M seed to build an AI-native alternative to legacy fleet management services",
+          "note": "Des Moines startup backed by GTMfund and Holman Growth Ventures targets maintenance, rentals, registrations and claims workflows",
+          "url": "https://www.prnewswire.com/news-releases/proaction-announces-4-2m-in-funding-to-build-the-modern-alternative-to-legacy-fleet-management-services-302825608.html"
         }
       ]
     },
@@ -24,16 +18,16 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "nous-research-hermes-1-5b-talks",
-          "title": "Hermes agent maker Nous Research in talks to raise at $1.5B valuation",
-          "note": "Robot Ventures leading at least $75M round for the open-source agent with 214,000 GitHub stars",
-          "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/"
+          "id": "moonshot-kimi-k3-largest-open-source-model",
+          "title": "Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling Anthropic and OpenAI",
+          "note": "2.8-trillion-parameter model with 1M-token context scores third on GDPval-AA v2, behind only Claude and GPT-5.6's flagship models",
+          "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems"
         },
         {
-          "id": "slackbot-crm-data-integration",
-          "title": "Slack's Slackbot can now pull CRM data, build charts and send DocuSigns from a chat message",
-          "note": "Salesforce deepens the agent's platform access as it competes with Microsoft Copilot and Google Gemini",
-          "url": "https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data-generate-charts-and-send-docusigns-all-from-a-chat-message"
+          "id": "emergent-ai-coding-unicorn-130m",
+          "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+          "note": "$1.5B valuation just over a year after launch, a five-fold jump in six months",
+          "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/"
         }
       ]
     },
@@ -42,16 +36,16 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "road-to-housing-act-btr-pivot",
-          "title": "ROAD to Housing Act's built-to-rent carve-out pushes institutional investors toward new construction",
-          "note": "Existing-home buying ban has a loophole for build-to-rent, so big landlords are shifting capital to development pipelines",
-          "url": "https://www.globest.com/2026/07/15/road-to-housing-act-pushes-institutional-investors-toward-new-construction/"
+          "id": "nar-pending-home-sales-june-5-4-decrease",
+          "title": "NAR: pending home sales fall 5.4% in June as mortgage rates hit a near-year high",
+          "note": "Declines across all four US regions; record home prices squeeze first-time buyers, says NAR's chief economist",
+          "url": "https://www.nar.realtor/newsroom/nar-pending-home-sales-report-shows-5-4-decrease-in-june"
         },
         {
-          "id": "attom-mid-year-2026-foreclosure-report",
-          "title": "ATTOM's mid-year report shows foreclosure activity still climbing toward a 6-year high",
-          "note": "Starts and bank repossessions kept rising through H1 after Q1 filings jumped 26% year-over-year",
-          "url": "https://www.attomdata.com/news/market-trends/foreclosures/2026-mid-year-foreclosure-market-report/"
+          "id": "freddie-mac-rate-6-55-july16",
+          "title": "Freddie Mac: 30-year mortgage rate climbs to 6.55%, its highest reading in weeks",
+          "note": "Up from 6.49% the week prior, reversing the brief dip toward affordability",
+          "url": "https://www.globenewswire.com/news-release/2026/07/16/3328703/0/en/Mortgage-Rates-Average-6-55.html"
         }
       ]
     },
@@ -60,22 +54,22 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "cribl-acquires-cardinalops-100m",
-          "title": "Cribl acquires Israeli detection-engineering startup CardinalOps for around $100M",
-          "note": "Founded by Unit 8200 veterans, deal gives Cribl a new Tel Aviv office and agentic SOC tooling",
-          "url": "https://www.calcalistech.com/ctechnews/article/rk71zhxeml"
+          "id": "hailo-fire-sale-us-chipmaker",
+          "title": "Once a $1B+ unicorn, Israeli edge-AI chipmaker Hailo is selling its business for just tens of millions",
+          "note": "A Nasdaq-listed US chipmaker is in advanced talks to buy the activity after edge-AI demand grew far slower than investors bet",
+          "url": "https://en.globes.co.il/en/article-us-chipmaker-in-advanced-talks-to-buy-hailo-1001549505"
         },
         {
-          "id": "hemispheric-52m-stealth-neuroai",
-          "title": "Hemispheric emerges from six years in stealth with $52M for a foundation AI model of the brain",
-          "note": "Descartes model trained on 250,000+ hours of EEG data, co-founded by the Face ID co-inventor",
-          "url": "https://www.calcalistech.com/ctechnews/article/rjentgbege"
+          "id": "beacon-security-13m-seed-data-layer",
+          "title": "Beacon Security raises $13M seed to build the data layer powering AI cybersecurity agents",
+          "note": "ARR up 300%+ in H1 2026; Notable Capital leads with over 60 founders and CISOs also writing checks",
+          "url": "https://www.prnewswire.com/news-releases/beacon-security-raises-13-million-in-seed-funding-to-give-ai-agents-a-trustworthy-data-foundation-for-cyber-defense-302826450.html"
         },
         {
-          "id": "oak-60m-seed-identity-ai",
-          "title": "Serial founder Shai Morag raises $60M seed for Oak's AI-native identity security platform",
-          "note": "Fourth company for the founder of three prior exits worth ~$500M combined, Accel and Greylock co-lead",
-          "url": "https://en.globes.co.il/en/article-israeli-ai-cybersecurity-co-oak-raises-60m-1001549415"
+          "id": "skapion-36m-seed-counter-drone-swarm",
+          "title": "Air-defense veterans raise $36M seed for Skapion's counter-drone-swarm defense system",
+          "note": "UP.Partners and Khosla Ventures co-lead a mobile system meant to work in contested, comms-denied environments",
+          "url": "https://www.calcalistech.com/ctechnews/article/skeqh33xzl"
         }
       ]
     }
