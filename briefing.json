@@ -1,33 +1,20 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": [
-        {
-          "id": "proaction-4-2m-seed-fleet-management",
-          "title": "Proaction raises $4.2M seed to build an AI-native alternative to legacy fleet management services",
-          "note": "Des Moines startup backed by GTMfund and Holman Growth Ventures targets maintenance, rentals, registrations and claims workflows",
-          "url": "https://www.prnewswire.com/news-releases/proaction-announces-4-2m-in-funding-to-build-the-modern-alternative-to-legacy-fleet-management-services-302825608.html"
-        }
-      ]
+      "items": []
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "moonshot-kimi-k3-largest-open-source-model",
-          "title": "Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling Anthropic and OpenAI",
-          "note": "2.8-trillion-parameter model with 1M-token context scores third on GDPval-AA v2, behind only Claude and GPT-5.6's flagship models",
-          "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems"
-        },
-        {
-          "id": "emergent-ai-coding-unicorn-130m",
-          "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-          "note": "$1.5B valuation just over a year after launch, a five-fold jump in six months",
-          "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/"
+          "id": "aina-5-5m-hardware-control-ai-agents",
+          "title": "Ex-Ultrahuman hardware exec raises $5.5M for physical devices that control AI agents",
+          "note": "Aina's Dune, Radiance and Shift give agents an off-screen way to launch and steer tasks",
+          "url": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/"
         }
       ]
     },
@@ -36,16 +23,16 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "nar-pending-home-sales-june-5-4-decrease",
-          "title": "NAR: pending home sales fall 5.4% in June as mortgage rates hit a near-year high",
-          "note": "Declines across all four US regions; record home prices squeeze first-time buyers, says NAR's chief economist",
-          "url": "https://www.nar.realtor/newsroom/nar-pending-home-sales-report-shows-5-4-decrease-in-june"
+          "id": "missouri-sb973-wholesaler-disclosure-law",
+          "title": "Missouri signs a new wholesaler-disclosure law, joining the state crackdown on assignment deals",
+          "note": "SB 973 requires a 14-day written disclosure before contract and lets sellers cancel if it's skipped, effective Aug 28",
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/Billinformation?year=2026&billid=321"
         },
         {
-          "id": "freddie-mac-rate-6-55-july16",
-          "title": "Freddie Mac: 30-year mortgage rate climbs to 6.55%, its highest reading in weeks",
-          "note": "Up from 6.49% the week prior, reversing the brief dip toward affordability",
-          "url": "https://www.globenewswire.com/news-release/2026/07/16/3328703/0/en/Mortgage-Rates-Average-6-55.html"
+          "id": "short-sales-outprice-foreclosures-first-time-since-2018",
+          "title": "Short sales now sell closer to market value than foreclosures, for the first time since 2018",
+          "note": "Realtor.com: short sales up 16% YoY in Q1 as underwater owners increasingly dodge the foreclosure discount",
+          "url": "https://www.prnewswire.com/news-releases/short-sales-are-making-a-comeback-302826708.html"
         }
       ]
     },
@@ -54,22 +41,10 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "hailo-fire-sale-us-chipmaker",
-          "title": "Once a $1B+ unicorn, Israeli edge-AI chipmaker Hailo is selling its business for just tens of millions",
-          "note": "A Nasdaq-listed US chipmaker is in advanced talks to buy the activity after edge-AI demand grew far slower than investors bet",
-          "url": "https://en.globes.co.il/en/article-us-chipmaker-in-advanced-talks-to-buy-hailo-1001549505"
-        },
-        {
-          "id": "beacon-security-13m-seed-data-layer",
-          "title": "Beacon Security raises $13M seed to build the data layer powering AI cybersecurity agents",
-          "note": "ARR up 300%+ in H1 2026; Notable Capital leads with over 60 founders and CISOs also writing checks",
-          "url": "https://www.prnewswire.com/news-releases/beacon-security-raises-13-million-in-seed-funding-to-give-ai-agents-a-trustworthy-data-foundation-for-cyber-defense-302826450.html"
-        },
-        {
-          "id": "skapion-36m-seed-counter-drone-swarm",
-          "title": "Air-defense veterans raise $36M seed for Skapion's counter-drone-swarm defense system",
-          "note": "UP.Partners and Khosla Ventures co-lead a mobile system meant to work in contested, comms-denied environments",
-          "url": "https://www.calcalistech.com/ctechnews/article/skeqh33xzl"
+          "id": "redis-cuts-quarter-tel-aviv-staff",
+          "title": "Israeli data unicorn Redis cuts a quarter of its Tel Aviv R&D staff",
+          "note": "About 80 jobs cut despite a $300M+ revenue run rate; company says no plans to close the site",
+          "url": "https://en.globes.co.il/en/article-redis-to-lay-off-80-in-israel-1001549107"
         }
       ]
     }
