@@ -1,39 +1,20 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": [
-        {
-          "id": "lofty-cipa-defense-program-sues-serial-litigant",
-          "title": "Proptech CRM Lofty sues a serial CIPA litigant and rolls out a legal defense program for agents",
-          "note": "91,000+ real estate pros covered as boilerplate analytics-tool demand letters spread across California",
-          "url": "https://www.realestatenews.com/2026/07/13/lofty-launches-cipa-defense-program-sues-serial-litigant"
-        }
-      ]
+      "items": []
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "natural-30m-ai-agent-payments-stripe-rival",
-          "title": "Agent-payments startup Natural raises $30M to take on Stripe",
-          "note": "Forerunner-led Series A brings total funding to $40M for a layer that lets AI agents move and store money",
-          "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/"
-        },
-        {
-          "id": "databricks-188b-valuation-coatue",
-          "title": "Databricks signs a term sheet for new funding at a $188B valuation",
-          "note": "Coatue-led round, up from $134B in February, will fund AI governance tools and its agent-facing Lakebase database",
-          "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/"
-        },
-        {
-          "id": "anthropic-blackstone-ode-enterprise-ai-services",
-          "title": "Anthropic, Blackstone and Hellman & Friedman launch Ode, a $1.5B enterprise AI services firm",
-          "note": "Claude-first forward-deployed engineers built on the Fractional AI acquisition, backed by Goldman Sachs and Sequoia",
-          "url": "https://www.businesswire.com/news/home/20260715205134/en/Anthropic-Blackstone-and-Hellman-Friedman-Introduce-Ode-with-Anthropic-an-Enterprise-AI-Services-Firm"
+          "id": "gemini-3-6-flash-agentic-workloads",
+          "title": "Google ships Gemini 3.6 Flash and 3.5 Flash-Lite, tuned for agentic workloads",
+          "note": "17% fewer output tokens and fewer tool calls per task than 3.5 Flash, now $1.50/$7.50 per million tokens",
+          "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/"
         }
       ]
     },
@@ -42,10 +23,16 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "attom-foreclosures-climb-21-percent-h1-2026",
-          "title": "US foreclosures jump 21% in the first half of 2026 as timelines shorten",
-          "note": "ATTOM: active inventory hits a six-year high, Florida, South Carolina and Indiana lead the rise",
-          "url": "https://www.housingwire.com/articles/us-foreclosures-rise-2026-midyear-attom-report/"
+          "id": "road-act-investor-listings-double",
+          "title": "Big landlords list thousands more homes as ROAD to Housing Act investor cap bites",
+          "note": "Institutional listings have more than doubled since February to 9,447 homes as the law bars 350+-home buyers from purchasing more",
+          "url": "https://www.housingwire.com/articles/investors-list-more-homes-after-road-to-housing-act-but-impact-may-stay-local/"
+        },
+        {
+          "id": "fidelis-rtl-securitization-191m",
+          "title": "Fidelis closes its fourth fix-and-flip loan securitization this year, $191.5M",
+          "note": "381 residential transition loans across 24 lenders, rated by Morningstar DBRS and KBRA",
+          "url": "https://www.housingwire.com/articles/fidelis-rtl-securitization-2026/"
         }
       ]
     },
@@ -54,22 +41,16 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "cisco-zafran-acquisition-talks-discount",
-          "title": "Cisco in advanced talks to buy Israeli cyber startup Zafran at a steep discount",
-          "note": "Reported $150-200M offer well below its $200M+ December valuation, after a co-founder's departure to Nvidia",
-          "url": "https://www.calcalistech.com/ctechnews/article/by11gqei4zx"
+          "id": "openai-israel-business-dev-hires",
+          "title": "OpenAI opens a business-development operation in Israel with its first local hires",
+          "note": "Ex-AWS-for-Startups Israel lead joins to run outreach; a startup event with AWS is planned this month",
+          "url": "https://www.calcalistech.com/ctechnews/article/rygcgun4gx"
         },
         {
-          "id": "neo-security-100m-ai-agent-control-stealth",
-          "title": "Ex-SentinelOne and Wiz executives launch Neo Security with $100M to guard AI agents",
-          "note": "$75M Series A led by a16z and Bessemer stacks on a previously undisclosed $25M seed",
-          "url": "https://www.calcalistech.com/ctechnews/article/bjey6uinfg"
-        },
-        {
-          "id": "crowdstrike-acquires-xm-cyber-ip",
-          "title": "CrowdStrike buys XM Cyber's IP, five years after the Israeli startup's $700M sale",
-          "note": "45+ patents and source code acquired from Schwarz Digits; XM Cyber keeps operating standalone",
-          "url": "https://www.calcalistech.com/ctechnews/article/rkx9rod4zl"
+          "id": "nvidia-spectrum-x6-israel-switch",
+          "title": "Nvidia's Israeli-built Spectrum-X6 switch heads into the world's largest AI data centers",
+          "note": "Microsoft, xAI, Tesla, CoreWeave and Nebius adopting the networking chip developed at Nvidia's Israel R&D center",
+          "url": "https://www.calcalistech.com/ctechnews/article/sygmpfpefe"
         }
       ]
     }
