@@ -1,20 +1,27 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": []
+      "items": [
+        {
+          "id": "gritt-stealth-solar-robots-26m",
+          "title": "Gritt exits stealth with $26M Series A for robots that build solar farms",
+          "note": "Robotic arms bolt onto rented construction equipment, installing panels at 3-4x the pace of manual crews",
+          "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/"
+        }
+      ]
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "gemini-3-6-flash-agentic-workloads",
-          "title": "Google ships Gemini 3.6 Flash and 3.5 Flash-Lite, tuned for agentic workloads",
-          "note": "17% fewer output tokens and fewer tool calls per task than 3.5 Flash, now $1.50/$7.50 per million tokens",
-          "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/"
+          "id": "infinity-15m-seed-universal-inference",
+          "title": "Infinity raises $15M seed to make any AI chip inference-ready",
+          "note": "OpenAI and Anthropic researchers back the round; its agent Ignition writes chip-specific inference code and takes a cut of the speedup instead of charging a license fee",
+          "url": "https://www.businesswire.com/news/home/20260720324097/en/Infinity-Raises-%2415-Million-in-Seed-Funding-to-Build-the-Software-Layer-That-Makes-Any-AI-Chip-Inference-Ready"
         }
       ]
     },
@@ -23,16 +30,10 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "road-act-investor-listings-double",
-          "title": "Big landlords list thousands more homes as ROAD to Housing Act investor cap bites",
-          "note": "Institutional listings have more than doubled since February to 9,447 homes as the law bars 350+-home buyers from purchasing more",
-          "url": "https://www.housingwire.com/articles/investors-list-more-homes-after-road-to-housing-act-but-impact-may-stay-local/"
-        },
-        {
-          "id": "fidelis-rtl-securitization-191m",
-          "title": "Fidelis closes its fourth fix-and-flip loan securitization this year, $191.5M",
-          "note": "381 residential transition loans across 24 lenders, rated by Morningstar DBRS and KBRA",
-          "url": "https://www.housingwire.com/articles/fidelis-rtl-securitization-2026/"
+          "id": "affordable-metros-resilience-demand-softens",
+          "title": "Affordable metros hold up better as US housing demand softens",
+          "note": "Absorbed listings fell broadly across 350+ metros for the week of July 17, except homes under $300K which stayed flat",
+          "url": "https://www.housingwire.com/articles/housing-market-affordable-markets-resilience/"
         }
       ]
     },
@@ -41,16 +42,16 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "openai-israel-business-dev-hires",
-          "title": "OpenAI opens a business-development operation in Israel with its first local hires",
-          "note": "Ex-AWS-for-Startups Israel lead joins to run outreach; a startup event with AWS is planned this month",
-          "url": "https://www.calcalistech.com/ctechnews/article/rygcgun4gx"
+          "id": "asio-15m-anduril-deal",
+          "title": "Israeli defense-tech firm ASIO raises $15M, lands Anduril supply deal",
+          "note": "Protego Ventures-led round comes alongside a deal worth tens of millions for GPS-independent drone navigation components",
+          "url": "https://www.calcalistech.com/ctechnews/article/byc650ivmx"
         },
         {
-          "id": "nvidia-spectrum-x6-israel-switch",
-          "title": "Nvidia's Israeli-built Spectrum-X6 switch heads into the world's largest AI data centers",
-          "note": "Microsoft, xAI, Tesla, CoreWeave and Nebius adopting the networking chip developed at Nvidia's Israel R&D center",
-          "url": "https://www.calcalistech.com/ctechnews/article/sygmpfpefe"
+          "id": "plantopia-9m-cow-free-dairy",
+          "title": "Israeli foodtech Plantopia raises $9M to commercialize cow-free dairy proteins",
+          "note": "Schreiber Foods and Siddhi Capital lead the round; production facility at Kibbutz Sdot Yam opens Q3",
+          "url": "https://www.calcalistech.com/ctechnews/article/hk04pkr4me"
         }
       ]
     }
