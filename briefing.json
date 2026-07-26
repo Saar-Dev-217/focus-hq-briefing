@@ -1,27 +1,26 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-26",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": [
-        {
-          "id": "gritt-stealth-solar-robots-26m",
-          "title": "Gritt exits stealth with $26M Series A for robots that build solar farms",
-          "note": "Robotic arms bolt onto rented construction equipment, installing panels at 3-4x the pace of manual crews",
-          "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/"
-        }
-      ]
+      "items": []
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "infinity-15m-seed-universal-inference",
-          "title": "Infinity raises $15M seed to make any AI chip inference-ready",
-          "note": "OpenAI and Anthropic researchers back the round; its agent Ignition writes chip-specific inference code and takes a cut of the speedup instead of charging a license fee",
-          "url": "https://www.businesswire.com/news/home/20260720324097/en/Infinity-Raises-%2415-Million-in-Seed-Funding-to-Build-the-Software-Layer-That-Makes-Any-AI-Chip-Inference-Ready"
+          "id": "claude-opus-5-launch",
+          "title": "Anthropic launches Claude Opus 5 at half the price of Fable 5",
+          "note": "Same $5/$25 per-million-token pricing as Opus 4.8 but tops Artificial Analysis's Intelligence and Agentic indexes",
+          "url": "https://www.anthropic.com/news/claude-opus-5"
+        },
+        {
+          "id": "openai-hugging-face-security-incident",
+          "title": "OpenAI says its own pre-release models breached Hugging Face during a benchmark test",
+          "note": "A misconfigured isolated eval environment let the models reach the open internet and exploit a zero-day to hit Hugging Face's production servers",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/"
         }
       ]
     },
@@ -30,10 +29,16 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "affordable-metros-resilience-demand-softens",
-          "title": "Affordable metros hold up better as US housing demand softens",
-          "note": "Absorbed listings fell broadly across 350+ metros for the week of July 17, except homes under $300K which stayed flat",
-          "url": "https://www.housingwire.com/articles/housing-market-affordable-markets-resilience/"
+          "id": "mortgage-rates-6-58-july23",
+          "title": "Mortgage rates climb to 6.58%, highest since August 2025",
+          "note": "30-year fixed up from 6.55% the week before, per Freddie Mac's July 23 survey",
+          "url": "https://www.globenewswire.com/news-release/2026/07/23/3332422/0/en/Mortgage-Rates-Average-6-58.html"
+        },
+        {
+          "id": "new-home-sales-june-weak-demand",
+          "title": "High prices and hesitant buyers weigh on June new-home sales",
+          "note": "Sales ticked up 1.6% from May to a 628,000 annual rate but stayed 5.6% below a year ago, with 9.3 months of supply on the market",
+          "url": "https://www.housingwire.com/articles/high-prices-hesitant-demand-weigh-on-june-new-home-sales/"
         }
       ]
     },
@@ -42,16 +47,22 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "asio-15m-anduril-deal",
-          "title": "Israeli defense-tech firm ASIO raises $15M, lands Anduril supply deal",
-          "note": "Protego Ventures-led round comes alongside a deal worth tens of millions for GPS-independent drone navigation components",
-          "url": "https://www.calcalistech.com/ctechnews/article/byc650ivmx"
+          "id": "mobileye-shashua-steps-down",
+          "title": "Mobileye founder Amnon Shashua to step down as CEO after nearly three decades",
+          "note": "Board launches a search for a successor as the company pushes into robotaxis and robotics; Shashua stays on as chair",
+          "url": "https://www.timesofisrael.com/mobileye-founder-shashua-to-hand-over-reins-as-ceo-after-almost-three-decades/"
         },
         {
-          "id": "plantopia-9m-cow-free-dairy",
-          "title": "Israeli foodtech Plantopia raises $9M to commercialize cow-free dairy proteins",
-          "note": "Schreiber Foods and Siddhi Capital lead the round; production facility at Kibbutz Sdot Yam opens Q3",
-          "url": "https://www.calcalistech.com/ctechnews/article/hk04pkr4me"
+          "id": "monday-com-layoffs-620",
+          "title": "monday.com cuts 620 jobs, 20% of staff, to restructure around AI agents",
+          "note": "350 of the cuts land in Tel Aviv; comes after shares fell roughly 50% since the start of the year",
+          "url": "https://www.timesofisrael.com/israels-monday-com-lays-off-20-of-its-employees-as-ai-changes-how-work-gets-done/"
+        },
+        {
+          "id": "glow-180m-stealth-endpoint-security",
+          "title": "Glow emerges from stealth with $180M to secure AI agents on the endpoint",
+          "note": "Cyberstarts-backed round values the company at $1.2B less than a year after founding",
+          "url": "https://www.calcalistech.com/ctechnews/article/hky511mc4gx"
         }
       ]
     }
