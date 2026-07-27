@@ -1,26 +1,33 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": []
+      "items": [
+        {
+          "id": "uniti-12m-series-a-agentic-real-estate",
+          "title": "Uniti raises $12M Series A to build the agentic AI layer for real estate operators",
+          "note": "Pathlight-led round backs AI agents handling leasing, collections, maintenance and payments for ~100 property operators",
+          "url": "https://www.businesswire.com/news/home/20260721358977/en/Uniti-Raises-$12M-Series-A-to-Build-the-Agentic-AI-Layer-for-Global-Real-Estate-Operators"
+        }
+      ]
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "claude-opus-5-launch",
-          "title": "Anthropic launches Claude Opus 5 at half the price of Fable 5",
-          "note": "Same $5/$25 per-million-token pricing as Opus 4.8 but tops Artificial Analysis's Intelligence and Agentic indexes",
-          "url": "https://www.anthropic.com/news/claude-opus-5"
+          "id": "mcp-spec-update-simplifies-interop",
+          "title": "MCP, AI's most important interoperability protocol, ships a major spec update",
+          "note": "New version simplifies how developer agents connect to external tools and data, per startup Arcade's breakdown",
+          "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/"
         },
         {
-          "id": "openai-hugging-face-security-incident",
-          "title": "OpenAI says its own pre-release models breached Hugging Face during a benchmark test",
-          "note": "A misconfigured isolated eval environment let the models reach the open internet and exploit a zero-day to hit Hugging Face's production servers",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/"
+          "id": "runway-media-router-launch",
+          "title": "Runway launches a model router to auto-pick the best AI model per generative-media request",
+          "note": "Routes image/video/audio jobs across Runway's own and third-party models by cost, speed or quality; Adobe and Cloudflare are early API customers",
+          "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/"
         }
       ]
     },
@@ -29,42 +36,17 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "mortgage-rates-6-58-july23",
-          "title": "Mortgage rates climb to 6.58%, highest since August 2025",
-          "note": "30-year fixed up from 6.55% the week before, per Freddie Mac's July 23 survey",
-          "url": "https://www.globenewswire.com/news-release/2026/07/23/3332422/0/en/Mortgage-Rates-Average-6-58.html"
-        },
-        {
-          "id": "new-home-sales-june-weak-demand",
-          "title": "High prices and hesitant buyers weigh on June new-home sales",
-          "note": "Sales ticked up 1.6% from May to a 628,000 annual rate but stayed 5.6% below a year ago, with 9.3 months of supply on the market",
-          "url": "https://www.housingwire.com/articles/high-prices-hesitant-demand-weigh-on-june-new-home-sales/"
+          "id": "redfin-pending-sales-3-month-low",
+          "title": "Pending home sales fall to a 3-month low as mortgage rates hit an 11-month high",
+          "note": "Weekly rate averaged 6.55% for the four weeks ending July 19, pushing buyers to the sidelines",
+          "url": "https://www.redfin.com/news/housing-market-update-pending-sales-fall-rates-increase/"
         }
       ]
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
-      "items": [
-        {
-          "id": "mobileye-shashua-steps-down",
-          "title": "Mobileye founder Amnon Shashua to step down as CEO after nearly three decades",
-          "note": "Board launches a search for a successor as the company pushes into robotaxis and robotics; Shashua stays on as chair",
-          "url": "https://www.timesofisrael.com/mobileye-founder-shashua-to-hand-over-reins-as-ceo-after-almost-three-decades/"
-        },
-        {
-          "id": "monday-com-layoffs-620",
-          "title": "monday.com cuts 620 jobs, 20% of staff, to restructure around AI agents",
-          "note": "350 of the cuts land in Tel Aviv; comes after shares fell roughly 50% since the start of the year",
-          "url": "https://www.timesofisrael.com/israels-monday-com-lays-off-20-of-its-employees-as-ai-changes-how-work-gets-done/"
-        },
-        {
-          "id": "glow-180m-stealth-endpoint-security",
-          "title": "Glow emerges from stealth with $180M to secure AI agents on the endpoint",
-          "note": "Cyberstarts-backed round values the company at $1.2B less than a year after founding",
-          "url": "https://www.calcalistech.com/ctechnews/article/hky511mc4gx"
-        }
-      ]
+      "items": []
     }
   ]
 }
