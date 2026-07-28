@@ -1,33 +1,20 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": [
-        {
-          "id": "uniti-12m-series-a-agentic-real-estate",
-          "title": "Uniti raises $12M Series A to build the agentic AI layer for real estate operators",
-          "note": "Pathlight-led round backs AI agents handling leasing, collections, maintenance and payments for ~100 property operators",
-          "url": "https://www.businesswire.com/news/home/20260721358977/en/Uniti-Raises-$12M-Series-A-to-Build-the-Agentic-AI-Layer-for-Global-Real-Estate-Operators"
-        }
-      ]
+      "items": []
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "mcp-spec-update-simplifies-interop",
-          "title": "MCP, AI's most important interoperability protocol, ships a major spec update",
-          "note": "New version simplifies how developer agents connect to external tools and data, per startup Arcade's breakdown",
-          "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/"
-        },
-        {
-          "id": "runway-media-router-launch",
-          "title": "Runway launches a model router to auto-pick the best AI model per generative-media request",
-          "note": "Routes image/video/audio jobs across Runway's own and third-party models by cost, speed or quality; Adobe and Cloudflare are early API customers",
-          "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/"
+          "id": "skypilot-20m-seed-ai-compute-infra",
+          "title": "SkyPilot launches with $20M seed to unify AI compute infrastructure across clouds",
+          "note": "Lux Capital-led round backs multi-cloud GPU orchestration for frontier AI teams, founded by Databricks co-founder Ion Stoica and UC Berkeley researchers",
+          "url": "https://www.prnewswire.com/news-releases/skypilot-launches-with-20m-to-accelerate-custom-intelligence-for-frontier-ai-teams-302830808.html"
         }
       ]
     },
@@ -36,17 +23,36 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "redfin-pending-sales-3-month-low",
-          "title": "Pending home sales fall to a 3-month low as mortgage rates hit an 11-month high",
-          "note": "Weekly rate averaged 6.55% for the four weeks ending July 19, pushing buyers to the sidelines",
-          "url": "https://www.redfin.com/news/housing-market-update-pending-sales-fall-rates-increase/"
+          "id": "inman-investors-high-priced-transaction-deserts",
+          "title": "Investors place new bets in high-priced housing markets even as overall transaction volume stays stuck",
+          "note": "Inman's data team finds single-family investors targeting pricey metros for long-term rent and value gains despite the broader slump",
+          "url": "https://www.inman.com/2026/07/20/markets-real-estate-investors/"
+        },
+        {
+          "id": "axios-la-buyers-san-diego",
+          "title": "LA homebuyers are propping up San Diego's housing market as sale equity funds the move",
+          "note": "San Diego is the top out-of-metro search destination for LA buyers, per Redfin data",
+          "url": "https://www.axios.com/local/san-diego/2026/07/27/la-homebuyers-moving-to-san-diego-housing-market-home-prices-equity-redfin-zillow"
         }
       ]
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
-      "items": []
+      "items": [
+        {
+          "id": "enigma-71m-seed-stealth-robotics",
+          "title": "Enigma emerges from stealth with $71M seed to build foundation AI models for robots",
+          "note": "Unit 8200 alumni-founded startup backed by Index Ventures with angels from OpenAI, Anthropic and DeepMind, launches an interactive robot-control platform",
+          "url": "https://www.calcalistech.com/ctechnews/article/h1tdxjhrgx"
+        },
+        {
+          "id": "glow-180m-stealth-endpoint-security",
+          "title": "Glow emerges from stealth with $180M at a $1.2B valuation to rebuild AI-era endpoint security",
+          "note": "Sequoia- and Cyberstarts-backed round for a company founded by ex-Meta, Snowflake and Claroty executives",
+          "url": "https://www.calcalistech.com/ctechnews/article/hky511mc4gx"
+        }
+      ]
     }
   ]
 }
