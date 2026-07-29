@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "topics": [
     {
       "id": "my-market",
@@ -11,10 +11,16 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "skypilot-20m-seed-ai-compute-infra",
-          "title": "SkyPilot launches with $20M seed to unify AI compute infrastructure across clouds",
-          "note": "Lux Capital-led round backs multi-cloud GPU orchestration for frontier AI teams, founded by Databricks co-founder Ion Stoica and UC Berkeley researchers",
-          "url": "https://www.prnewswire.com/news-releases/skypilot-launches-with-20m-to-accelerate-custom-intelligence-for-frontier-ai-teams-302830808.html"
+          "id": "mcp-biggest-spec-update-agent-auth",
+          "title": "Model Context Protocol ships its biggest spec update since launch",
+          "note": "Stateless architecture, hardened auth, and a 12-month deprecation policy under new steward the Agentic AI Foundation",
+          "url": "https://venturebeat.com/infrastructure/mcp-just-got-its-biggest-update-ever-heres-what-changes-for-ai-agents"
+        },
+        {
+          "id": "openai-presence-enterprise-agent-platform",
+          "title": "OpenAI launches Presence, an enterprise platform for production voice and chat agents",
+          "note": "Guardrailed deployment already resolves 75% of OpenAI's own support calls without a human; BBVA Mexico and SoftBank are launch customers",
+          "url": "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots"
         }
       ]
     },
@@ -23,16 +29,16 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "inman-investors-high-priced-transaction-deserts",
-          "title": "Investors place new bets in high-priced housing markets even as overall transaction volume stays stuck",
-          "note": "Inman's data team finds single-family investors targeting pricey metros for long-term rent and value gains despite the broader slump",
-          "url": "https://www.inman.com/2026/07/20/markets-real-estate-investors/"
+          "id": "mortgage-rates-near-7-fed-meeting",
+          "title": "Mortgage rates climb toward 7% just as the Fed meets to decide on rates",
+          "note": "30-year conforming average hits 6.94%, up 9 basis points, even as purchase demand holds up",
+          "url": "https://www.housingwire.com/articles/mortgage-rates-near-7/"
         },
         {
-          "id": "axios-la-buyers-san-diego",
-          "title": "LA homebuyers are propping up San Diego's housing market as sale equity funds the move",
-          "note": "San Diego is the top out-of-metro search destination for LA buyers, per Redfin data",
-          "url": "https://www.axios.com/local/san-diego/2026/07/27/la-homebuyers-moving-to-san-diego-housing-market-home-prices-equity-redfin-zillow"
+          "id": "boxabl-spac-ipo-3-5b-valuation",
+          "title": "Prefab housing startup Boxabl goes public at a $3.5B valuation, then gives back its first-day pop",
+          "note": "Shares surged 20% on the Nasdaq debut before sliding by about the same amount the next day",
+          "url": "https://therealdeal.com/national/2026/07/21/boxabl-ignites-spac-market-goes-public-at-3-5b-valuation/"
         }
       ]
     },
@@ -41,16 +47,16 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "enigma-71m-seed-stealth-robotics",
-          "title": "Enigma emerges from stealth with $71M seed to build foundation AI models for robots",
-          "note": "Unit 8200 alumni-founded startup backed by Index Ventures with angels from OpenAI, Anthropic and DeepMind, launches an interactive robot-control platform",
-          "url": "https://www.calcalistech.com/ctechnews/article/h1tdxjhrgx"
+          "id": "act-security-medigate-founders-stealth-60m",
+          "title": "Medigate founders exit stealth with Act Security, $60M raised in just four months",
+          "note": "Series A led by Notable Capital follows a Team8/Bessemer-led seed, backing a cloud security platform from the team behind Medigate's $400M exit",
+          "url": "https://www.calcalistech.com/ctechnews/article/u1pvtdzh3"
         },
         {
-          "id": "glow-180m-stealth-endpoint-security",
-          "title": "Glow emerges from stealth with $180M at a $1.2B valuation to rebuild AI-era endpoint security",
-          "note": "Sequoia- and Cyberstarts-backed round for a company founded by ex-Meta, Snowflake and Claroty executives",
-          "url": "https://www.calcalistech.com/ctechnews/article/hky511mc4gx"
+          "id": "hush-security-30m-series-a-agent-governance",
+          "title": "Hush Security raises $30M Series A to govern enterprise AI agents",
+          "note": "Akamai joins Battery Ventures and YL Ventures behind the ex-Meta Networks founders' non-human identity platform",
+          "url": "https://www.calcalistech.com/ctechnews/article/sjactjlsfl"
         }
       ]
     }
