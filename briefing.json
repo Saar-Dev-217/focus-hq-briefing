@@ -1,26 +1,27 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": []
+      "items": [
+        {
+          "id": "arrakis-stealth-30m-industrial-ai-agents",
+          "title": "Industrial AI startup Arrakis emerges from stealth with $30M Series A, $140M valuation",
+          "note": "Blossom Capital-led round deploys AI agents into construction, manufacturing, and logistics workflows, with Datadog's and OpenAI's own execs among the angels",
+          "url": "https://fortune.com/2026/07/22/arrakis-a-startup-betting-ais-biggest-payoff-is-in-industrial-sectors-not-office-work-emerges-from-stealth-with-38-million-in-venture-funding/"
+        }
+      ]
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "mcp-biggest-spec-update-agent-auth",
-          "title": "Model Context Protocol ships its biggest spec update since launch",
-          "note": "Stateless architecture, hardened auth, and a 12-month deprecation policy under new steward the Agentic AI Foundation",
-          "url": "https://venturebeat.com/infrastructure/mcp-just-got-its-biggest-update-ever-heres-what-changes-for-ai-agents"
-        },
-        {
-          "id": "openai-presence-enterprise-agent-platform",
-          "title": "OpenAI launches Presence, an enterprise platform for production voice and chat agents",
-          "note": "Guardrailed deployment already resolves 75% of OpenAI's own support calls without a human; BBVA Mexico and SoftBank are launch customers",
-          "url": "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots"
+          "id": "cognizant-anthropic-expand-claude-partnership",
+          "title": "Cognizant becomes Anthropic's top-tier Global Premier Partner, expanding Claude across its industry platforms",
+          "note": "More than 30,000 Cognizant employees now trained on Claude as the firm embeds it into client systems across manufacturing, life sciences and insurance",
+          "url": "https://www.anthropic.com/news/cognizant-anthropic"
         }
       ]
     },
@@ -29,16 +30,10 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "mortgage-rates-near-7-fed-meeting",
-          "title": "Mortgage rates climb toward 7% just as the Fed meets to decide on rates",
-          "note": "30-year conforming average hits 6.94%, up 9 basis points, even as purchase demand holds up",
-          "url": "https://www.housingwire.com/articles/mortgage-rates-near-7/"
-        },
-        {
-          "id": "boxabl-spac-ipo-3-5b-valuation",
-          "title": "Prefab housing startup Boxabl goes public at a $3.5B valuation, then gives back its first-day pop",
-          "note": "Shares surged 20% on the Nasdaq debut before sliding by about the same amount the next day",
-          "url": "https://therealdeal.com/national/2026/07/21/boxabl-ignites-spac-market-goes-public-at-3-5b-valuation/"
+          "id": "foreclosure-auctions-q2-2026-fha-gains",
+          "title": "Foreclosure auctions climb to a 23-quarter high in Q2, with FHA loans leading the surge",
+          "note": "Completed auctions hit 66% of Q1 2020 levels, up 23% year over year, as REO supply builds in the Midwest and Sun Belt",
+          "url": "https://www.housingwire.com/articles/q2-2026-foreclosure-auctions-fha/"
         }
       ]
     },
@@ -47,16 +42,22 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "act-security-medigate-founders-stealth-60m",
-          "title": "Medigate founders exit stealth with Act Security, $60M raised in just four months",
-          "note": "Series A led by Notable Capital follows a Team8/Bessemer-led seed, backing a cloud security platform from the team behind Medigate's $400M exit",
-          "url": "https://www.calcalistech.com/ctechnews/article/u1pvtdzh3"
+          "id": "encore-ai-30m-series-a-team8-voice-agents",
+          "title": "Encore AI raises $30M Series A to teach AI agents how top employees close deals",
+          "note": "Team8-led round backs the Israeli startup's revenue-focused voice agents for banks and insurers, formerly known as Insait",
+          "url": "https://www.calcalistech.com/ctechnews/article/bj2hmdvsmg"
         },
         {
-          "id": "hush-security-30m-series-a-agent-governance",
-          "title": "Hush Security raises $30M Series A to govern enterprise AI agents",
-          "note": "Akamai joins Battery Ventures and YL Ventures behind the ex-Meta Networks founders' non-human identity platform",
-          "url": "https://www.calcalistech.com/ctechnews/article/sjactjlsfl"
+          "id": "onyx-security-113m-series-b-bessemer",
+          "title": "Onyx Security raises $113M Series B just four months after stealth, hits $640M valuation",
+          "note": "Bessemer-led round follows 4x revenue growth and a new Anthropic integration to secure enterprise AI agents",
+          "url": "https://www.calcalistech.com/ctechnews/article/b1fsjydszg"
+        },
+        {
+          "id": "aleph-fund-v-300m-israeli-founders",
+          "title": "Aleph raises $300M for Fund V to keep backing early-stage Israeli founders",
+          "note": "The early-stage firm stays the course, continuing to fund Israeli companies built for global markets",
+          "url": "https://www.timesofisrael.com/israeli-venture-capital-firm-aleph-raises-300m-fund-for-early-stage-investments/"
         }
       ]
     }
