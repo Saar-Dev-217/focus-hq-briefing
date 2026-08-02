@@ -1,27 +1,26 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-08-02",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": [
-        {
-          "id": "arrakis-stealth-30m-industrial-ai-agents",
-          "title": "Industrial AI startup Arrakis emerges from stealth with $30M Series A, $140M valuation",
-          "note": "Blossom Capital-led round deploys AI agents into construction, manufacturing, and logistics workflows, with Datadog's and OpenAI's own execs among the angels",
-          "url": "https://fortune.com/2026/07/22/arrakis-a-startup-betting-ais-biggest-payoff-is-in-industrial-sectors-not-office-work-emerges-from-stealth-with-38-million-in-venture-funding/"
-        }
-      ]
+      "items": []
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "cognizant-anthropic-expand-claude-partnership",
-          "title": "Cognizant becomes Anthropic's top-tier Global Premier Partner, expanding Claude across its industry platforms",
-          "note": "More than 30,000 Cognizant employees now trained on Claude as the firm embeds it into client systems across manufacturing, life sciences and insurance",
-          "url": "https://www.anthropic.com/news/cognizant-anthropic"
+          "id": "openai-cuts-gpt-5-6-luna-terra-prices",
+          "title": "OpenAI slashes GPT-5.6 Luna price 80%, cuts Terra 20%, three weeks after launch",
+          "note": "Luna drops to $0.20/$1.20 per million tokens as inference optimizations cut serving costs 20%",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
+        },
+        {
+          "id": "pilot-protocol-stealth-4-5m-agent-internet",
+          "title": "Pilot Protocol launches from stealth with $4.5M to build 'the internet for AI agents'",
+          "note": "Version One Ventures-led seed backs an agent app store already logging 30,000+ autonomous installs and agent-to-agent payments",
+          "url": "https://www.businesswire.com/news/home/20260724693789/en/Pilot-Protocol-Launches-with-$4.5M-to-Build-the-Internet-for-Agents"
         }
       ]
     },
@@ -30,10 +29,16 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "foreclosure-auctions-q2-2026-fha-gains",
-          "title": "Foreclosure auctions climb to a 23-quarter high in Q2, with FHA loans leading the surge",
-          "note": "Completed auctions hit 66% of Q1 2020 levels, up 23% year over year, as REO supply builds in the Midwest and Sun Belt",
-          "url": "https://www.housingwire.com/articles/q2-2026-foreclosure-auctions-fha/"
+          "id": "mortgage-rates-666-one-year-high",
+          "title": "Mortgage rates climb to 6.66%, highest in over a year",
+          "note": "30-year fixed rose from 6.58% the week before, per Freddie Mac's weekly survey",
+          "url": "https://www.globenewswire.com/news-release/2026/07/30/3336279/0/en/Mortgage-Rates-Average-6-66.html"
+        },
+        {
+          "id": "fha-mortgage-defaults-down-15-percent-june",
+          "title": "New FHA mortgage defaults fall 15% year over year, largest drop in four years",
+          "note": "ICE's June data shows new default activity leveling off even as serious delinquencies sit at pre-pandemic levels",
+          "url": "https://www.housingwire.com/articles/mortgage-defaults-june-fha/"
         }
       ]
     },
@@ -42,22 +47,16 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "encore-ai-30m-series-a-team8-voice-agents",
-          "title": "Encore AI raises $30M Series A to teach AI agents how top employees close deals",
-          "note": "Team8-led round backs the Israeli startup's revenue-focused voice agents for banks and insurers, formerly known as Insait",
-          "url": "https://www.calcalistech.com/ctechnews/article/bj2hmdvsmg"
+          "id": "cyera-acquires-oasis-security-1b",
+          "title": "Cyera to acquire Israeli AI-agent security startup Oasis Security for $1 billion",
+          "note": "Cash-and-stock deal is Cyera's sixth acquisition since 2024, aimed at securing non-human identities as AI agents proliferate",
+          "url": "https://www.timesofisrael.com/cyera-to-acquire-israeli-ai-startup-oasis-security-in-1-billion-deal/"
         },
         {
-          "id": "onyx-security-113m-series-b-bessemer",
-          "title": "Onyx Security raises $113M Series B just four months after stealth, hits $640M valuation",
-          "note": "Bessemer-led round follows 4x revenue growth and a new Anthropic integration to secure enterprise AI agents",
-          "url": "https://www.calcalistech.com/ctechnews/article/b1fsjydszg"
-        },
-        {
-          "id": "aleph-fund-v-300m-israeli-founders",
-          "title": "Aleph raises $300M for Fund V to keep backing early-stage Israeli founders",
-          "note": "The early-stage firm stays the course, continuing to fund Israeli companies built for global markets",
-          "url": "https://www.timesofisrael.com/israeli-venture-capital-firm-aleph-raises-300m-fund-for-early-stage-investments/"
+          "id": "mate-security-35m-series-a-team8",
+          "title": "Mate Security raises $35M Series A, tops $50M total eight months after stealth",
+          "note": "Canaan Partners-led round with Team8 and Microsoft's M12 backs the Wiz/Microsoft-founded startup's AI-native security operations platform",
+          "url": "https://www.calcalistech.com/ctechnews/article/ryb30q8bge"
         }
       ]
     }
