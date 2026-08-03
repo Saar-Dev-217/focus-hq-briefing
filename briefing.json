@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "topics": [
     {
       "id": "my-market",
@@ -11,52 +11,45 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "openai-cuts-gpt-5-6-luna-terra-prices",
-          "title": "OpenAI slashes GPT-5.6 Luna price 80%, cuts Terra 20%, three weeks after launch",
-          "note": "Luna drops to $0.20/$1.20 per million tokens as inference optimizations cut serving costs 20%",
-          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
+          "id": "databahn-40m-series-b-agentic-data-plane",
+          "title": "DataBahn raises $40M Series B for its agentic data control plane",
+          "note": "Insight Partners-led round pushes total funding to $59M, cites 400%+ YoY revenue growth",
+          "url": "https://www.prnewswire.com/news-releases/databahn-raises-40-million-series-b-led-by-insight-partners-to-accelerate-innovation-across-the-agentic-data-control-plane-302838690.html"
         },
         {
-          "id": "pilot-protocol-stealth-4-5m-agent-internet",
-          "title": "Pilot Protocol launches from stealth with $4.5M to build 'the internet for AI agents'",
-          "note": "Version One Ventures-led seed backs an agent app store already logging 30,000+ autonomous installs and agent-to-agent payments",
-          "url": "https://www.businesswire.com/news/home/20260724693789/en/Pilot-Protocol-Launches-with-$4.5M-to-Build-the-Internet-for-Agents"
+          "id": "microsoft-project-perception-public-preview",
+          "title": "Microsoft's 'Project Perception' agentic security platform enters public preview",
+          "note": "Red, blue and green AI agents hunt, triage and patch vulnerabilities, built on new MAI-Cyber-1 model",
+          "url": "https://www.axios.com/2026/07/27/microsoft-unveils-new-cyber-model-agentic-security-tools-to-fight-hackers"
         }
       ]
     },
     {
       "id": "us-real-estate",
       "title": "US real estate",
-      "items": [
-        {
-          "id": "mortgage-rates-666-one-year-high",
-          "title": "Mortgage rates climb to 6.66%, highest in over a year",
-          "note": "30-year fixed rose from 6.58% the week before, per Freddie Mac's weekly survey",
-          "url": "https://www.globenewswire.com/news-release/2026/07/30/3336279/0/en/Mortgage-Rates-Average-6-66.html"
-        },
-        {
-          "id": "fha-mortgage-defaults-down-15-percent-june",
-          "title": "New FHA mortgage defaults fall 15% year over year, largest drop in four years",
-          "note": "ICE's June data shows new default activity leveling off even as serious delinquencies sit at pre-pandemic levels",
-          "url": "https://www.housingwire.com/articles/mortgage-defaults-june-fha/"
-        }
-      ]
+      "items": []
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
       "items": [
         {
-          "id": "cyera-acquires-oasis-security-1b",
-          "title": "Cyera to acquire Israeli AI-agent security startup Oasis Security for $1 billion",
-          "note": "Cash-and-stock deal is Cyera's sixth acquisition since 2024, aimed at securing non-human identities as AI agents proliferate",
-          "url": "https://www.timesofisrael.com/cyera-to-acquire-israeli-ai-startup-oasis-security-in-1-billion-deal/"
+          "id": "xsight-labs-300m-series-2-8b-valuation",
+          "title": "Israeli chipmaker Xsight Labs raises $300M+ at $2.8B valuation",
+          "note": "Fidelity-led round backs programmable networking silicon competing with Nvidia in AI data centers",
+          "url": "https://www.calcalistech.com/ctechnews/article/ckx61yj8q"
         },
         {
-          "id": "mate-security-35m-series-a-team8",
-          "title": "Mate Security raises $35M Series A, tops $50M total eight months after stealth",
-          "note": "Canaan Partners-led round with Team8 and Microsoft's M12 backs the Wiz/Microsoft-founded startup's AI-native security operations platform",
-          "url": "https://www.calcalistech.com/ctechnews/article/ryb30q8bge"
+          "id": "groundcover-100m-series-c-datadog",
+          "title": "groundcover raises $100M Series C, says it wants to 'replace Datadog'",
+          "note": "One Peak-led round at $500M valuation, 4x its prior mark, for AI-era observability",
+          "url": "https://www.calcalistech.com/ctechnews/article/r19aupvrme"
+        },
+        {
+          "id": "razer-acquires-streamelements-rescue-deal",
+          "title": "Razer acquires Israeli-founded StreamElements in rescue deal",
+          "note": "Deal closes for far less than the $111M StreamElements raised after months of layoffs and buyer search",
+          "url": "https://www.calcalistech.com/ctechnews/article/jkbot0om6"
         }
       ]
     }
