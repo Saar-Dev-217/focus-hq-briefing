@@ -1,55 +1,63 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": []
+      "items": [
+        {
+          "id": "buildforce-10m-series-a-electricians",
+          "title": "Buildforce raises $10M Series A to staff electricians nationally",
+          "note": "Saepio-led round backs the largest tech-enabled electrician staffing platform as it expands across the US",
+          "url": "https://www.prnewswire.com/news-releases/buildforce-raises-10m-series-a-to-staff-electricians-nationally-302837071.html"
+        },
+        {
+          "id": "dwelly-170m-series-b-ai-lettings-rollup",
+          "title": "AI proptech rollup Dwelly raises $170M Series B",
+          "note": "EQT Growth-led round backs its buy-and-automate strategy for UK letting agencies, total funding tops $260M in under a year",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-28/ai-startup-dwelly-raises-170-million-for-real-estate-rollup"
+        }
+      ]
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "databahn-40m-series-b-agentic-data-plane",
-          "title": "DataBahn raises $40M Series B for its agentic data control plane",
-          "note": "Insight Partners-led round pushes total funding to $59M, cites 400%+ YoY revenue growth",
-          "url": "https://www.prnewswire.com/news-releases/databahn-raises-40-million-series-b-led-by-insight-partners-to-accelerate-innovation-across-the-agentic-data-control-plane-302838690.html"
-        },
-        {
-          "id": "microsoft-project-perception-public-preview",
-          "title": "Microsoft's 'Project Perception' agentic security platform enters public preview",
-          "note": "Red, blue and green AI agents hunt, triage and patch vulnerabilities, built on new MAI-Cyber-1 model",
-          "url": "https://www.axios.com/2026/07/27/microsoft-unveils-new-cyber-model-agentic-security-tools-to-fight-hackers"
+          "id": "openai-astra-solves-10-math-problems",
+          "title": "OpenAI's unreleased Astra model solves 10 decades-old math problems",
+          "note": "Formal Lean proofs published on GitHub for problems open since 1999, cost about $2,000 in API compute per Brockman",
+          "url": "https://openai.com/index/ten-advances-in-mathematics/"
         }
       ]
     },
     {
       "id": "us-real-estate",
       "title": "US real estate",
-      "items": []
+      "items": [
+        {
+          "id": "missouri-sb973-wholesaler-disclosure-law",
+          "title": "Missouri signs wholesaler disclosure law, effective August 28",
+          "note": "SB 973 requires 14-day advance disclosure before a wholesaler can contract, sellers can cancel and reclaim earnest money",
+          "url": "https://governor.mo.gov/press-releases/archive/governor-kehoe-takes-action-remaining-legislation"
+        }
+      ]
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
       "items": [
         {
-          "id": "xsight-labs-300m-series-2-8b-valuation",
-          "title": "Israeli chipmaker Xsight Labs raises $300M+ at $2.8B valuation",
-          "note": "Fidelity-led round backs programmable networking silicon competing with Nvidia in AI data centers",
-          "url": "https://www.calcalistech.com/ctechnews/article/ckx61yj8q"
+          "id": "arrakis-security-8m-seed-ai-agent-governance",
+          "title": "Ex-Palantir and Torq founders raise $8M to police enterprise AI agents",
+          "note": "Arrakis Security's Hetz Ventures-led seed builds monitoring for autonomous agents acting without human oversight",
+          "url": "https://www.calcalistech.com/ctechnews/article/hyklcf2bgg"
         },
         {
-          "id": "groundcover-100m-series-c-datadog",
-          "title": "groundcover raises $100M Series C, says it wants to 'replace Datadog'",
-          "note": "One Peak-led round at $500M valuation, 4x its prior mark, for AI-era observability",
-          "url": "https://www.calcalistech.com/ctechnews/article/r19aupvrme"
-        },
-        {
-          "id": "razer-acquires-streamelements-rescue-deal",
-          "title": "Razer acquires Israeli-founded StreamElements in rescue deal",
-          "note": "Deal closes for far less than the $111M StreamElements raised after months of layoffs and buyer search",
-          "url": "https://www.calcalistech.com/ctechnews/article/jkbot0om6"
+          "id": "harmony-34m-seed-ai-workplace-agents",
+          "title": "Ex-Epsagon founders raise $34M for AI workplace-agent startup Harmony",
+          "note": "Lightspeed-led seed puts AI agents in Slack and Teams to handle IT, HR and finance requests",
+          "url": "https://www.calcalistech.com/ctechnews/article/sj0nhfurmx"
         }
       ]
     }
