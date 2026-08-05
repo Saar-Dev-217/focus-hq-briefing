@@ -1,63 +1,55 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": [
-        {
-          "id": "buildforce-10m-series-a-electricians",
-          "title": "Buildforce raises $10M Series A to staff electricians nationally",
-          "note": "Saepio-led round backs the largest tech-enabled electrician staffing platform as it expands across the US",
-          "url": "https://www.prnewswire.com/news-releases/buildforce-raises-10m-series-a-to-staff-electricians-nationally-302837071.html"
-        },
-        {
-          "id": "dwelly-170m-series-b-ai-lettings-rollup",
-          "title": "AI proptech rollup Dwelly raises $170M Series B",
-          "note": "EQT Growth-led round backs its buy-and-automate strategy for UK letting agencies, total funding tops $260M in under a year",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/ai-startup-dwelly-raises-170-million-for-real-estate-rollup"
-        }
-      ]
+      "items": []
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "openai-astra-solves-10-math-problems",
-          "title": "OpenAI's unreleased Astra model solves 10 decades-old math problems",
-          "note": "Formal Lean proofs published on GitHub for problems open since 1999, cost about $2,000 in API compute per Brockman",
-          "url": "https://openai.com/index/ten-advances-in-mathematics/"
+          "id": "june-ai-20m-preseed-enterprise-ai-deployment",
+          "title": "Ex-Salesforce team raises $20M to fix enterprise AI deployment",
+          "note": "Benioff's Time Ventures leads June AI's pre-seed, founders previously built Bonobo AI which Salesforce acquired",
+          "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/"
+        },
+        {
+          "id": "anthropic-15b-debt-texas-data-center-google",
+          "title": "Banks line up $15B in debt for Anthropic's Texas AI data center",
+          "note": "Morgan Stanley-led financing is backstopped by Google, which takes roughly a 20% equity stake in the project",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-30/banks-line-up-15-billion-of-debt-for-anthropic-with-google-aid"
         }
       ]
     },
     {
       "id": "us-real-estate",
       "title": "US real estate",
-      "items": [
-        {
-          "id": "missouri-sb973-wholesaler-disclosure-law",
-          "title": "Missouri signs wholesaler disclosure law, effective August 28",
-          "note": "SB 973 requires 14-day advance disclosure before a wholesaler can contract, sellers can cancel and reclaim earnest money",
-          "url": "https://governor.mo.gov/press-releases/archive/governor-kehoe-takes-action-remaining-legislation"
-        }
-      ]
+      "items": []
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
       "items": [
         {
-          "id": "arrakis-security-8m-seed-ai-agent-governance",
-          "title": "Ex-Palantir and Torq founders raise $8M to police enterprise AI agents",
-          "note": "Arrakis Security's Hetz Ventures-led seed builds monitoring for autonomous agents acting without human oversight",
-          "url": "https://www.calcalistech.com/ctechnews/article/hyklcf2bgg"
+          "id": "visa-biocatch-24b-acquisition",
+          "title": "Visa to acquire Israeli fraud-detection firm BioCatch for $2.4B",
+          "note": "Behavioral biometrics deal targets AI-driven account takeovers and scams, closes by mid-2027",
+          "url": "https://www.timesofisrael.com/visa-to-buy-israeli-cyber-firm-for-2-4-billion-to-fight-ai-driven-scams/"
         },
         {
-          "id": "harmony-34m-seed-ai-workplace-agents",
-          "title": "Ex-Epsagon founders raise $34M for AI workplace-agent startup Harmony",
-          "note": "Lightspeed-led seed puts AI agents in Slack and Teams to handle IT, HR and finance requests",
-          "url": "https://www.calcalistech.com/ctechnews/article/sj0nhfurmx"
+          "id": "zenity-125m-series-c-ai-agent-security",
+          "title": "Zenity raises $125M Series C to secure AI agents",
+          "note": "Norwest-led round adds SoftBank Vision Fund 2 and Intel Capital as enterprises race to lock down autonomous agents",
+          "url": "https://www.calcalistech.com/ctechnews/article/b1ahbbcbfe"
+        },
+        {
+          "id": "openai-israel-aws-executive-hire",
+          "title": "OpenAI deepens Israel push with senior AWS hire",
+          "note": "Eliran Ben David to run startup and enterprise partnerships as OpenAI builds its first local commercial team",
+          "url": "https://www.calcalistech.com/ctechnews/article/dpxhq0bmh"
         }
       ]
     }
