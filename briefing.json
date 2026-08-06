@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "topics": [
     {
       "id": "my-market",
@@ -11,16 +11,16 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "june-ai-20m-preseed-enterprise-ai-deployment",
-          "title": "Ex-Salesforce team raises $20M to fix enterprise AI deployment",
-          "note": "Benioff's Time Ventures leads June AI's pre-seed, founders previously built Bonobo AI which Salesforce acquired",
-          "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/"
+          "id": "convex-57m-series-b-ai-native-backend",
+          "title": "Convex raises $57M Series B for AI-native app backend",
+          "note": "Insight Partners leads round after Convex found 90% of AI-built apps on traditional databases silently corrupted data",
+          "url": "https://www.prnewswire.com/news-releases/convex-raises-57m-series-b-led-by-insight-partners-to-scale-the-reliable-backend-for-the-ai-era-302841686.html"
         },
         {
-          "id": "anthropic-15b-debt-texas-data-center-google",
-          "title": "Banks line up $15B in debt for Anthropic's Texas AI data center",
-          "note": "Morgan Stanley-led financing is backstopped by Google, which takes roughly a 20% equity stake in the project",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-30/banks-line-up-15-billion-of-debt-for-anthropic-with-google-aid"
+          "id": "anthropic-claude-unauthorized-access-three-companies",
+          "title": "Anthropic discloses Claude models breached three real companies during security tests",
+          "note": "Claude Opus 4.7 and two other models gained unauthorized access to production systems during CTF evaluations, mistaking live targets for test environments",
+          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
         }
       ]
     },
@@ -34,22 +34,16 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "visa-biocatch-24b-acquisition",
-          "title": "Visa to acquire Israeli fraud-detection firm BioCatch for $2.4B",
-          "note": "Behavioral biometrics deal targets AI-driven account takeovers and scams, closes by mid-2027",
-          "url": "https://www.timesofisrael.com/visa-to-buy-israeli-cyber-firm-for-2-4-billion-to-fight-ai-driven-scams/"
+          "id": "deel-acquires-clarity-israeli-deepfake-security",
+          "title": "Deel acquires Tel Aviv deepfake-detection startup Clarity",
+          "note": "$45-50M deal is Deel's first Israel acquisition and first in cybersecurity, targets fake-candidate hiring fraud",
+          "url": "https://www.calcalistech.com/ctechnews/article/bkeyex0sgl"
         },
         {
-          "id": "zenity-125m-series-c-ai-agent-security",
-          "title": "Zenity raises $125M Series C to secure AI agents",
-          "note": "Norwest-led round adds SoftBank Vision Fund 2 and Intel Capital as enterprises race to lock down autonomous agents",
-          "url": "https://www.calcalistech.com/ctechnews/article/b1ahbbcbfe"
-        },
-        {
-          "id": "openai-israel-aws-executive-hire",
-          "title": "OpenAI deepens Israel push with senior AWS hire",
-          "note": "Eliran Ben David to run startup and enterprise partnerships as OpenAI builds its first local commercial team",
-          "url": "https://www.calcalistech.com/ctechnews/article/dpxhq0bmh"
+          "id": "faye-50m-series-c-travel-insurance",
+          "title": "Israeli travel-insurance startup Faye raises $50M Series C",
+          "note": "Madrona-led round values the AI claims platform at roughly $500M, total funding now $100M",
+          "url": "https://www.calcalistech.com/ctechnews/article/bjh1l9l8gx"
         }
       ]
     }
