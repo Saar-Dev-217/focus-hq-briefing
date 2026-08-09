@@ -1,49 +1,69 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-09",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": []
+      "items": [
+        {
+          "id": "dili-22m-series-a-ai-compliance-infrastructure",
+          "title": "Dili raises $21.7M to bring AI compliance to the US infrastructure boom",
+          "note": "Khosla Ventures leads Series A for a platform that automates Davis-Bacon prevailing-wage and certified-payroll compliance on federal construction projects",
+          "url": "https://www.globenewswire.com/news-release/2026/07/30/3336377/0/en/dili-raises-21-7m-from-khosla-ventures-to-bring-ai-powered-assurance-to-america-s-infrastructure-boom.html"
+        }
+      ]
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "convex-57m-series-b-ai-native-backend",
-          "title": "Convex raises $57M Series B for AI-native app backend",
-          "note": "Insight Partners leads round after Convex found 90% of AI-built apps on traditional databases silently corrupted data",
-          "url": "https://www.prnewswire.com/news-releases/convex-raises-57m-series-b-led-by-insight-partners-to-scale-the-reliable-backend-for-the-ai-era-302841686.html"
+          "id": "olix-312m-series-b-photonic-ai-chips",
+          "title": "OLIX Computing raises $312M for photonic AI inference chips",
+          "note": "Netflix co-founder Reed Hastings and Arm back Europe's largest-ever chip funding round at a $3.3B valuation",
+          "url": "https://siliconangle.com/2026/08/03/netflix-co-founder-backs-312m-round-optical-inference-appliance-maker-olix/"
         },
         {
-          "id": "anthropic-claude-unauthorized-access-three-companies",
-          "title": "Anthropic discloses Claude models breached three real companies during security tests",
-          "note": "Claude Opus 4.7 and two other models gained unauthorized access to production systems during CTF evaluations, mistaking live targets for test environments",
-          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
+          "id": "openai-gpt-5-6-luna-default-free-tier",
+          "title": "OpenAI makes GPT-5.6 Luna the default free-tier ChatGPT model",
+          "note": "Free and Go users get unlimited chats and a new Think button as the paid Sol model gets a factual-accuracy tune-up",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/"
         }
       ]
     },
     {
       "id": "us-real-estate",
       "title": "US real estate",
-      "items": []
+      "items": [
+        {
+          "id": "mortgage-rates-669-11-month-high",
+          "title": "Mortgage rates climb to 6.69%, near an 11-month high",
+          "note": "Freddie Mac's 30-year fixed average ticked up from 6.66% the week before",
+          "url": "https://www.globenewswire.com/news-release/2026/08/06/3340559/0/en/mortgage-rates-average-6-69.html"
+        },
+        {
+          "id": "rcn-investor-sentiment-record-low",
+          "title": "Real-estate investor sentiment hits a record low",
+          "note": "RCN Capital's Summer 2026 index falls to 84 as just 26% of investors call conditions better than a year ago",
+          "url": "https://www.prnewswire.com/news-releases/real-estate-investor-optimism-dips-to-record-low-according-to-summer-2026-rcn-capital-investor-sentiment-survey-302841437.html"
+        }
+      ]
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
       "items": [
         {
-          "id": "deel-acquires-clarity-israeli-deepfake-security",
-          "title": "Deel acquires Tel Aviv deepfake-detection startup Clarity",
-          "note": "$45-50M deal is Deel's first Israel acquisition and first in cybersecurity, targets fake-candidate hiring fraud",
-          "url": "https://www.calcalistech.com/ctechnews/article/bkeyex0sgl"
+          "id": "oligo-security-60m-runtime-security",
+          "title": "Oligo Security raises $60M as AI-driven attacks push runtime security demand",
+          "note": "Tel Aviv startup's valuation doubles on 300% ARR growth, brings total funding to $140M",
+          "url": "https://www.calcalistech.com/ctechnews/article/ryr00n81umg"
         },
         {
-          "id": "faye-50m-series-c-travel-insurance",
-          "title": "Israeli travel-insurance startup Faye raises $50M Series C",
-          "note": "Madrona-led round values the AI claims platform at roughly $500M, total funding now $100M",
-          "url": "https://www.calcalistech.com/ctechnews/article/bjh1l9l8gx"
+          "id": "marquee-4m-seed-sports-ai-recruitment",
+          "title": "Tel Aviv sports-intelligence startup Marquee raises $4M seed",
+          "note": "Total funding hits $6.5M as the AI recruitment platform expands to US and UK offices",
+          "url": "https://www.calcalistech.com/ctechnews/article/kbfidxotv"
         }
       ]
     }
