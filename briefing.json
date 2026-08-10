@@ -1,33 +1,32 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": [
-        {
-          "id": "dili-22m-series-a-ai-compliance-infrastructure",
-          "title": "Dili raises $21.7M to bring AI compliance to the US infrastructure boom",
-          "note": "Khosla Ventures leads Series A for a platform that automates Davis-Bacon prevailing-wage and certified-payroll compliance on federal construction projects",
-          "url": "https://www.globenewswire.com/news-release/2026/07/30/3336377/0/en/dili-raises-21-7m-from-khosla-ventures-to-bring-ai-powered-assurance-to-america-s-infrastructure-boom.html"
-        }
-      ]
+      "items": []
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "olix-312m-series-b-photonic-ai-chips",
-          "title": "OLIX Computing raises $312M for photonic AI inference chips",
-          "note": "Netflix co-founder Reed Hastings and Arm back Europe's largest-ever chip funding round at a $3.3B valuation",
-          "url": "https://siliconangle.com/2026/08/03/netflix-co-founder-backs-312m-round-optical-inference-appliance-maker-olix/"
+          "id": "volta-infra-300m-anthropic-compute-deal",
+          "title": "Volta Infra raises $300M at $2.4B valuation for AI cloud infrastructure",
+          "note": "Nvidia and Michael Dell join the a16z/Altimeter round, bundled with a $10B, six-year compute deal with Anthropic",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-04/nvidia-dell-back-ai-cloud-startup-volta-at-2-4-billion-value"
         },
         {
-          "id": "openai-gpt-5-6-luna-default-free-tier",
-          "title": "OpenAI makes GPT-5.6 Luna the default free-tier ChatGPT model",
-          "note": "Free and Go users get unlimited chats and a new Think button as the paid Sol model gets a factual-accuracy tune-up",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/"
+          "id": "meta-muse-spark-1-2-muse-code",
+          "title": "Meta ships Muse Code and Muse Spark 1.2 for agentic coding",
+          "note": "New terminal coding agent jumps to 82.9% on Terminal-Bench 2.1, up from 76.2% for the prior version",
+          "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2"
+        },
+        {
+          "id": "naive-28-5m-series-a-company-automation-agents",
+          "title": "Naïve raises $28.5M to automate company setup and back-office work with AI agents",
+          "note": "Nexus Venture Partners leads Series A for agent templates spanning SEO, SaaS, recruiting, accounting and support",
+          "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/"
         }
       ]
     },
@@ -36,16 +35,16 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "mortgage-rates-669-11-month-high",
-          "title": "Mortgage rates climb to 6.69%, near an 11-month high",
-          "note": "Freddie Mac's 30-year fixed average ticked up from 6.66% the week before",
-          "url": "https://www.globenewswire.com/news-release/2026/08/06/3340559/0/en/mortgage-rates-average-6-69.html"
+          "id": "louisiana-act-807-wholesaling-cancellation-notice",
+          "title": "Louisiana's new wholesaling law takes effect, mandatory cancellation notice now required",
+          "note": "Act 807 gives sellers a right to cancel and requires a minimum 1% escrowed deposit, effective August 1",
+          "url": "https://lrec.gov/blog/new-wholesaling-residential-real-property-mandatory-cancellation-notice-now-available"
         },
         {
-          "id": "rcn-investor-sentiment-record-low",
-          "title": "Real-estate investor sentiment hits a record low",
-          "note": "RCN Capital's Summer 2026 index falls to 84 as just 26% of investors call conditions better than a year ago",
-          "url": "https://www.prnewswire.com/news-releases/real-estate-investor-optimism-dips-to-record-low-according-to-summer-2026-rcn-capital-investor-sentiment-survey-302841437.html"
+          "id": "inman-weak-jobs-report-homebuyer-silver-lining",
+          "title": "Weak July jobs report gives homebuyers a silver lining",
+          "note": "Economy lost 23,000 jobs, raising odds the Fed holds rates steady and eases affordability pressure",
+          "url": "https://www.inman.com/2026/08/07/weak-july-2026-jobs-report-home-buyer-impact/"
         }
       ]
     },
@@ -54,16 +53,16 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "oligo-security-60m-runtime-security",
-          "title": "Oligo Security raises $60M as AI-driven attacks push runtime security demand",
-          "note": "Tel Aviv startup's valuation doubles on 300% ARR growth, brings total funding to $140M",
-          "url": "https://www.calcalistech.com/ctechnews/article/ryr00n81umg"
+          "id": "crowdstrike-invests-above-security-insider-threat",
+          "title": "CrowdStrike's Falcon Fund makes strategic investment in Israeli startup Above Security",
+          "note": "Tel Aviv insider-threat platform gets deeper Falcon integration just 5 months after its $43M Series A",
+          "url": "https://www.prnewswire.com/news-releases/above-security-announces-strategic-investment-from-the-crowdstrike-falcon-fund-furthering-its-mission-to-democratize-elite-insider-risk-management-302842676.html"
         },
         {
-          "id": "marquee-4m-seed-sports-ai-recruitment",
-          "title": "Tel Aviv sports-intelligence startup Marquee raises $4M seed",
-          "note": "Total funding hits $6.5M as the AI recruitment platform expands to US and UK offices",
-          "url": "https://www.calcalistech.com/ctechnews/article/kbfidxotv"
+          "id": "index-ventures-3-5b-israel-ai-expansion",
+          "title": "Index Ventures raises $3.5B, earmarks fresh capital for Israeli startups",
+          "note": "New seed, venture and growth funds follow the firm's roughly $3.8B payout from Google's Wiz acquisition",
+          "url": "https://www.calcalistech.com/ctechnews/article/hy3lfltbml"
         }
       ]
     }
