@@ -1,21 +1,21 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
       "items": [
         {
-          "id": "navvis-85m-series-d-physical-ai",
-          "title": "NavVis raises $85M Series D to supply the data foundation for physical AI",
-          "note": "The Jordan Company leads the round for the Munich-based spatial-data startup used by BMW, Toyota and ExxonMobil",
-          "url": "https://www.businesswire.com/news/home/20260806905221/en/NavVis-Raises-USD-85M-Series-D-Round-to-Supply-the-Data-Foundation-for-Physical-AI"
+          "id": "zillow-500-layoffs-second-round",
+          "title": "Zillow cuts 500+ jobs in its largest layoff of 2026",
+          "note": "Second round this year, about 7% of staff, even as Q2 revenue rose 18% in a flat housing market",
+          "url": "https://www.housingwire.com/articles/zillow-layoffs-restructuring-500/"
         },
         {
-          "id": "bnp-group-acquires-us-cost",
-          "title": "Godspeed-backed BNP Group acquires cost-management firm U.S. Cost from Schneider Electric",
-          "note": "Fourth acquisition this year adds construction estimating and project-controls services to BNP's infrastructure consulting platform",
-          "url": "https://www.businesswire.com/news/home/20260804294256/en/Godspeed-Backed-BNP-Group-Acquires-U.S.-Cost-Incorporated"
+          "id": "omilia-67m-series-b-agentic-cx",
+          "title": "Omilia raises $67M Series B for its agentic CX platform",
+          "note": "Expedition Growth Capital leads; ARR up 10x since Series A to over $60M serving Capital One, Discover, RBC",
+          "url": "https://www.businesswire.com/news/home/20260806641060/en/Omilia-Secures-%2467-Million-in-Series-B-Funding-to-Accelerate-Global-Expansion-of-Its-Agentic-Self-Learning-CX-Platform-for-Large-Enterprises"
         }
       ]
     },
@@ -24,10 +24,16 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "anthropic-custom-chip-design-team",
-          "title": "Anthropic builds in-house team to design custom AI chips",
-          "note": "Hiring senior chip engineers at salaries up to $485K to co-design silicon and models and cut Claude inference costs",
-          "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/"
+          "id": "openai-gpt-5-6-cyber-launch",
+          "title": "OpenAI launches GPT-5.6-Cyber, a gated offense-grade security model",
+          "note": "95% completion on advanced cybersecurity tasks vs 1.5% for base model, access restricted to vetted defenders via Daybreak Red",
+          "url": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks"
+        },
+        {
+          "id": "sapiom-35m-series-a-agent-infra",
+          "title": "Sapiom raises $35M Series A to run AI agents in production",
+          "note": "Dragonfly-led round with Anthropic participating; already handling 270M+ transactions and 100K agent runs a day",
+          "url": "https://www.businesswire.com/news/home/20260805915898/en/Sapiom-Raises-%2435-Million-Series-A-to-Power-the-Next-Trillion-AI-Agents"
         }
       ]
     },
@@ -36,17 +42,36 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "ice-home-equity-delinquency-record-18t",
-          "title": "Home equity hits record $18T even as mortgage delinquencies climb",
-          "note": "ICE data shows underwater borrowers up 44% YoY and FHA/VA serious delinquencies rising, concentrated in Texas and Florida",
-          "url": "https://www.housingwire.com/articles/ice-homeowner-equity-delinquency/"
+          "id": "nar-existing-home-sales-july-drop",
+          "title": "Existing-home sales fall to a three-month low as rates hit a one-year high",
+          "note": "NAR reports a 1.7% July drop to a 4.06M annualized rate while the median price sets a 37th straight monthly record",
+          "url": "https://www.nar.realtor/newsroom/nar-existing-home-sales-report-shows-1-7-decrease-in-july"
+        },
+        {
+          "id": "uwm-2-05b-capital-raise-q2-loss",
+          "title": "UWM raises $2.05B after a $451.9M Q2 loss and suspends its dividend",
+          "note": "A $603M derivatives loss tied to its Two Harbors MSR bid nearly halved equity and tripled leverage at the largest US mortgage lender",
+          "url": "https://www.housingwire.com/articles/uwm-2-05b-capital-q2-loss/"
         }
       ]
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
-      "items": []
+      "items": [
+        {
+          "id": "onyx-security-113m-series-b",
+          "title": "Onyx Security raises $113M Series B at a $640M valuation",
+          "note": "Bessemer-led round for AI agent governance comes just four months after a $40M stealth exit, backed by Cyberstarts",
+          "url": "https://www.calcalistech.com/ctechnews/article/b1fsjydszg"
+        },
+        {
+          "id": "xsight-labs-300m-chip-round",
+          "title": "Xsight Labs raises $300M at a $2.8B valuation for AI networking chips",
+          "note": "Fidelity-led round for the Tel Aviv DPU maker whose silicon just completed testing in SpaceX's new satellites",
+          "url": "https://www.calcalistech.com/ctechnews/article/ckx61yj8q"
+        }
+      ]
     }
   ]
 }
