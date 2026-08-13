@@ -1,39 +1,32 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": [
-        {
-          "id": "zillow-500-layoffs-second-round",
-          "title": "Zillow cuts 500+ jobs in its largest layoff of 2026",
-          "note": "Second round this year, about 7% of staff, even as Q2 revenue rose 18% in a flat housing market",
-          "url": "https://www.housingwire.com/articles/zillow-layoffs-restructuring-500/"
-        },
-        {
-          "id": "omilia-67m-series-b-agentic-cx",
-          "title": "Omilia raises $67M Series B for its agentic CX platform",
-          "note": "Expedition Growth Capital leads; ARR up 10x since Series A to over $60M serving Capital One, Discover, RBC",
-          "url": "https://www.businesswire.com/news/home/20260806641060/en/Omilia-Secures-%2467-Million-in-Series-B-Funding-to-Accelerate-Global-Expansion-of-Its-Agentic-Self-Learning-CX-Platform-for-Large-Enterprises"
-        }
-      ]
+      "items": []
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "openai-gpt-5-6-cyber-launch",
-          "title": "OpenAI launches GPT-5.6-Cyber, a gated offense-grade security model",
-          "note": "95% completion on advanced cybersecurity tasks vs 1.5% for base model, access restricted to vetted defenders via Daybreak Red",
-          "url": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks"
+          "id": "cognition-40b-valuation-talks",
+          "title": "Cognition, maker of AI coding agent Devin, in talks to raise at a $40B valuation",
+          "note": "Up from $26B in May after hitting a $492M annualized revenue run rate, enterprise Devin usage up 50% month over month",
+          "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
         },
         {
-          "id": "sapiom-35m-series-a-agent-infra",
-          "title": "Sapiom raises $35M Series A to run AI agents in production",
-          "note": "Dragonfly-led round with Anthropic participating; already handling 270M+ transactions and 100K agent runs a day",
-          "url": "https://www.businesswire.com/news/home/20260805915898/en/Sapiom-Raises-%2435-Million-Series-A-to-Power-the-Next-Trillion-AI-Agents"
+          "id": "gemini-app-1-billion-users",
+          "title": "Google's Gemini app surges to 1 billion monthly users",
+          "note": "Google's fastest-growing product ever, reaching the mark within a month of hitting 950 million",
+          "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/"
+        },
+        {
+          "id": "meta-muse-glimmer-open-weight",
+          "title": "Meta releases Muse Glimmer, an open-weight model built for AI agents on consumer hardware",
+          "note": "30B-parameter open version of Muse Spark under Apache 2.0, aimed at running personal agents locally",
+          "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/"
         }
       ]
     },
@@ -42,16 +35,10 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "nar-existing-home-sales-july-drop",
-          "title": "Existing-home sales fall to a three-month low as rates hit a one-year high",
-          "note": "NAR reports a 1.7% July drop to a 4.06M annualized rate while the median price sets a 37th straight monthly record",
-          "url": "https://www.nar.realtor/newsroom/nar-existing-home-sales-report-shows-1-7-decrease-in-july"
-        },
-        {
-          "id": "uwm-2-05b-capital-raise-q2-loss",
-          "title": "UWM raises $2.05B after a $451.9M Q2 loss and suspends its dividend",
-          "note": "A $603M derivatives loss tied to its Two Harbors MSR bid nearly halved equity and tripled leverage at the largest US mortgage lender",
-          "url": "https://www.housingwire.com/articles/uwm-2-05b-capital-q2-loss/"
+          "id": "home-price-cuts-near-2025-levels",
+          "title": "Home price cuts close in on last year's levels as markets battle for leverage",
+          "note": "41.44% of active listings took a price cut the week of Aug 7, nearly matching 2025 as the year-over-year gap narrows to 0.41 points",
+          "url": "https://www.housingwire.com/articles/housing-market-spotlight-price-cuts-and-the-battle-for-leverage/"
         }
       ]
     },
@@ -60,16 +47,10 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "onyx-security-113m-series-b",
-          "title": "Onyx Security raises $113M Series B at a $640M valuation",
-          "note": "Bessemer-led round for AI agent governance comes just four months after a $40M stealth exit, backed by Cyberstarts",
-          "url": "https://www.calcalistech.com/ctechnews/article/b1fsjydszg"
-        },
-        {
-          "id": "xsight-labs-300m-chip-round",
-          "title": "Xsight Labs raises $300M at a $2.8B valuation for AI networking chips",
-          "note": "Fidelity-led round for the Tel Aviv DPU maker whose silicon just completed testing in SpaceX's new satellites",
-          "url": "https://www.calcalistech.com/ctechnews/article/ckx61yj8q"
+          "id": "team8-365m-third-fund",
+          "title": "Team8 raises $365M for a new AI-native enterprise fund",
+          "note": "$265M for Fund III plus $100M+ for follow-ons, brings AUM to nearly $2B across eight funds since 2014",
+          "url": "https://en.globes.co.il/en/article-team8-raises-365m-1001552086"
         }
       ]
     }
