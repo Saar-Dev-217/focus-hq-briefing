@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-16",
   "topics": [
     {
       "id": "my-market",
@@ -11,22 +11,16 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "cognition-40b-valuation-talks",
-          "title": "Cognition, maker of AI coding agent Devin, in talks to raise at a $40B valuation",
-          "note": "Up from $26B in May after hitting a $492M annualized revenue run rate, enterprise Devin usage up 50% month over month",
-          "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
+          "id": "gemini-3-7-flash-launch",
+          "title": "Google launches Gemini 3.7 Flash, a cheaper model built for coding and AI agents",
+          "note": "Beats comparable Anthropic and OpenAI models on 9 benchmarks, priced at $0.75/$3.75 per million tokens through year-end",
+          "url": "https://siliconangle.com/2026/08/13/google-launches-gemini-3-7-flash-coding-ai-agent-projects/"
         },
         {
-          "id": "gemini-app-1-billion-users",
-          "title": "Google's Gemini app surges to 1 billion monthly users",
-          "note": "Google's fastest-growing product ever, reaching the mark within a month of hitting 950 million",
-          "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/"
-        },
-        {
-          "id": "meta-muse-glimmer-open-weight",
-          "title": "Meta releases Muse Glimmer, an open-weight model built for AI agents on consumer hardware",
-          "note": "30B-parameter open version of Muse Spark under Apache 2.0, aimed at running personal agents locally",
-          "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/"
+          "id": "river-ai-1-1b-raise",
+          "title": "xAI co-founder's River AI raises $1.1B to build an open-weight AI stack",
+          "note": "General Catalyst and AMP PBC lead the round, with Nvidia and AMD Ventures joining just two months after the company's founding",
+          "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/"
         }
       ]
     },
@@ -35,10 +29,16 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "home-price-cuts-near-2025-levels",
-          "title": "Home price cuts close in on last year's levels as markets battle for leverage",
-          "note": "41.44% of active listings took a price cut the week of Aug 7, nearly matching 2025 as the year-over-year gap narrows to 0.41 points",
-          "url": "https://www.housingwire.com/articles/housing-market-spotlight-price-cuts-and-the-battle-for-leverage/"
+          "id": "louisiana-wholesaling-act-807",
+          "title": "Louisiana's new wholesaling law takes effect, adding disclosure and cancellation rules",
+          "note": "Act 807 requires wholesalers to disclose their status, give sellers a cancellation window, and escrow deposits or face AG enforcement",
+          "url": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB468&sbi=y"
+        },
+        {
+          "id": "mortgage-rates-dip-6-67",
+          "title": "Mortgage rates dip to 6.67%, second straight weekly decline",
+          "note": "30-year fixed rate eased from 6.69% as purchase and refinance applications tick up",
+          "url": "https://www.globenewswire.com/news-release/2026/08/13/3344775/0/en/mortgage-rates-average-6-67.html"
         }
       ]
     },
@@ -47,10 +47,10 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "team8-365m-third-fund",
-          "title": "Team8 raises $365M for a new AI-native enterprise fund",
-          "note": "$265M for Fund III plus $100M+ for follow-ons, brings AUM to nearly $2B across eight funds since 2014",
-          "url": "https://en.globes.co.il/en/article-team8-raises-365m-1001552086"
+          "id": "corma-60m-seed",
+          "title": "Corma raises $60M seed to build an AI model that fights AI-powered cyberattacks",
+          "note": "Sequoia-led round for the Tel Aviv and San Francisco startup, which cut threat-response times over 94% in early deployments",
+          "url": "https://fortune.com/2026/08/10/exclusive-corma-raises-60-million-from-sequoia-for-ai-trained-to-defend-against-cyberattacks/"
         }
       ]
     }
