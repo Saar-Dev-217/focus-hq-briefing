@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "topics": [
     {
       "id": "my-market",
@@ -11,16 +11,22 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "gemini-3-7-flash-launch",
-          "title": "Google launches Gemini 3.7 Flash, a cheaper model built for coding and AI agents",
-          "note": "Beats comparable Anthropic and OpenAI models on 9 benchmarks, priced at $0.75/$3.75 per million tokens through year-end",
-          "url": "https://siliconangle.com/2026/08/13/google-launches-gemini-3-7-flash-coding-ai-agent-projects/"
+          "id": "deepseek-api-price-hike",
+          "title": "DeepSeek hikes API prices up to 1,100% as its top-ranked model stumbles on agent tasks",
+          "note": "V4 Flash tops leaderboards but completed just 53.8% of real agent tasks in new testing",
+          "url": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge"
         },
         {
-          "id": "river-ai-1-1b-raise",
-          "title": "xAI co-founder's River AI raises $1.1B to build an open-weight AI stack",
-          "note": "General Catalyst and AMP PBC lead the round, with Nvidia and AMD Ventures joining just two months after the company's founding",
-          "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/"
+          "id": "anthropic-sonnet-5-pricing-permanent",
+          "title": "Anthropic cancels planned Sonnet 5 price hike, locks in $2/$10 per million tokens for good",
+          "note": "Scheduled Sept 1 jump to $3/$15 won't happen, introductory pricing is now permanent",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5"
+        },
+        {
+          "id": "anthropic-q2-profit-ipo",
+          "title": "Anthropic's Q2 revenue tops $11.5B with its first operating profit, ahead of expected IPO",
+          "note": "Revenue up more than 14x year over year as an IPO looms as soon as this fall",
+          "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html"
         }
       ]
     },
@@ -29,16 +35,16 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "louisiana-wholesaling-act-807",
-          "title": "Louisiana's new wholesaling law takes effect, adding disclosure and cancellation rules",
-          "note": "Act 807 requires wholesalers to disclose their status, give sellers a cancellation window, and escrow deposits or face AG enforcement",
-          "url": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB468&sbi=y"
+          "id": "housing-inventory-ticks-up",
+          "title": "US housing inventory ticks up as mortgage rates hold near 6.7%",
+          "note": "Price cuts hit 41.67% of listings and pending sales turned negative year over year",
+          "url": "https://www.housingwire.com/articles/inventory-edges-higher-mid-august/"
         },
         {
-          "id": "mortgage-rates-dip-6-67",
-          "title": "Mortgage rates dip to 6.67%, second straight weekly decline",
-          "note": "30-year fixed rate eased from 6.69% as purchase and refinance applications tick up",
-          "url": "https://www.globenewswire.com/news-release/2026/08/13/3344775/0/en/mortgage-rates-average-6-67.html"
+          "id": "redfin-pending-sales-tick-up",
+          "title": "Redfin: pending home sales inch up for the first time in weeks",
+          "note": "Purchase mortgage applications rose 3% week over week even as rates sit near a one-year high",
+          "url": "https://www.prnewswire.com/news-releases/redfin-reports-us-pending-home-sales-new-listings-show-flickers-of-life-to-start-august-302850649.html"
         }
       ]
     },
@@ -47,10 +53,16 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "corma-60m-seed",
-          "title": "Corma raises $60M seed to build an AI model that fights AI-powered cyberattacks",
-          "note": "Sequoia-led round for the Tel Aviv and San Francisco startup, which cut threat-response times over 94% in early deployments",
-          "url": "https://fortune.com/2026/08/10/exclusive-corma-raises-60-million-from-sequoia-for-ai-trained-to-defend-against-cyberattacks/"
+          "id": "ourcrowd-cali-chill-ceo",
+          "title": "OurCrowd names Cali Chill permanent CEO after year as acting chief",
+          "note": "Jerusalem VC platform sharpens focus on later-stage bets and faster exits under new leadership",
+          "url": "https://www.prnewswire.com/news-releases/ourcrowd-names-cali-chill-chief-executive-officer-ushering-in-a-new-era-of-discipline-and-rare-access-302848291.html"
+        },
+        {
+          "id": "cellebrite-shares-plunge",
+          "title": "Cellebrite shares plunge up to 35% as new CEO slashes 2026 revenue outlook",
+          "note": "Shiven Ramji replaces Thomas Hogan after Q2 missed ARR guidance on delayed government deals",
+          "url": "https://www.calcalistech.com/ctechnews/article/r1kdphslml"
         }
       ]
     }
