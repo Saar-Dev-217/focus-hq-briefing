@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "topics": [
     {
       "id": "my-market",
@@ -11,22 +11,16 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "deepseek-api-price-hike",
-          "title": "DeepSeek hikes API prices up to 1,100% as its top-ranked model stumbles on agent tasks",
-          "note": "V4 Flash tops leaderboards but completed just 53.8% of real agent tasks in new testing",
-          "url": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge"
+          "id": "groq-neocloud-pivot",
+          "title": "Groq raises $350M at $3.5B valuation as it pivots from AI chips to neocloud",
+          "note": "Valuation is down from $6.9B before Nvidia poached founder Jonathan Ross and top talent in a $20B licensing deal",
+          "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
         },
         {
-          "id": "anthropic-sonnet-5-pricing-permanent",
-          "title": "Anthropic cancels planned Sonnet 5 price hike, locks in $2/$10 per million tokens for good",
-          "note": "Scheduled Sept 1 jump to $3/$15 won't happen, introductory pricing is now permanent",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5"
-        },
-        {
-          "id": "anthropic-q2-profit-ipo",
-          "title": "Anthropic's Q2 revenue tops $11.5B with its first operating profit, ahead of expected IPO",
-          "note": "Revenue up more than 14x year over year as an IPO looms as soon as this fall",
-          "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html"
+          "id": "microsoft-copilot-merge",
+          "title": "Microsoft merges its two Copilot apps, kills Group Chats, Deep Research and other flopped features",
+          "note": "Consumer and business Copilot combine into one app as underperforming features retire by today, Aug 18",
+          "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/"
         }
       ]
     },
@@ -35,16 +29,10 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "housing-inventory-ticks-up",
-          "title": "US housing inventory ticks up as mortgage rates hold near 6.7%",
-          "note": "Price cuts hit 41.67% of listings and pending sales turned negative year over year",
-          "url": "https://www.housingwire.com/articles/inventory-edges-higher-mid-august/"
-        },
-        {
-          "id": "redfin-pending-sales-tick-up",
-          "title": "Redfin: pending home sales inch up for the first time in weeks",
-          "note": "Purchase mortgage applications rose 3% week over week even as rates sit near a one-year high",
-          "url": "https://www.prnewswire.com/news-releases/redfin-reports-us-pending-home-sales-new-listings-show-flickers-of-life-to-start-august-302850649.html"
+          "id": "opendoor-first-buyback",
+          "title": "Opendoor launches its first-ever share buyback, raises $650M via 0% convertible notes",
+          "note": "Repurchased 5% of shares at $3.49 each while adding $440M in growth capital to the balance sheet",
+          "url": "https://www.realestatenews.com/2026/08/13/opendoor-makes-aggressive-move-with-158m-share-buyback"
         }
       ]
     },
@@ -53,16 +41,10 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "ourcrowd-cali-chill-ceo",
-          "title": "OurCrowd names Cali Chill permanent CEO after year as acting chief",
-          "note": "Jerusalem VC platform sharpens focus on later-stage bets and faster exits under new leadership",
-          "url": "https://www.prnewswire.com/news-releases/ourcrowd-names-cali-chill-chief-executive-officer-ushering-in-a-new-era-of-discipline-and-rare-access-302848291.html"
-        },
-        {
-          "id": "cellebrite-shares-plunge",
-          "title": "Cellebrite shares plunge up to 35% as new CEO slashes 2026 revenue outlook",
-          "note": "Shiven Ramji replaces Thomas Hogan after Q2 missed ARR guidance on delayed government deals",
-          "url": "https://www.calcalistech.com/ctechnews/article/r1kdphslml"
+          "id": "anthropic-decart-6b-talks",
+          "title": "Anthropic in advanced talks to buy Israeli AI startup Decart for $6 billion",
+          "note": "Would be Anthropic's largest-ever acquisition, aimed at cutting inference costs across chip types",
+          "url": "https://www.calcalistech.com/ctechnews/article/mrrffazk1"
         }
       ]
     }
