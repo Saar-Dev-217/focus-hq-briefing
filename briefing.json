@@ -1,26 +1,39 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": []
+      "items": [
+        {
+          "id": "gravis-robotics-softbank-200m",
+          "title": "SoftBank pours $200M into Gravis Robotics, valuing the construction-automation startup at $1B",
+          "note": "Largest-ever Series A for a construction robotics startup, retrofits excavators from JCB, Caterpillar and Hitachi with self-driving AI",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-17/softbank-invests-200-million-in-construction-startup-gravis-robotics"
+        }
+      ]
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "groq-neocloud-pivot",
-          "title": "Groq raises $350M at $3.5B valuation as it pivots from AI chips to neocloud",
-          "note": "Valuation is down from $6.9B before Nvidia poached founder Jonathan Ross and top talent in a $20B licensing deal",
-          "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
+          "id": "etched-700m-21b-jane-street",
+          "title": "AI inference chipmaker Etched raises $700M at $21B, more than doubling its valuation in a month",
+          "note": "Jane Street became its first customer after testing Etched's chip in its own data center",
+          "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
         },
         {
-          "id": "microsoft-copilot-merge",
-          "title": "Microsoft merges its two Copilot apps, kills Group Chats, Deep Research and other flopped features",
-          "note": "Consumer and business Copilot combine into one app as underperforming features retire by today, Aug 18",
-          "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/"
+          "id": "cursor-launches-origin",
+          "title": "Cursor launches Origin, a GitHub rival for AI-native code hosting",
+          "note": "Capitalizes on developer frustration with GitHub to host repos, PRs and collaborative coding work",
+          "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"
+        },
+        {
+          "id": "coderabbit-143m-series-c",
+          "title": "CodeRabbit raises $143M Series C at $1.5B, launches Agentic Change Management",
+          "note": "Runs 2M+ code reviews a week for 17,000+ customers including Nvidia and BMW, revenue up 5x year over year",
+          "url": "https://siliconangle.com/2026/08/12/coderabbit-bags-143m-help-companies-get-grip-explosion-ai-generated-code/"
         }
       ]
     },
@@ -29,10 +42,10 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "opendoor-first-buyback",
-          "title": "Opendoor launches its first-ever share buyback, raises $650M via 0% convertible notes",
-          "note": "Repurchased 5% of shares at $3.49 each while adding $440M in growth capital to the balance sheet",
-          "url": "https://www.realestatenews.com/2026/08/13/opendoor-makes-aggressive-move-with-158m-share-buyback"
+          "id": "july-housing-starts-fall-permits-rise",
+          "title": "July housing starts sink 12.4% even as building permits climb 5%",
+          "note": "Builders keep planning ahead but pausing execution as mortgage rates and construction costs bite",
+          "url": "https://www.housingwire.com/articles/july-permits-up-starts-down/"
         }
       ]
     },
@@ -41,10 +54,16 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "anthropic-decart-6b-talks",
-          "title": "Anthropic in advanced talks to buy Israeli AI startup Decart for $6 billion",
-          "note": "Would be Anthropic's largest-ever acquisition, aimed at cutting inference costs across chip types",
-          "url": "https://www.calcalistech.com/ctechnews/article/mrrffazk1"
+          "id": "doit-acquires-attribute-65m",
+          "title": "DoiT acquires Israeli AI FinOps startup Attribute for an estimated $65M",
+          "note": "Fifth acquisition for DoiT, adds real-time AI and cloud spend tracking as it eyes a $5B AWS resale goal",
+          "url": "https://www.calcalistech.com/ctechnews/article/sycvenedzx"
+        },
+        {
+          "id": "xpander-7-5m-seed-ai-agents",
+          "title": "Xpander raises $7.5M seed to build the control layer for enterprise AI agents",
+          "note": "Founded by ex-AWS engineers, backed by Pico Venture Partners, Samsung Next and SeedIL",
+          "url": "https://www.calcalistech.com/ctechnews/article/rjep4kgvme"
         }
       ]
     }
