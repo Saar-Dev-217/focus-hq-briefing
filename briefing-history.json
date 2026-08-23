@@ -1,5 +1,5 @@
 {
-  "_comment": "Every story ever shipped in a briefing. The writer MUST read this and never repeat a url — or the same story from a different outlet. A repeat is the fastest way to make the TLDR worthless. Append after each briefing.",
+  "_comment": "Every story ever shipped in a briefing. The writer MUST read this and never repeat a url \u2014 or the same story from a different outlet. A repeat is the fastest way to make the TLDR worthless. Append after each briefing.",
   "shipped": [
     {
       "date": "2026-07-13",
@@ -327,6 +327,19 @@
         "https://www.housingwire.com/articles/fix-and-flip-market-mortgage-rates-climb/",
         "https://www.housingwire.com/articles/mortgage-rates-fall-delinquencies/",
         "https://www.timesofisrael.com/anthropic-reportedly-in-talks-to-buy-israeli-founded-ai-startup-at-6b-valuation/"
+      ]
+    },
+    {
+      "date": "2026-08-23",
+      "urls": [
+        "https://siliconangle.com/2026/08/20/salesforce-introduces-slack-code-to-bring-agentic-team-coding-into-the-open/",
+        "https://www.axios.com/2026/08/17/a2a-agentic-ai-foundation-open-ai-standards",
+        "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
+        "https://www.mba.org/news-and-research/newsroom/news/2026/08/19/mortgage-applications-decrease-in-latest-mba-weekly-survey",
+        "https://www.globenewswire.com/news-release/2026/08/20/3348688/0/en/mortgage-rates-decline-for-second-consecutive-week.html",
+        "https://www.prnewswire.com/news-releases/redfin-reports-new-listings-tick-up-as-summer-winds-down-302855857.html",
+        "https://en.globes.co.il/en/article-munich-re-buys-israeli-insurtech-co-at-bay-for-575m-1001552764",
+        "https://www.calcalistech.com/ctechnews/article/h1utecy8fx"
       ]
     }
   ]

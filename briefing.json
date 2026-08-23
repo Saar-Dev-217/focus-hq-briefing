@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-23",
   "topics": [
     {
       "id": "my-market",
@@ -11,16 +11,22 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "spacex-completes-cursor-acquisition",
-          "title": "SpaceX completes $60B acquisition of AI coding startup Cursor",
-          "note": "Largest startup acquisition on record, Cursor becomes SpaceXAI with access to the Colossus GPU supercluster",
-          "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+          "id": "slack-code-agentic-coding",
+          "title": "Salesforce launches Slack Code, bringing AI coding agents into team channels",
+          "note": "Claude Code, Devin, Copilot and others work inside dedicated Code Channels with shared diffs and previews",
+          "url": "https://siliconangle.com/2026/08/20/salesforce-introduces-slack-code-to-bring-agentic-team-coding-into-the-open/"
         },
         {
-          "id": "writer-palmyra-x6-agent-costs",
-          "title": "Writer launches Palmyra X6, claims 52% lower cost for AI agent workloads",
-          "note": "Prices at $2/$8 per million tokens, undercutting Claude Opus and GPT-5.5 on agentic tasks",
-          "url": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges"
+          "id": "a2a-agentic-ai-foundation",
+          "title": "Google hands its A2A agent protocol to the Agentic AI Foundation",
+          "note": "Moves from the Linux Foundation's broader umbrella into the dedicated agentic-AI standards body alongside MCP",
+          "url": "https://www.axios.com/2026/08/17/a2a-agentic-ai-foundation-open-ai-standards"
+        },
+        {
+          "id": "databricks-5b-190b-valuation",
+          "title": "Databricks raises $5B at a $190B valuation as AI agent demand surges",
+          "note": "Round led by Coatue, Blackstone and MGX; revenue run-rate tops $7B, up 80% year over year",
+          "url": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html"
         }
       ]
     },
@@ -29,16 +35,22 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "fix-and-flip-market-strain-mortgage-rates",
-          "title": "Fix-and-flip market shows signs of strain as mortgage rates climb",
-          "note": "Q2 Fix and Flip Market Index falls to 59, second straight quarterly decline, margins hit hardest in the Southwest and Texas",
-          "url": "https://www.housingwire.com/articles/fix-and-flip-market-mortgage-rates-climb/"
+          "id": "mba-mortgage-applications-dip",
+          "title": "Mortgage applications dip as affordability bites again",
+          "note": "MBA's weekly index falls 0.4%, purchase applications down 2% even as rates ease",
+          "url": "https://www.mba.org/news-and-research/newsroom/news/2026/08/19/mortgage-applications-decrease-in-latest-mba-weekly-survey"
         },
         {
-          "id": "mortgage-rates-fall-fha-va-delinquencies-rise",
-          "title": "Mortgage rates fall again as FHA and VA delinquencies rise",
-          "note": "30-year conforming rate drops to 6.86% even as FHA/VA delinquencies climb, MBA applications up 3.6%",
-          "url": "https://www.housingwire.com/articles/mortgage-rates-fall-delinquencies/"
+          "id": "mortgage-rates-fall-second-week",
+          "title": "Mortgage rates fall for a second straight week to 6.65%",
+          "note": "Freddie Mac's 30-year average keeps easing off its 13-month high",
+          "url": "https://www.globenewswire.com/news-release/2026/08/20/3348688/0/en/mortgage-rates-decline-for-second-consecutive-week.html"
+        },
+        {
+          "id": "redfin-new-listings-tick-up",
+          "title": "New listings tick up as sellers give in on price",
+          "note": "Inventory climbs to a 3-month high even as pending sales slip to their lowest since March",
+          "url": "https://www.prnewswire.com/news-releases/redfin-reports-new-listings-tick-up-as-summer-winds-down-302855857.html"
         }
       ]
     },
@@ -47,10 +59,16 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "anthropic-decart-6-billion-talks",
-          "title": "Anthropic in talks to acquire Israeli AI startup Decart for $6 billion",
-          "note": "Would be Anthropic's largest acquisition ever and its first in Israel, Decart builds real-time AI video generation",
-          "url": "https://www.timesofisrael.com/anthropic-reportedly-in-talks-to-buy-israeli-founded-ai-startup-at-6b-valuation/"
+          "id": "munich-re-acquires-at-bay",
+          "title": "Munich Re to acquire Israeli-founded cyber insurer At-Bay for $575M",
+          "note": "Folds cyber insurance and continuous risk prevention into the German reinsurance giant, closing expected Q1 2027",
+          "url": "https://en.globes.co.il/en/article-munich-re-buys-israeli-insurtech-co-at-bay-for-575m-1001552764"
+        },
+        {
+          "id": "team8-365m-third-fund",
+          "title": "Team8 raises $365M for a third fund betting on AI-native enterprise startups",
+          "note": "Fund already scored an exit — portfolio company Koi Security sold to Palo Alto Networks for $400M",
+          "url": "https://www.calcalistech.com/ctechnews/article/h1utecy8fx"
         }
       ]
     }
