@@ -1,32 +1,33 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": []
+      "items": [
+        {
+          "id": "eliseai-300m-raise-talks",
+          "title": "EliseAI in talks to raise $300M at a $3.7B valuation",
+          "note": "AI leasing and maintenance platform used by 70% of the 50 largest US rental operators; up from $2.2B a year ago",
+          "url": "https://therealdeal.com/national/2026/08/19/multifamily-ai-firm-fundraising-at-stunning-valuation/"
+        }
+      ]
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "slack-code-agentic-coding",
-          "title": "Salesforce launches Slack Code, bringing AI coding agents into team channels",
-          "note": "Claude Code, Devin, Copilot and others work inside dedicated Code Channels with shared diffs and previews",
-          "url": "https://siliconangle.com/2026/08/20/salesforce-introduces-slack-code-to-bring-agentic-team-coding-into-the-open/"
+          "id": "deepseek-harness-v4-pro",
+          "title": "DeepSeek launches open-source Harness as a rival to Claude Code",
+          "note": "Ships alongside official DeepSeek-V4-Pro tuned for agentic workloads, MIT-licensed on GitHub",
+          "url": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices"
         },
         {
-          "id": "a2a-agentic-ai-foundation",
-          "title": "Google hands its A2A agent protocol to the Agentic AI Foundation",
-          "note": "Moves from the Linux Foundation's broader umbrella into the dedicated agentic-AI standards body alongside MCP",
-          "url": "https://www.axios.com/2026/08/17/a2a-agentic-ai-foundation-open-ai-standards"
-        },
-        {
-          "id": "databricks-5b-190b-valuation",
-          "title": "Databricks raises $5B at a $190B valuation as AI agent demand surges",
-          "note": "Round led by Coatue, Blackstone and MGX; revenue run-rate tops $7B, up 80% year over year",
-          "url": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html"
+          "id": "cloudflare-kitesurf-agent-browser",
+          "title": "Cloudflare launches Kitesurf, a browser runtime built for AI agents",
+          "note": "Runs in V8 isolates on Workers, uses 3-7x less CPU/memory than Chromium, compatible with Puppeteer/Playwright/MCP",
+          "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
         }
       ]
     },
@@ -35,22 +36,16 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "mba-mortgage-applications-dip",
-          "title": "Mortgage applications dip as affordability bites again",
-          "note": "MBA's weekly index falls 0.4%, purchase applications down 2% even as rates ease",
-          "url": "https://www.mba.org/news-and-research/newsroom/news/2026/08/19/mortgage-applications-decrease-in-latest-mba-weekly-survey"
+          "id": "missouri-sb973-wholesale-disclosure",
+          "title": "Missouri's new wholesaler disclosure law takes effect August 28",
+          "note": "SB973 requires a 14-day written disclosure before an assignable contract; violations fall under the state's Merchandising Practices Act",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB973.pdf"
         },
         {
-          "id": "mortgage-rates-fall-second-week",
-          "title": "Mortgage rates fall for a second straight week to 6.65%",
-          "note": "Freddie Mac's 30-year average keeps easing off its 13-month high",
-          "url": "https://www.globenewswire.com/news-release/2026/08/20/3348688/0/en/mortgage-rates-decline-for-second-consecutive-week.html"
-        },
-        {
-          "id": "redfin-new-listings-tick-up",
-          "title": "New listings tick up as sellers give in on price",
-          "note": "Inventory climbs to a 3-month high even as pending sales slip to their lowest since March",
-          "url": "https://www.prnewswire.com/news-releases/redfin-reports-new-listings-tick-up-as-summer-winds-down-302855857.html"
+          "id": "costar-zonda-acquisition-closes",
+          "title": "CoStar closes $800M acquisition of Zonda",
+          "note": "Adds new-home construction data and the NewHomeSource and Livabl marketplaces to CoStar's platform",
+          "url": "https://www.housingwire.com/articles/costar-zonda-acquisition-closes/"
         }
       ]
     },
@@ -59,16 +54,10 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "munich-re-acquires-at-bay",
-          "title": "Munich Re to acquire Israeli-founded cyber insurer At-Bay for $575M",
-          "note": "Folds cyber insurance and continuous risk prevention into the German reinsurance giant, closing expected Q1 2027",
-          "url": "https://en.globes.co.il/en/article-munich-re-buys-israeli-insurtech-co-at-bay-for-575m-1001552764"
-        },
-        {
-          "id": "team8-365m-third-fund",
-          "title": "Team8 raises $365M for a third fund betting on AI-native enterprise startups",
-          "note": "Fund already scored an exit — portfolio company Koi Security sold to Palo Alto Networks for $400M",
-          "url": "https://www.calcalistech.com/ctechnews/article/h1utecy8fx"
+          "id": "microsoft-israel-nati-amsterdam",
+          "title": "Microsoft names Nati Amsterdam to lead its Israel operations",
+          "note": "Nvidia Israel executive takes over as general manager starting in October",
+          "url": "https://en.globes.co.il/en/article-microsoft-appoints-nati-amsterdam-israel-general-manager-1001552523"
         }
       ]
     }
