@@ -1,33 +1,20 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": [
-        {
-          "id": "eliseai-300m-raise-talks",
-          "title": "EliseAI in talks to raise $300M at a $3.7B valuation",
-          "note": "AI leasing and maintenance platform used by 70% of the 50 largest US rental operators; up from $2.2B a year ago",
-          "url": "https://therealdeal.com/national/2026/08/19/multifamily-ai-firm-fundraising-at-stunning-valuation/"
-        }
-      ]
+      "items": []
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "deepseek-harness-v4-pro",
-          "title": "DeepSeek launches open-source Harness as a rival to Claude Code",
-          "note": "Ships alongside official DeepSeek-V4-Pro tuned for agentic workloads, MIT-licensed on GitHub",
-          "url": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices"
-        },
-        {
-          "id": "cloudflare-kitesurf-agent-browser",
-          "title": "Cloudflare launches Kitesurf, a browser runtime built for AI agents",
-          "note": "Runs in V8 isolates on Workers, uses 3-7x less CPU/memory than Chromium, compatible with Puppeteer/Playwright/MCP",
-          "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
+          "id": "happyrobot-150m-series-c",
+          "title": "HappyRobot raises $150M Series C at $1.2B valuation",
+          "note": "AI voice agents run phone calls and scheduling for supply chains at DHL, Uber, Kuehne+Nagel",
+          "url": "https://www.businesswire.com/news/home/20260804192350/en/HappyRobot-Raises-$150-Million-Series-C-to-Build-Enterprise-Superintelligence"
         }
       ]
     },
@@ -36,16 +23,10 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "missouri-sb973-wholesale-disclosure",
-          "title": "Missouri's new wholesaler disclosure law takes effect August 28",
-          "note": "SB973 requires a 14-day written disclosure before an assignable contract; violations fall under the state's Merchandising Practices Act",
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB973.pdf"
-        },
-        {
-          "id": "costar-zonda-acquisition-closes",
-          "title": "CoStar closes $800M acquisition of Zonda",
-          "note": "Adds new-home construction data and the NewHomeSource and Livabl marketplaces to CoStar's platform",
-          "url": "https://www.housingwire.com/articles/costar-zonda-acquisition-closes/"
+          "id": "real-remax-merger-closes",
+          "title": "Real and RE/MAX complete merger, begin trading as REAX",
+          "note": "Combined brokerage covers 180,000+ agents in 120+ countries, closed August 24",
+          "url": "https://www.housingwire.com/articles/real-remax-group-reax-trading/"
         }
       ]
     },
@@ -54,10 +35,10 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "microsoft-israel-nati-amsterdam",
-          "title": "Microsoft names Nati Amsterdam to lead its Israel operations",
-          "note": "Nvidia Israel executive takes over as general manager starting in October",
-          "url": "https://en.globes.co.il/en/article-microsoft-appoints-nati-amsterdam-israel-general-manager-1001552523"
+          "id": "minimus-shuts-down",
+          "title": "Minimus shuts down months after raising $51M",
+          "note": "Twistlock founders' second startup folds citing the investment climate, laying off 35",
+          "url": "https://www.calcalistech.com/ctechnews/article/bj0s5ikdmx"
         }
       ]
     }
