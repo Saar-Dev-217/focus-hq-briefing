@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "topics": [
     {
       "id": "my-market",
@@ -9,24 +9,17 @@
     {
       "id": "agents",
       "title": "Agents & AI infra",
-      "items": [
-        {
-          "id": "happyrobot-150m-series-c",
-          "title": "HappyRobot raises $150M Series C at $1.2B valuation",
-          "note": "AI voice agents run phone calls and scheduling for supply chains at DHL, Uber, Kuehne+Nagel",
-          "url": "https://www.businesswire.com/news/home/20260804192350/en/HappyRobot-Raises-$150-Million-Series-C-to-Build-Enterprise-Superintelligence"
-        }
-      ]
+      "items": []
     },
     {
       "id": "us-real-estate",
       "title": "US real estate",
       "items": [
         {
-          "id": "real-remax-merger-closes",
-          "title": "Real and RE/MAX complete merger, begin trading as REAX",
-          "note": "Combined brokerage covers 180,000+ agents in 120+ countries, closed August 24",
-          "url": "https://www.housingwire.com/articles/real-remax-group-reax-trading/"
+          "id": "ftc-zillow-redfin-settlement",
+          "title": "FTC settles antitrust suit against Zillow and Redfin over rental partnership",
+          "note": "Redfin builds its own competing multifamily platform, syndication deal stays in place through 2030",
+          "url": "https://therealdeal.com/national/2026/08/24/zillow-redfin-settle-ftc-lawsuit-over-multifamily-partnership/"
         }
       ]
     },
@@ -35,10 +28,22 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "minimus-shuts-down",
-          "title": "Minimus shuts down months after raising $51M",
-          "note": "Twistlock founders' second startup folds citing the investment climate, laying off 35",
-          "url": "https://www.calcalistech.com/ctechnews/article/bj0s5ikdmx"
+          "id": "anthropic-decart-7b-deal",
+          "title": "Anthropic closes in on $7B deal for Israeli AI startup Decart",
+          "note": "Beat a higher Nvidia offer, deal could sign next month ahead of Anthropic's IPO",
+          "url": "https://www.calcalistech.com/ctechnews/article/b1evv3aufg"
+        },
+        {
+          "id": "ondas-aran-defense-acquisition",
+          "title": "Ondas to acquire Israeli defense manufacturer Aran Defense for $33M",
+          "note": "Adds 4,400 square meters of sovereign Israeli engineering capacity for counter-UAS and autonomous systems",
+          "url": "https://www.calcalistech.com/ctechnews/article/p86pnon7y"
+        },
+        {
+          "id": "wonderful-seeks-500m",
+          "title": "Israeli AI agents company Wonderful seeks to raise $500M at $5B valuation",
+          "note": "Would double its valuation just months after its last round",
+          "url": "https://en.globes.co.il/en/article-israeli-ai-agents-co-wonderful-seeks-to-raise-500m-1001552121"
         }
       ]
     }
