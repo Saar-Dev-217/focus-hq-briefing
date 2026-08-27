@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "topics": [
     {
       "id": "my-market",
@@ -9,17 +9,30 @@
     {
       "id": "agents",
       "title": "Agents & AI infra",
-      "items": []
+      "items": [
+        {
+          "id": "emerald-ai-150m-series-a",
+          "title": "Emerald AI raises $150M Series A to flex AI data-center power demand",
+          "note": "Nvidia, Samsung and Salesforce Ventures back the $1.05B-valued grid-flexibility platform",
+          "url": "https://www.businesswire.com/news/home/20260825127649/en/Emerald-AI-Raises-$150-Million-Series-A-at-$1.05-Billion-Valuation-to-Scale-Power-Flexible-AI-Data-Centers"
+        }
+      ]
     },
     {
       "id": "us-real-estate",
       "title": "US real estate",
       "items": [
         {
-          "id": "ftc-zillow-redfin-settlement",
-          "title": "FTC settles antitrust suit against Zillow and Redfin over rental partnership",
-          "note": "Redfin builds its own competing multifamily platform, syndication deal stays in place through 2030",
-          "url": "https://therealdeal.com/national/2026/08/24/zillow-redfin-settle-ftc-lawsuit-over-multifamily-partnership/"
+          "id": "missouri-wholesale-disclosure-law-effective",
+          "title": "Missouri's wholesaler disclosure law takes effect Friday",
+          "note": "14-day written disclosure required before contract signing, sellers get a cancellation right if skipped",
+          "url": "https://www.senate.mo.gov/26Info/BTS_Web/Bill.aspx?SessionType=R&BillID=321"
+        },
+        {
+          "id": "new-home-sales-retreat-july-2026",
+          "title": "New home sales drop 10.5% in July as affordability bites",
+          "note": "Inventory climbs to 9.6 months of supply, builders lean harder on incentives",
+          "url": "https://www.inman.com/2026/08/25/new-home-sales-retreat-in-july-as-affordability-pressures-persist/"
         }
       ]
     },
@@ -28,22 +41,10 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "anthropic-decart-7b-deal",
-          "title": "Anthropic closes in on $7B deal for Israeli AI startup Decart",
-          "note": "Beat a higher Nvidia offer, deal could sign next month ahead of Anthropic's IPO",
-          "url": "https://www.calcalistech.com/ctechnews/article/b1evv3aufg"
-        },
-        {
-          "id": "ondas-aran-defense-acquisition",
-          "title": "Ondas to acquire Israeli defense manufacturer Aran Defense for $33M",
-          "note": "Adds 4,400 square meters of sovereign Israeli engineering capacity for counter-UAS and autonomous systems",
-          "url": "https://www.calcalistech.com/ctechnews/article/p86pnon7y"
-        },
-        {
-          "id": "wonderful-seeks-500m",
-          "title": "Israeli AI agents company Wonderful seeks to raise $500M at $5B valuation",
-          "note": "Would double its valuation just months after its last round",
-          "url": "https://en.globes.co.il/en/article-israeli-ai-agents-co-wonderful-seeks-to-raise-500m-1001552121"
+          "id": "alice-140m-ai-security",
+          "title": "Israeli AI security startup Alice raises $140M, nears $1B valuation",
+          "note": "SentinelOne and Samsung join the round; hardens Anthropic, Google and Nvidia models against jailbreaks",
+          "url": "https://www.calcalistech.com/ctechnews/article/a8lj22cfo"
         }
       ]
     }
