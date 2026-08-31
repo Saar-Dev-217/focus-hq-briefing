@@ -1,26 +1,39 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": []
+      "items": [
+        {
+          "id": "salesforce-anthropic-claudeforce",
+          "title": "Salesforce and Anthropic launch Claudeforce, wiring Claude into Salesforce's CRM and Slack",
+          "note": "37 prebuilt sales skills let sellers and agents act on live revenue data from inside Claude; Salesforce stock jumped 12% on the news",
+          "url": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html"
+        }
+      ]
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "anthropic-model-hardware-standard",
-          "title": "Anthropic opens research preview of a standard for AI agents to run physical equipment",
-          "note": "Model Hardware Standard runs on MCP, improved laser stabilization on QuEra's quantum computers from 58% to 99.3% in early testing",
-          "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
+          "id": "a2a-joins-aaif-mcp",
+          "title": "Google's A2A protocol formally joins the Agentic AI Foundation alongside Anthropic's MCP",
+          "note": "one neutral governance body now hosts both major agent protocols; AAIF has grown past 250 members including AWS, Google, Microsoft and OpenAI",
+          "url": "https://www.forbes.com/sites/janakirammsv/2026/08/19/agent2agent-joins-the-agentic-ai-foundation-alongside-mcp/"
         },
         {
-          "id": "arga-labs-10m-seed",
-          "title": "Arga Labs raises $10M to build digital-twin sandboxes for training enterprise AI agents",
-          "note": "General Catalyst leads; clones live Salesforce and Workday environments so agents can be tested before deployment",
-          "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/"
+          "id": "instinct-250m-series-b",
+          "title": "Personal AI agent startup Instinct raises $250M Series B at a $2.5B valuation",
+          "note": "Index Ventures and Benchmark lead; valuation up roughly 5x in weeks on viral consumer demand",
+          "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/"
+        },
+        {
+          "id": "keenable-26m-seed",
+          "title": "Keenable raises $26M seed to build web-search infrastructure built for AI agents",
+          "note": "100B-document index tuned for low-latency agent queries like pricing monitoring and lead enrichment; Google and Amazon execs among the angels",
+          "url": "https://siliconangle.com/2026/08/25/agentic-web-search-infrastructure-startup-keenable-raises-26m/"
         }
       ]
     },
@@ -29,23 +42,30 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "housing-demand-slowed-stable",
-          "title": "US housing demand cools as mortgage rates hold above 6.64%",
-          "note": "purchase applications post five straight mild negative year-over-year weeks, but no crash signal yet",
-          "url": "https://www.housingwire.com/articles/housing-demand-has-slowed-but-still-stable-for-now/"
+          "id": "attom-foreclosures-july-2026",
+          "title": "US foreclosure filings rise 10% year-over-year in July, ATTOM reports",
+          "note": "39,906 properties filed; Nevada, South Carolina and Florida post the highest foreclosure rates",
+          "url": "https://www.housingwire.com/articles/foreclosure-filings-july-attom/"
         },
         {
-          "id": "redfin-new-listings-4-month-high",
-          "title": "New listings hit a 4-month high as homebuyer demand slips",
-          "note": "pending sales fall to a 6-month low, handing leverage to buyers in Miami, Nashville and much of Texas",
-          "url": "https://www.redfin.com/news/housing-market-update-new-listings-rise-buyers-market/"
+          "id": "freddie-mac-rates-hold-steady",
+          "title": "Mortgage rates hold steady at 6.66% for the 30-year loan",
+          "note": "Freddie Mac's weekly survey shows rates barely moving, still near a 13-month high",
+          "url": "https://www.globenewswire.com/news-release/2026/08/27/3352283/0/en/mortgage-rates-hold-steady.html"
         }
       ]
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
-      "items": []
+      "items": [
+        {
+          "id": "sandisk-israel-layoffs-india",
+          "title": "SanDisk cuts Israeli jobs as it shifts development work to India",
+          "note": "layoffs hit Kfar Saba, Tefen and Omer sites despite record ~$9B quarterly revenue and a $91B order backlog",
+          "url": "https://www.jpost.com/business-and-innovation/article-906560"
+        }
+      ]
     }
   ]
 }
