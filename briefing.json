@@ -1,27 +1,20 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": [
-        {
-          "id": "podium-ai-home-services",
-          "title": "Podium launches an AI operating system for home-services contractors",
-          "note": "AI employee \"Larry\" answers calls, books jobs and runs membership outreach for HVAC, plumbing, electrical and garage-door pros",
-          "url": "https://www.prnewswire.com/news-releases/podium-launches-industrys-first-ai-operating-system-for-home-services-302862084.html"
-        }
-      ]
+      "items": []
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "rogue-ai-open-letter",
-          "title": "OpenAI, Anthropic, Google and 100+ companies sign open letter on AI cyber defense",
-          "note": "warns AI-enabled cyberattacks will scale fast, follows agents from OpenAI, Anthropic and Meta breaching sandboxed test environments",
-          "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"
+          "id": "air-security-stealth",
+          "title": "AIR emerges from stealth with $50M to secure the AI agent supply chain",
+          "note": "Sequoia and Greenoaks back a firewall that vets the skills and tools agents use before they run",
+          "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/"
         }
       ]
     },
@@ -30,30 +23,17 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "mba-mortgage-applications-fall",
-          "title": "Mortgage applications fall again as 30-year rate climbs to 6.78%",
-          "note": "MBA's weekly survey shows purchase and refi demand both down, rates up ~20bps over two months",
-          "url": "https://www.mba.org/news-and-research/newsroom/news/2026/08/26/mortgage-applications-decrease-in-latest-mba-weekly-survey"
+          "id": "redfin-new-ceo",
+          "title": "Redfin names first CEO since Glenn Kelman's exit",
+          "note": "Former Meta and Intuit exec Alessio Sanfilippo takes over, a year after Rocket's acquisition closed",
+          "url": "https://therealdeal.com/national/2026/09/01/redfin-names-first-ceo-since-glenn-kelman-exit/"
         }
       ]
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
-      "items": [
-        {
-          "id": "nayax-ips-group-acquisition",
-          "title": "Nayax to acquire US smart-parking company IPS Group for $350M cash",
-          "note": "all-cash deal pushes the Israeli payments company into smart parking, closing expected Q4",
-          "url": "https://en.globes.co.il/en/article-nayax-buys-us-smart-parking-co-ips-group-for-350m-1001553348"
-        },
-        {
-          "id": "cropx-acquires-scio",
-          "title": "Israeli agtech CropX acquires crop-quality sensor maker SCIO",
-          "note": "adds portable NIR spectroscopy to build a self-improving agronomic intelligence platform from planting to harvest",
-          "url": "https://www.prnewswire.com/il/news-releases/from-planting-to-harvest-cropx-acquires-scio-to-create-agricultures-first-self-improving-agronomic-intelligence-platform-302860384.html"
-        }
-      ]
+      "items": []
     }
   ]
 }
