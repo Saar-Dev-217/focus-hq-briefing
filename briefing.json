@@ -1,20 +1,33 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": []
+      "items": [
+        {
+          "id": "nooks-fullyramped",
+          "title": "Nooks acquires AI sales-coaching startup FullyRamped",
+          "note": "Expands its revenue agent platform beyond outbound into coaching and roleplay",
+          "url": "https://www.prnewswire.com/news-releases/nooks-acquires-fullyramped-founder-aaron-marks-joins-nooks-to-advance-revenue-agent-platform-302860798.html"
+        }
+      ]
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "air-security-stealth",
-          "title": "AIR emerges from stealth with $50M to secure the AI agent supply chain",
-          "note": "Sequoia and Greenoaks back a firewall that vets the skills and tools agents use before they run",
-          "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/"
+          "id": "anthropic-fable-5-1",
+          "title": "Anthropic launches Claude Fable 5.1 and Mythos 5.1",
+          "note": "Cheaper prompt caching cuts heavy agentic workload costs up to 45%",
+          "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"
+        },
+        {
+          "id": "google-gemini-3-8-flash",
+          "title": "Google ships Gemini 3.8 Flash, built for agents, plus a vuln-hunting Cyber variant",
+          "note": "Third Flash release in six weeks; Cyber found a critical bug in under two hours for Google's own team",
+          "url": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities"
         }
       ]
     },
@@ -23,17 +36,30 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "redfin-new-ceo",
-          "title": "Redfin names first CEO since Glenn Kelman's exit",
-          "note": "Former Meta and Intuit exec Alessio Sanfilippo takes over, a year after Rocket's acquisition closed",
-          "url": "https://therealdeal.com/national/2026/09/01/redfin-names-first-ceo-since-glenn-kelman-exit/"
+          "id": "texas-multifamily-foreclosures",
+          "title": "Texas multifamily foreclosures dominate September's auction block",
+          "note": "$778M in loans up for auction, apartments over 70% of the state's troubled CRE value",
+          "url": "https://therealdeal.com/texas/2026/09/01/texas-biggest-loans-head-to-foreclosure-auctions-in-september/"
         }
       ]
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
-      "items": []
+      "items": [
+        {
+          "id": "dataagent-stealth",
+          "title": "Israeli startup DataAgent exits stealth with self-healing cloud AI",
+          "note": "$10M pre-seed from MizMaa and Alicorn; claims up to 90% cut in observability spend",
+          "url": "https://siliconangle.com/2026/09/01/dataagent-raises-10m-to-let-ai-fix-production-faults-inside-kubernetes-clusters/"
+        },
+        {
+          "id": "huskeys-blackstone-series-a",
+          "title": "Blackstone leads $27M round into Israeli edge-security startup Huskeys",
+          "note": "Five months after stealth exit, its agentic AI layer for web firewalls tops $100M valuation",
+          "url": "https://en.globes.co.il/en/article-israeli-security-management-co-huskeys-raises-27m-1001554225"
+        }
+      ]
     }
   ]
 }
