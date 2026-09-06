@@ -1,15 +1,15 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-06",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
       "items": [
         {
-          "id": "nooks-fullyramped",
-          "title": "Nooks acquires AI sales-coaching startup FullyRamped",
-          "note": "Expands its revenue agent platform beyond outbound into coaching and roleplay",
-          "url": "https://www.prnewswire.com/news-releases/nooks-acquires-fullyramped-founder-aaron-marks-joins-nooks-to-advance-revenue-agent-platform-302860798.html"
+          "id": "atira-industrial-sales-agents",
+          "title": "Munich startup Atira raises $17.5M to automate industrial sales quotes with AI agents",
+          "note": "Seed+pre-seed led by Accel; production customers report 80-95% quotation-time savings",
+          "url": "https://fortune.com/2026/09/03/exclusive-german-ai-startup-atira-raises-17-5-million-to-unclog-the-paperwork-bottleneck-in-industrial-dealmaking/"
         }
       ]
     },
@@ -18,16 +18,10 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "anthropic-fable-5-1",
-          "title": "Anthropic launches Claude Fable 5.1 and Mythos 5.1",
-          "note": "Cheaper prompt caching cuts heavy agentic workload costs up to 45%",
-          "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"
-        },
-        {
-          "id": "google-gemini-3-8-flash",
-          "title": "Google ships Gemini 3.8 Flash, built for agents, plus a vuln-hunting Cyber variant",
-          "note": "Third Flash release in six weeks; Cyber found a critical bug in under two hours for Google's own team",
-          "url": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities"
+          "id": "gpt6-astra-release",
+          "title": "OpenAI releases GPT-6 Astra, says it may mark the start of the \"AGI era\"",
+          "note": "First model to trip OpenAI's critical cybersecurity threshold; rolling out to ChatGPT and API now",
+          "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman"
         }
       ]
     },
@@ -36,10 +30,16 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "texas-multifamily-foreclosures",
-          "title": "Texas multifamily foreclosures dominate September's auction block",
-          "note": "$778M in loans up for auction, apartments over 70% of the state's troubled CRE value",
-          "url": "https://therealdeal.com/texas/2026/09/01/texas-biggest-loans-head-to-foreclosure-auctions-in-september/"
+          "id": "mortgage-rates-13-month-high",
+          "title": "Mortgage rates hit a 13-month high as an Iran conflict rattles the bond market",
+          "note": "30-year fixed climbs to 6.71% on a Treasury yield spike, not Fed policy",
+          "url": "https://www.inman.com/2026/09/04/mortgage-rates-hit-13-month-high/"
+        },
+        {
+          "id": "investor-share-single-family-slips",
+          "title": "Investor share of single-family home purchases slips to 27%",
+          "note": "Cotality: mega-investor pullback ahead of new housing law trims Q2 volume by ~40,000 homes",
+          "url": "https://www.housingwire.com/articles/cotality-investors-single-family/"
         }
       ]
     },
@@ -48,16 +48,22 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "dataagent-stealth",
-          "title": "Israeli startup DataAgent exits stealth with self-healing cloud AI",
-          "note": "$10M pre-seed from MizMaa and Alicorn; claims up to 90% cut in observability spend",
-          "url": "https://siliconangle.com/2026/09/01/dataagent-raises-10m-to-let-ai-fix-production-faults-inside-kubernetes-clusters/"
+          "id": "wonderful-550m-series-c",
+          "title": "Israeli AI agents company Wonderful raises $550M at a $5B valuation",
+          "note": "Valuation more than doubles in six months; Insight Partners leads with Salesforce joining",
+          "url": "https://en.globes.co.il/en/article-israeli-ai-agents-co-wonderful-raises-550m-at-55b-valuation-1001554223"
         },
         {
-          "id": "huskeys-blackstone-series-a",
-          "title": "Blackstone leads $27M round into Israeli edge-security startup Huskeys",
-          "note": "Five months after stealth exit, its agentic AI layer for web firewalls tops $100M valuation",
-          "url": "https://en.globes.co.il/en/article-israeli-security-management-co-huskeys-raises-27m-1001554225"
+          "id": "hibob-166m-salesforce",
+          "title": "Salesforce leads a $166M round in Israeli HR platform HiBob",
+          "note": "Largest round in its history, values the company at $3.2B, up from $2.7B three years ago",
+          "url": "https://www.calcalistech.com/ctechnews/article/h1wfdqnuge"
+        },
+        {
+          "id": "upwind-300m-cloud-security",
+          "title": "Israeli cloud security startup Upwind raises $300M at a $3.8B valuation",
+          "note": "Valuation more than doubles just five months after its $250M Series B",
+          "url": "https://www.calcalistech.com/ctechnews/article/0kbwgdw01"
         }
       ]
     }
