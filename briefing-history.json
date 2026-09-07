@@ -1,5 +1,5 @@
 {
-  "_comment": "Every story ever shipped in a briefing. The writer MUST read this and never repeat a url \u2014 or the same story from a different outlet. A repeat is the fastest way to make the TLDR worthless. Append after each briefing.",
+  "_comment": "Every story ever shipped in a briefing. The writer MUST read this and never repeat a url — or the same story from a different outlet. A repeat is the fastest way to make the TLDR worthless. Append after each briefing.",
   "shipped": [
     {
       "date": "2026-07-13",
@@ -438,6 +438,17 @@
         "https://en.globes.co.il/en/article-israeli-ai-agents-co-wonderful-raises-550m-at-55b-valuation-1001554223",
         "https://www.calcalistech.com/ctechnews/article/h1wfdqnuge",
         "https://www.calcalistech.com/ctechnews/article/0kbwgdw01"
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "urls": [
+        "https://www.globenewswire.com/news-release/2026/09/04/3356596/0/en/soundhound-ai-completes-acquisition-of-liveperson-creating-a-world-leading-omnichannel-conversational-ai-powerhouse.html",
+        "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+        "https://www.housingwire.com/articles/new-american-funding-layoffs-160-consumer-direct/",
+        "https://www.calcalistech.com/ctechnews/article/b1dz1kbdme",
+        "https://www.calcalistech.com/ctechnews/article/u15ki3g7b",
+        "https://www.calcalistech.com/ctechnews/article/bkj3znn00ze"
       ]
     }
   ]

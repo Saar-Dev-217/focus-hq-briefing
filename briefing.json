@@ -1,27 +1,26 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": [
-        {
-          "id": "atira-industrial-sales-agents",
-          "title": "Munich startup Atira raises $17.5M to automate industrial sales quotes with AI agents",
-          "note": "Seed+pre-seed led by Accel; production customers report 80-95% quotation-time savings",
-          "url": "https://fortune.com/2026/09/03/exclusive-german-ai-startup-atira-raises-17-5-million-to-unclog-the-paperwork-bottleneck-in-industrial-dealmaking/"
-        }
-      ]
+      "items": []
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "gpt6-astra-release",
-          "title": "OpenAI releases GPT-6 Astra, says it may mark the start of the \"AGI era\"",
-          "note": "First model to trip OpenAI's critical cybersecurity threshold; rolling out to ChatGPT and API now",
-          "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman"
+          "id": "soundhound-liveperson-close",
+          "title": "SoundHound AI completes its $43M acquisition of LivePerson",
+          "note": "Merges voice agentic AI with LivePerson's messaging network reaching 25 of the Fortune 100 into one OASYS platform",
+          "url": "https://www.globenewswire.com/news-release/2026/09/04/3356596/0/en/soundhound-ai-completes-acquisition-of-liveperson-creating-a-world-leading-omnichannel-conversational-ai-powerhouse.html"
+        },
+        {
+          "id": "hiddenlayer-100m-series-b",
+          "title": "AI security startup HiddenLayer raises $100M Series B",
+          "note": "ARR up 10x in a year as enterprises rush to lock down AI agent deployments; Microsoft's M12 and Morgan Stanley joined",
+          "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/"
         }
       ]
     },
@@ -30,16 +29,10 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "mortgage-rates-13-month-high",
-          "title": "Mortgage rates hit a 13-month high as an Iran conflict rattles the bond market",
-          "note": "30-year fixed climbs to 6.71% on a Treasury yield spike, not Fed policy",
-          "url": "https://www.inman.com/2026/09/04/mortgage-rates-hit-13-month-high/"
-        },
-        {
-          "id": "investor-share-single-family-slips",
-          "title": "Investor share of single-family home purchases slips to 27%",
-          "note": "Cotality: mega-investor pullback ahead of new housing law trims Q2 volume by ~40,000 homes",
-          "url": "https://www.housingwire.com/articles/cotality-investors-single-family/"
+          "id": "new-american-funding-layoffs",
+          "title": "New American Funding cuts 160 jobs in its consumer-direct division",
+          "note": "Lender blames elevated mortgage rates squeezing refinance demand, not a one-off",
+          "url": "https://www.housingwire.com/articles/new-american-funding-layoffs-160-consumer-direct/"
         }
       ]
     },
@@ -48,22 +41,22 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "wonderful-550m-series-c",
-          "title": "Israeli AI agents company Wonderful raises $550M at a $5B valuation",
-          "note": "Valuation more than doubles in six months; Insight Partners leads with Salesforce joining",
-          "url": "https://en.globes.co.il/en/article-israeli-ai-agents-co-wonderful-raises-550m-at-55b-valuation-1001554223"
+          "id": "aitan-41m-combat-drones",
+          "title": "Israeli combat-drone maker AITAN raises $41M to go global",
+          "note": "Systems battle-tested since Oct 7 with 500,000+ operational flight hours; Dell Technologies Capital co-led",
+          "url": "https://www.calcalistech.com/ctechnews/article/b1dz1kbdme"
         },
         {
-          "id": "hibob-166m-salesforce",
-          "title": "Salesforce leads a $166M round in Israeli HR platform HiBob",
-          "note": "Largest round in its history, values the company at $3.2B, up from $2.7B three years ago",
-          "url": "https://www.calcalistech.com/ctechnews/article/h1wfdqnuge"
+          "id": "paypal-israel-layoffs",
+          "title": "PayPal lays off 70 employees in Israel, a quarter of its local staff",
+          "note": "Hits the Tel Aviv center that builds its fraud-detection and AI transaction-monitoring systems",
+          "url": "https://www.calcalistech.com/ctechnews/article/u15ki3g7b"
         },
         {
-          "id": "upwind-300m-cloud-security",
-          "title": "Israeli cloud security startup Upwind raises $300M at a $3.8B valuation",
-          "note": "Valuation more than doubles just five months after its $250M Series B",
-          "url": "https://www.calcalistech.com/ctechnews/article/0kbwgdw01"
+          "id": "particula-15m-smart-toys",
+          "title": "Israeli smart-toy maker Particula raises $15M to expand globally",
+          "note": "GoCube creator broadens into a portfolio of connected physical games; Elah Fund leads",
+          "url": "https://www.calcalistech.com/ctechnews/article/bkj3znn00ze"
         }
       ]
     }
