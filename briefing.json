@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "topics": [
     {
       "id": "my-market",
@@ -11,16 +11,16 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "soundhound-liveperson-close",
-          "title": "SoundHound AI completes its $43M acquisition of LivePerson",
-          "note": "Merges voice agentic AI with LivePerson's messaging network reaching 25 of the Fortune 100 into one OASYS platform",
-          "url": "https://www.globenewswire.com/news-release/2026/09/04/3356596/0/en/soundhound-ai-completes-acquisition-of-liveperson-creating-a-world-leading-omnichannel-conversational-ai-powerhouse.html"
+          "id": "nvidia-hugging-face-acquisition",
+          "title": "Nvidia agrees to buy Hugging Face for $13 billion",
+          "note": "Nvidia's second-biggest acquisition ever, folding the open-model hub into its AI stack; closes H1 2027",
+          "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html"
         },
         {
-          "id": "hiddenlayer-100m-series-b",
-          "title": "AI security startup HiddenLayer raises $100M Series B",
-          "note": "ARR up 10x in a year as enterprises rush to lock down AI agent deployments; Microsoft's M12 and Morgan Stanley joined",
-          "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/"
+          "id": "gimlet-labs-300m-inference",
+          "title": "Gimlet Labs raises $300M for a multi-silicon inference cloud built for agentic AI",
+          "note": "Series B at $3B valuation led by a16z, with Arm and Microsoft backing a chip-agnostic inference layer",
+          "url": "https://www.globenewswire.com/news-release/2026/09/04/3356707/0/en/now-valued-at-3-billion-gimlet-labs-raises-300-million-in-series-b-led-by-andreessen-horowitz-for-industry-s-first-multi-silicon-inference-cloud-for-agentic-ai.html"
         }
       ]
     },
@@ -29,10 +29,10 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "new-american-funding-layoffs",
-          "title": "New American Funding cuts 160 jobs in its consumer-direct division",
-          "note": "Lender blames elevated mortgage rates squeezing refinance demand, not a one-off",
-          "url": "https://www.housingwire.com/articles/new-american-funding-layoffs-160-consumer-direct/"
+          "id": "mba-mortgage-applications-rise",
+          "title": "Mortgage applications tick up as 30-year rate holds near 6.79%",
+          "note": "Purchase index up 2% week-over-week even with rates near 13-month highs, per MBA's weekly survey",
+          "url": "https://www.mba.org/news-and-research/newsroom/news/2026/09/02/mortgage-applications-increase-in-latest-mba-weekly-survey"
         }
       ]
     },
@@ -41,22 +41,10 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "aitan-41m-combat-drones",
-          "title": "Israeli combat-drone maker AITAN raises $41M to go global",
-          "note": "Systems battle-tested since Oct 7 with 500,000+ operational flight hours; Dell Technologies Capital co-led",
-          "url": "https://www.calcalistech.com/ctechnews/article/b1dz1kbdme"
-        },
-        {
-          "id": "paypal-israel-layoffs",
-          "title": "PayPal lays off 70 employees in Israel, a quarter of its local staff",
-          "note": "Hits the Tel Aviv center that builds its fraud-detection and AI transaction-monitoring systems",
-          "url": "https://www.calcalistech.com/ctechnews/article/u15ki3g7b"
-        },
-        {
-          "id": "particula-15m-smart-toys",
-          "title": "Israeli smart-toy maker Particula raises $15M to expand globally",
-          "note": "GoCube creator broadens into a portfolio of connected physical games; Elah Fund leads",
-          "url": "https://www.calcalistech.com/ctechnews/article/bkj3znn00ze"
+          "id": "anthropic-decart-deal-collapse",
+          "title": "Anthropic walks away from its $6B deal to buy Israeli startup Decart",
+          "note": "Would have been Anthropic's first Israel acquisition and largest ever; talks collapsed ahead of its expected IPO",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-08/anthropic-said-to-walk-away-from-6-billion-decart-acquisition"
         }
       ]
     }
