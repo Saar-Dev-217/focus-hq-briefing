@@ -1,26 +1,33 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": []
+      "items": [
+        {
+          "id": "reframe-systems-40m-microfactories",
+          "title": "Reframe Systems raises $40M to expand robotic homebuilding microfactories",
+          "note": "Energy Impact Partners-led round scales its robots-plus-software approach to framing homes 3x faster at 35% lower cost",
+          "url": "https://www.businesswire.com/news/home/20260831532459/en/Reframe-Systems-Raises-$40M-to-Industrialize-Homebuilding-and-Expand-Microfactory-Network"
+        }
+      ]
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "nvidia-hugging-face-acquisition",
-          "title": "Nvidia agrees to buy Hugging Face for $13 billion",
-          "note": "Nvidia's second-biggest acquisition ever, folding the open-model hub into its AI stack; closes H1 2027",
-          "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html"
+          "id": "mistral-3b-series-d",
+          "title": "Mistral raises €3B in Europe's largest-ever tech round",
+          "note": "Samsung-led Series D values the French lab at over €21B to fund sovereign AI compute and infrastructure",
+          "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
         },
         {
-          "id": "gimlet-labs-300m-inference",
-          "title": "Gimlet Labs raises $300M for a multi-silicon inference cloud built for agentic AI",
-          "note": "Series B at $3B valuation led by a16z, with Arm and Microsoft backing a chip-agnostic inference layer",
-          "url": "https://www.globenewswire.com/news-release/2026/09/04/3356707/0/en/now-valued-at-3-billion-gimlet-labs-raises-300-million-in-series-b-led-by-andreessen-horowitz-for-industry-s-first-multi-silicon-inference-cloud-for-agentic-ai.html"
+          "id": "cognition-2b-raise-48b",
+          "title": "Cognition raises $2B at a $48B valuation",
+          "note": "a16z, Accel, Founders Fund and General Catalyst back the AI coding agent maker just months after its Windsurf deal",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-08/ai-startup-cognition-raises-2-billion-at-a-48-billion-value"
         }
       ]
     },
@@ -29,10 +36,10 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "mba-mortgage-applications-rise",
-          "title": "Mortgage applications tick up as 30-year rate holds near 6.79%",
-          "note": "Purchase index up 2% week-over-week even with rates near 13-month highs, per MBA's weekly survey",
-          "url": "https://www.mba.org/news-and-research/newsroom/news/2026/09/02/mortgage-applications-increase-in-latest-mba-weekly-survey"
+          "id": "redfin-new-listings-4-year-high",
+          "title": "New listings hit a 4-year high as sellers keep adjusting expectations",
+          "note": "Supply outpacing demand tips more markets toward buyers even as mortgage rates sit near 13-month highs",
+          "url": "https://www.prnewswire.com/news-releases/redfin-reports-homebuyers-have-more-fresh-options-than-theyve-had-in-4-years-302868467.html"
         }
       ]
     },
@@ -41,10 +48,22 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "anthropic-decart-deal-collapse",
-          "title": "Anthropic walks away from its $6B deal to buy Israeli startup Decart",
-          "note": "Would have been Anthropic's first Israel acquisition and largest ever; talks collapsed ahead of its expected IPO",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-08/anthropic-said-to-walk-away-from-6-billion-decart-acquisition"
+          "id": "servicenow-acquires-sweep",
+          "title": "ServiceNow acquires Israeli AI startup Sweep",
+          "note": "Hundreds-of-millions deal is ServiceNow's second Israeli buy in two months, building its agentic-work stack",
+          "url": "https://www.calcalistech.com/ctechnews/article/r19lbzwdfx"
+        },
+        {
+          "id": "collplant-acquires-lightsolver",
+          "title": "CollPlant completes acquisition of Israeli laser-computing startup LightSolver",
+          "note": "Nasdaq-listed biotech enters photonic/supercomputing with LightSolver's laser processing unit, already tested by Boeing",
+          "url": "https://www.prnewswire.com/news-releases/collplant-completes-acquisition-of-lightsolver-entering-the-photonic-computing-sector-302868948.html"
+        },
+        {
+          "id": "team8-emerging-manager-paradox",
+          "title": "Team8 flags a funding drought for small VC funds even as mega-rounds boom",
+          "note": "Partner Aaron Dubin's research shows LPs put just 6% of 2025 commitments into funds under $50M, a post-dot-com low",
+          "url": "https://siliconangle.com/2026/09/08/exclusive-team8-finds-institutional-money-for-small-venture-funds-at-a-post-dot-com-low/"
         }
       ]
     }
