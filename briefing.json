@@ -1,15 +1,21 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
       "items": [
         {
-          "id": "reframe-systems-40m-microfactories",
-          "title": "Reframe Systems raises $40M to expand robotic homebuilding microfactories",
-          "note": "Energy Impact Partners-led round scales its robots-plus-software approach to framing homes 3x faster at 35% lower cost",
-          "url": "https://www.businesswire.com/news/home/20260831532459/en/Reframe-Systems-Raises-$40M-to-Industrialize-Homebuilding-and-Expand-Microfactory-Network"
+          "id": "clay-115m-series-d-7-1b",
+          "title": "Clay raises $115M Series D at a $7.1B valuation",
+          "note": "Wellington-led round more than doubles the AI go-to-market platform's value in a year, now 17,000 clients",
+          "url": "https://siliconangle.com/2026/09/09/sales-automation-startup-clay-boosts-valuation-to-7-1b-in-115m-funding-round/"
+        },
+        {
+          "id": "lightfield-47m-series-a-crm",
+          "title": "Lightfield raises $47M Series A to build an AI-native CRM",
+          "note": "a16z-led round backs the Tome founders' pivot to an agent-ready Salesforce alternative, now at 5,000 customers",
+          "url": "https://siliconangle.com/2026/09/09/ai-native-crm-startup-lightfield-raises-47m-to-build-an-ai-agent-ready-replacement-for-salesforce/"
         }
       ]
     },
@@ -18,16 +24,16 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "mistral-3b-series-d",
-          "title": "Mistral raises €3B in Europe's largest-ever tech round",
-          "note": "Samsung-led Series D values the French lab at over €21B to fund sovereign AI compute and infrastructure",
-          "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
+          "id": "meta-muse-personal-agent-launch",
+          "title": "Meta launches Muse, a personal AI agent for everyday tasks",
+          "note": "free tier plus $20 and $100 monthly plans, runs on its own dedicated secure cloud computer",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-08/meta-announces-muse-ai-agent-for-personal-tasks-and-organization"
         },
         {
-          "id": "cognition-2b-raise-48b",
-          "title": "Cognition raises $2B at a $48B valuation",
-          "note": "a16z, Accel, Founders Fund and General Catalyst back the AI coding agent maker just months after its Windsurf deal",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-08/ai-startup-cognition-raises-2-billion-at-a-48-billion-value"
+          "id": "crusoe-3b-series-f-30b-valuation",
+          "title": "Crusoe raises $3B at a $30B valuation to build AI data centers",
+          "note": "valuation triples in ten months as Atreides and Valor co-lead, following its $13B Jane Street GPU deal",
+          "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
         }
       ]
     },
@@ -36,10 +42,16 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "redfin-new-listings-4-year-high",
-          "title": "New listings hit a 4-year high as sellers keep adjusting expectations",
-          "note": "Supply outpacing demand tips more markets toward buyers even as mortgage rates sit near 13-month highs",
-          "url": "https://www.prnewswire.com/news-releases/redfin-reports-homebuyers-have-more-fresh-options-than-theyve-had-in-4-years-302868467.html"
+          "id": "mba-mortgage-applications-decrease",
+          "title": "Mortgage applications fall again as rates hit 6.85%",
+          "note": "MBA's weekly survey shows a 2.7% drop and refis down 6% with rates near a 13-month high",
+          "url": "https://www.mba.org/news-and-research/newsroom/news/2026/09/09/mortgage-applications-decrease-in-latest-mba-weekly-survey"
+        },
+        {
+          "id": "housingwire-supply-demand-signals",
+          "title": "New listings keep outpacing pending sales nationally",
+          "note": "just 95 new pendings for every 100 new listings as sellers cut prices faster than buyers respond",
+          "url": "https://www.housingwire.com/articles/housing-market-signals-local-supply-demand/"
         }
       ]
     },
@@ -48,22 +60,16 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "servicenow-acquires-sweep",
-          "title": "ServiceNow acquires Israeli AI startup Sweep",
-          "note": "Hundreds-of-millions deal is ServiceNow's second Israeli buy in two months, building its agentic-work stack",
-          "url": "https://www.calcalistech.com/ctechnews/article/r19lbzwdfx"
+          "id": "upwind-300m-cloud-security",
+          "title": "Upwind raises $300M, valuation more than doubles to $3.8B in five months",
+          "note": "Bessemer and TCV lead the round for the Israeli runtime cloud-security startup, up from a $1.5B Series B in January",
+          "url": "https://www.calcalistech.com/ctechnews/article/0kbwgdw01"
         },
         {
-          "id": "collplant-acquires-lightsolver",
-          "title": "CollPlant completes acquisition of Israeli laser-computing startup LightSolver",
-          "note": "Nasdaq-listed biotech enters photonic/supercomputing with LightSolver's laser processing unit, already tested by Boeing",
-          "url": "https://www.prnewswire.com/news-releases/collplant-completes-acquisition-of-lightsolver-entering-the-photonic-computing-sector-302868948.html"
-        },
-        {
-          "id": "team8-emerging-manager-paradox",
-          "title": "Team8 flags a funding drought for small VC funds even as mega-rounds boom",
-          "note": "Partner Aaron Dubin's research shows LPs put just 6% of 2025 commitments into funds under $50M, a post-dot-com low",
-          "url": "https://siliconangle.com/2026/09/08/exclusive-team8-finds-institutional-money-for-small-venture-funds-at-a-post-dot-com-low/"
+          "id": "xtend-nyse-merger-1-5b",
+          "title": "Israeli drone maker XTEND begins trading on the NYSE after $1.5B merger",
+          "note": "all-stock deal with JFB Construction Holdings lists the combined XTEND AI Robotics as XTND",
+          "url": "https://www.calcalistech.com/ctechnews/article/38443knhl"
         }
       ]
     }
