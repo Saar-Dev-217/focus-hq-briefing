@@ -1,21 +1,21 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-13",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
       "items": [
         {
-          "id": "clay-115m-series-d-7-1b",
-          "title": "Clay raises $115M Series D at a $7.1B valuation",
-          "note": "Wellington-led round more than doubles the AI go-to-market platform's value in a year, now 17,000 clients",
-          "url": "https://siliconangle.com/2026/09/09/sales-automation-startup-clay-boosts-valuation-to-7-1b-in-115m-funding-round/"
+          "id": "servicetitan-stock-craters-revenue-timing",
+          "title": "ServiceTitan stock craters 30% after Q2 report surfaces revenue-timing issues",
+          "note": "weak Q3 guidance, a CRO exit, and a pullback from new trade verticals to fund its AI Max push wipe out $2B+ in market cap",
+          "url": "https://www.globenewswire.com/news-release/2026/09/11/3360060/32716/en/servicetitan-nasdaq-ttan-scrutinized-over-surprise-revenue-timing-and-other-issues-driving-stock-down-30-hbss.html"
         },
         {
-          "id": "lightfield-47m-series-a-crm",
-          "title": "Lightfield raises $47M Series A to build an AI-native CRM",
-          "note": "a16z-led round backs the Tome founders' pivot to an agent-ready Salesforce alternative, now at 5,000 customers",
-          "url": "https://siliconangle.com/2026/09/09/ai-native-crm-startup-lightfield-raises-47m-to-build-an-ai-agent-ready-replacement-for-salesforce/"
+          "id": "buildcheck-12m-series-a-construction-ai",
+          "title": "Buildcheck raises $12M Series A for AI construction-drawing review",
+          "note": "Telescope Partners leads, DPR Construction's venture arm joins, company has grown 4x to 110+ paying customers",
+          "url": "https://www.globenewswire.com/news-release/2026/09/09/3358881/0/en/buildcheck-raises-12m-series-a-to-equip-construction-teams-with-vision-based-ai-for-drawing-reviews.html"
         }
       ]
     },
@@ -24,16 +24,16 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "meta-muse-personal-agent-launch",
-          "title": "Meta launches Muse, a personal AI agent for everyday tasks",
-          "note": "free tier plus $20 and $100 monthly plans, runs on its own dedicated secure cloud computer",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-08/meta-announces-muse-ai-agent-for-personal-tasks-and-organization"
+          "id": "openai-agents-api-public-beta",
+          "title": "OpenAI opens the Agents API to all developers in public beta",
+          "note": "puts the Codex harness behind one API call, with managed orchestration, long-running sessions, and hosted sandboxes",
+          "url": "https://openai.com/index/introducing-the-agents-api/"
         },
         {
-          "id": "crusoe-3b-series-f-30b-valuation",
-          "title": "Crusoe raises $3B at a $30B valuation to build AI data centers",
-          "note": "valuation triples in ten months as Atreides and Valor co-lead, following its $13B Jane Street GPU deal",
-          "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
+          "id": "tar-120m-off-grid-ai-power",
+          "title": "TAR raises $120M to build off-grid power systems for AI data centers",
+          "note": "Spark Capital leads at a $1B valuation as power becomes the bottleneck to scaling compute",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-10/anthropic-investor-leads-funding-for-off-grid-ai-power-startup"
         }
       ]
     },
@@ -42,16 +42,16 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "mba-mortgage-applications-decrease",
-          "title": "Mortgage applications fall again as rates hit 6.85%",
-          "note": "MBA's weekly survey shows a 2.7% drop and refis down 6% with rates near a 13-month high",
-          "url": "https://www.mba.org/news-and-research/newsroom/news/2026/09/09/mortgage-applications-decrease-in-latest-mba-weekly-survey"
+          "id": "nar-existing-home-sales-inventory-decade-high",
+          "title": "Existing-home sales slip 2% as inventory hits a decade high",
+          "note": "1.62M unsold homes now on the market, a 4.9-month supply, as high mortgage rates keep buyers on the sidelines",
+          "url": "https://www.globenewswire.com/news-release/2026/09/10/3359670/0/en/nar-existing-home-sales-report-shows-2-0-decrease-in-august.html"
         },
         {
-          "id": "housingwire-supply-demand-signals",
-          "title": "New listings keep outpacing pending sales nationally",
-          "note": "just 95 new pendings for every 100 new listings as sellers cut prices faster than buyers respond",
-          "url": "https://www.housingwire.com/articles/housing-market-signals-local-supply-demand/"
+          "id": "freddie-mac-rate-676-13-month-high",
+          "title": "Mortgage rates climb to 6.76%, highest since June 2025",
+          "note": "30-year fixed rises from 6.71% a week earlier, up more than 40 basis points year-over-year",
+          "url": "https://www.globenewswire.com/news-release/2026/09/10/3359803/0/en/mortgage-rates-average-6-76.html"
         }
       ]
     },
@@ -60,16 +60,16 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "upwind-300m-cloud-security",
-          "title": "Upwind raises $300M, valuation more than doubles to $3.8B in five months",
-          "note": "Bessemer and TCV lead the round for the Israeli runtime cloud-security startup, up from a $1.5B Series B in January",
-          "url": "https://www.calcalistech.com/ctechnews/article/0kbwgdw01"
+          "id": "kiteworks-acquires-bonfy-ai",
+          "title": "Kiteworks acquires Israeli startup Bonfy.AI",
+          "note": "deal estimated at tens of millions brings real-time sensitive-data classification into Kiteworks' platform",
+          "url": "https://www.calcalistech.com/ctechnews/article/nks0qfc9h"
         },
         {
-          "id": "xtend-nyse-merger-1-5b",
-          "title": "Israeli drone maker XTEND begins trading on the NYSE after $1.5B merger",
-          "note": "all-stock deal with JFB Construction Holdings lists the combined XTEND AI Robotics as XTND",
-          "url": "https://www.calcalistech.com/ctechnews/article/38443knhl"
+          "id": "prytek-acquires-scanovate-50m",
+          "title": "Prytek acquires Israeli digital-identity firm Scanovate for $50M",
+          "note": "bootstrapped company serving 250+ clients including 120 financial institutions folds into Prytek's ecosystem",
+          "url": "https://www.calcalistech.com/ctechnews/article/h1yq0r0ofx"
         }
       ]
     }
