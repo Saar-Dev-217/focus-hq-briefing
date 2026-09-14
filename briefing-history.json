@@ -1,5 +1,5 @@
 {
-  "_comment": "Every story ever shipped in a briefing. The writer MUST read this and never repeat a url — or the same story from a different outlet. A repeat is the fastest way to make the TLDR worthless. Append after each briefing.",
+  "_comment": "Every story ever shipped in a briefing. The writer MUST read this and never repeat a url \u2014 or the same story from a different outlet. A repeat is the fastest way to make the TLDR worthless. Append after each briefing.",
   "shipped": [
     {
       "date": "2026-07-13",
@@ -496,6 +496,15 @@
         "https://www.globenewswire.com/news-release/2026/09/10/3359803/0/en/mortgage-rates-average-6-76.html",
         "https://www.calcalistech.com/ctechnews/article/nks0qfc9h",
         "https://www.calcalistech.com/ctechnews/article/h1yq0r0ofx"
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "urls": [
+        "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+        "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+        "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+        "https://www.calcalistech.com/ctechnews/article/qs4rvoqbv"
       ]
     }
   ]

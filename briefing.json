@@ -1,21 +1,15 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
       "items": [
         {
-          "id": "servicetitan-stock-craters-revenue-timing",
-          "title": "ServiceTitan stock craters 30% after Q2 report surfaces revenue-timing issues",
-          "note": "weak Q3 guidance, a CRO exit, and a pullback from new trade verticals to fund its AI Max push wipe out $2B+ in market cap",
-          "url": "https://www.globenewswire.com/news-release/2026/09/11/3360060/32716/en/servicetitan-nasdaq-ttan-scrutinized-over-surprise-revenue-timing-and-other-issues-driving-stock-down-30-hbss.html"
-        },
-        {
-          "id": "buildcheck-12m-series-a-construction-ai",
-          "title": "Buildcheck raises $12M Series A for AI construction-drawing review",
-          "note": "Telescope Partners leads, DPR Construction's venture arm joins, company has grown 4x to 110+ paying customers",
-          "url": "https://www.globenewswire.com/news-release/2026/09/09/3358881/0/en/buildcheck-raises-12m-series-a-to-equip-construction-teams-with-vision-based-ai-for-drawing-reviews.html"
+          "id": "navigateai-25m-construction-labor-ai",
+          "title": "NavigateAI raises $25M for AI construction labor copilots",
+          "note": "Eric Wu's company, out of stealth since May, backed by Elad Gil, Khosla Ventures, and homebuilder Lennar",
+          "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/"
         }
       ]
     },
@@ -24,52 +18,33 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "openai-agents-api-public-beta",
-          "title": "OpenAI opens the Agents API to all developers in public beta",
-          "note": "puts the Codex harness behind one API call, with managed orchestration, long-running sessions, and hosted sandboxes",
-          "url": "https://openai.com/index/introducing-the-agents-api/"
+          "id": "amodei-pace-the-frontier",
+          "title": "Anthropic's Amodei calls to \"pace the frontier,\" OpenAI and xAI back it within hours",
+          "note": "Anthropic unilaterally commits to giving third-party evaluators permanent, employee-level access as step one",
+          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
         },
         {
-          "id": "tar-120m-off-grid-ai-power",
-          "title": "TAR raises $120M to build off-grid power systems for AI data centers",
-          "note": "Spark Capital leads at a $1B valuation as power becomes the bottleneck to scaling compute",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-10/anthropic-investor-leads-funding-for-off-grid-ai-power-startup"
+          "id": "openai-gpt-live-1-api",
+          "title": "OpenAI brings full-duplex voice model GPT-Live-1 to the API",
+          "note": "listens and speaks simultaneously at $0.05/minute, cut wrong interruptions 80% for early enterprise users",
+          "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/"
         }
       ]
     },
     {
       "id": "us-real-estate",
       "title": "US real estate",
-      "items": [
-        {
-          "id": "nar-existing-home-sales-inventory-decade-high",
-          "title": "Existing-home sales slip 2% as inventory hits a decade high",
-          "note": "1.62M unsold homes now on the market, a 4.9-month supply, as high mortgage rates keep buyers on the sidelines",
-          "url": "https://www.globenewswire.com/news-release/2026/09/10/3359670/0/en/nar-existing-home-sales-report-shows-2-0-decrease-in-august.html"
-        },
-        {
-          "id": "freddie-mac-rate-676-13-month-high",
-          "title": "Mortgage rates climb to 6.76%, highest since June 2025",
-          "note": "30-year fixed rises from 6.71% a week earlier, up more than 40 basis points year-over-year",
-          "url": "https://www.globenewswire.com/news-release/2026/09/10/3359803/0/en/mortgage-rates-average-6-76.html"
-        }
-      ]
+      "items": []
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
       "items": [
         {
-          "id": "kiteworks-acquires-bonfy-ai",
-          "title": "Kiteworks acquires Israeli startup Bonfy.AI",
-          "note": "deal estimated at tens of millions brings real-time sensitive-data classification into Kiteworks' platform",
-          "url": "https://www.calcalistech.com/ctechnews/article/nks0qfc9h"
-        },
-        {
-          "id": "prytek-acquires-scanovate-50m",
-          "title": "Prytek acquires Israeli digital-identity firm Scanovate for $50M",
-          "note": "bootstrapped company serving 250+ clients including 120 financial institutions folds into Prytek's ecosystem",
-          "url": "https://www.calcalistech.com/ctechnews/article/h1yq0r0ofx"
+          "id": "anthropic-drops-decart-acquisition",
+          "title": "Anthropic walks away from $6B deal to acquire Israeli AI startup Decart",
+          "note": "deal collapsed after due diligence into the video-generation and AI-infra company's business and tech",
+          "url": "https://www.calcalistech.com/ctechnews/article/qs4rvoqbv"
         }
       ]
     }
