@@ -1,15 +1,15 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
       "items": [
         {
-          "id": "navigateai-25m-construction-labor-ai",
-          "title": "NavigateAI raises $25M for AI construction labor copilots",
-          "note": "Eric Wu's company, out of stealth since May, backed by Elad Gil, Khosla Ventures, and homebuilder Lennar",
-          "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/"
+          "id": "buildots-130m-contech-ai",
+          "title": "Buildots raises $130M to bring AI to mega-project construction",
+          "note": "led by Eyal Ofer's OG Venture Partners, targets data centers, chip fabs, and hospital builds",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-14/intel-backed-construction-ai-firm-buildots-raises-130-million"
         }
       ]
     },
@@ -18,33 +18,40 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "amodei-pace-the-frontier",
-          "title": "Anthropic's Amodei calls to \"pace the frontier,\" OpenAI and xAI back it within hours",
-          "note": "Anthropic unilaterally commits to giving third-party evaluators permanent, employee-level access as step one",
-          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+          "id": "anthropic-nvidia-ipo-anchor",
+          "title": "Anthropic taps Nvidia as anchor investor for a record-setting IPO",
+          "note": "Nvidia weighing up to $10B at a roughly $2T valuation, could be the biggest IPO ever",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-11/nvidia-in-talks-to-invest-up-to-10b-in-anthropic-ipo-reuters"
         },
         {
-          "id": "openai-gpt-live-1-api",
-          "title": "OpenAI brings full-duplex voice model GPT-Live-1 to the API",
-          "note": "listens and speaks simultaneously at $0.05/minute, cut wrong interruptions 80% for early enterprise users",
-          "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/"
+          "id": "openai-altman-no-2026-ipo",
+          "title": "OpenAI's Altman rules out a 2026 IPO, citing AI safety concerns",
+          "note": "says going public now would be an \"ill-advised moment\" given the risks",
+          "url": "https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/"
         }
       ]
     },
     {
       "id": "us-real-estate",
       "title": "US real estate",
-      "items": []
+      "items": [
+        {
+          "id": "mortgage-payment-14-month-high",
+          "title": "Typical US mortgage payment hits a 14-month high of $2,641",
+          "note": "median home price up 2.2% YoY as the 30-year rate climbs to 6.76%, pending sales near lowest since February",
+          "url": "https://www.prnewswire.com/news-releases/high-costs-sideline-some-would-be-homebuyers-handing-upper-hand-to-those-who-stay-in-the-market-302874472.html"
+        }
+      ]
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
       "items": [
         {
-          "id": "anthropic-drops-decart-acquisition",
-          "title": "Anthropic walks away from $6B deal to acquire Israeli AI startup Decart",
-          "note": "deal collapsed after due diligence into the video-generation and AI-infra company's business and tech",
-          "url": "https://www.calcalistech.com/ctechnews/article/qs4rvoqbv"
+          "id": "cylake-nir-zuk-245m",
+          "title": "Palo Alto Networks founder Nir Zuk raises $245M for new startup Cylake",
+          "note": "convertible-note raise ahead of beta launch, brings the cybersecurity startup's total to $290M",
+          "url": "https://www.calcalistech.com/ctechnews/article/xuk9qlt8w"
         }
       ]
     }
