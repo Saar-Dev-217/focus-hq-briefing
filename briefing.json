@@ -1,33 +1,26 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": [
-        {
-          "id": "buildots-130m-contech-ai",
-          "title": "Buildots raises $130M to bring AI to mega-project construction",
-          "note": "led by Eyal Ofer's OG Venture Partners, targets data centers, chip fabs, and hospital builds",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-14/intel-backed-construction-ai-firm-buildots-raises-130-million"
-        }
-      ]
+      "items": []
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "anthropic-nvidia-ipo-anchor",
-          "title": "Anthropic taps Nvidia as anchor investor for a record-setting IPO",
-          "note": "Nvidia weighing up to $10B at a roughly $2T valuation, could be the biggest IPO ever",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-11/nvidia-in-talks-to-invest-up-to-10b-in-anthropic-ipo-reuters"
+          "id": "openai-anthropic-google-safety-talks",
+          "title": "OpenAI, Anthropic and Google have been quietly coordinating on AI safety",
+          "note": "policy chiefs confirm weeks of joint safety talks across the three labs",
+          "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/"
         },
         {
-          "id": "openai-altman-no-2026-ipo",
-          "title": "OpenAI's Altman rules out a 2026 IPO, citing AI safety concerns",
-          "note": "says going public now would be an \"ill-advised moment\" given the risks",
-          "url": "https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/"
+          "id": "eve-security-agent-runtime-4-5m",
+          "title": "Eve Security raises $4.5M to police rogue AI agents at runtime",
+          "note": "extends seed to $7.5M, covers Databricks, Copilot Studio, Bedrock and AgentCore deployments",
+          "url": "https://www.prnewswire.com/news-releases/eve-security-extends-seed-round-to-7-5-million-as-rogue-ai-agents-turn-runtime-security-into-an-enterprise-imperative-302878598.html"
         }
       ]
     },
@@ -36,10 +29,10 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "mortgage-payment-14-month-high",
-          "title": "Typical US mortgage payment hits a 14-month high of $2,641",
-          "note": "median home price up 2.2% YoY as the 30-year rate climbs to 6.76%, pending sales near lowest since February",
-          "url": "https://www.prnewswire.com/news-releases/high-costs-sideline-some-would-be-homebuyers-handing-upper-hand-to-those-who-stay-in-the-market-302874472.html"
+          "id": "mortgage-rates-above-7-2026",
+          "title": "Mortgage rates break above 7% for the first time this year",
+          "note": "10-year yield nearing 5% squeezes inventory and pending sales",
+          "url": "https://www.housingwire.com/articles/housing-market-faces-headwinds-as-mortgage-rates-move-above-7/"
         }
       ]
     },
@@ -48,10 +41,16 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "cylake-nir-zuk-245m",
-          "title": "Palo Alto Networks founder Nir Zuk raises $245M for new startup Cylake",
-          "note": "convertible-note raise ahead of beta launch, brings the cybersecurity startup's total to $290M",
-          "url": "https://www.calcalistech.com/ctechnews/article/xuk9qlt8w"
+          "id": "ondas-buys-gate-technologies-390m",
+          "title": "Ondas buys Israeli defense-tech firm Gate Technologies for up to $390M",
+          "note": "$205M upfront plus $185M earn-out through 2028, expands drone and fuzing systems footprint",
+          "url": "https://en.globes.co.il/en/article-ondas-buys-israeli-co-gate-technologies-for-up-to-390m-1001555444"
+        },
+        {
+          "id": "keewano-agent-database-12m-seed",
+          "title": "Tel Aviv's Keewano raises $12M seed for an agent-focused database",
+          "note": "led by Hetz Ventures with a16z, built by ex-Plarium leaders for AI agent behavioral context",
+          "url": "https://siliconangle.com/2026/09/15/startup-keewano-launches-agent-focused-database-and-pulls-in-12m-in-funding/"
         }
       ]
     }
