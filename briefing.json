@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "topics": [
     {
       "id": "my-market",
@@ -11,16 +11,16 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "openai-anthropic-google-safety-talks",
-          "title": "OpenAI, Anthropic and Google have been quietly coordinating on AI safety",
-          "note": "policy chiefs confirm weeks of joint safety talks across the three labs",
-          "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/"
+          "id": "typesafe-ai-stealth-40m",
+          "title": "TypeSafe AI emerges from stealth with $40M seed",
+          "note": "ex-OpenAI RLHF co-inventor Diogo Almeida builds AI as machine-readable software components instead of chat agents, led by DCVC",
+          "url": "https://www.businesswire.com/news/home/20260915525333/en/TypeSafe-AI-Emerges-From-Stealth-With-%2440M-in-Funding-With-New-Model-for-Composable-AI"
         },
         {
-          "id": "eve-security-agent-runtime-4-5m",
-          "title": "Eve Security raises $4.5M to police rogue AI agents at runtime",
-          "note": "extends seed to $7.5M, covers Databricks, Copilot Studio, Bedrock and AgentCore deployments",
-          "url": "https://www.prnewswire.com/news-releases/eve-security-extends-seed-round-to-7-5-million-as-rogue-ai-agents-turn-runtime-security-into-an-enterprise-imperative-302878598.html"
+          "id": "anthropic-retires-claude-cowork",
+          "title": "Anthropic retires Claude Cowork, folds it into Claude chat",
+          "note": "launches Claude Docs and Claude Slides as agentic workspace features move into the main app",
+          "url": "https://venturebeat.com/technology/anthropic-is-killing-off-cowork-and-folding-it-into-claude-launching-claude-docs-and-claude-slides"
         }
       ]
     },
@@ -29,30 +29,17 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "mortgage-rates-above-7-2026",
-          "title": "Mortgage rates break above 7% for the first time this year",
-          "note": "10-year yield nearing 5% squeezes inventory and pending sales",
-          "url": "https://www.housingwire.com/articles/housing-market-faces-headwinds-as-mortgage-rates-move-above-7/"
+          "id": "fed-rate-hike-mortgage-rates-7-percent",
+          "title": "Fed hikes rates for first time since 2023, mortgage relief looks distant",
+          "note": "NAR chief economist calls the path to lower mortgage rates 'highly uncertain' as 30-year rates push toward 7%",
+          "url": "https://www.realestatenews.com/2026/09/16/path-to-lower-mortgage-rates-highly-uncertain-after-fed-hike"
         }
       ]
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
-      "items": [
-        {
-          "id": "ondas-buys-gate-technologies-390m",
-          "title": "Ondas buys Israeli defense-tech firm Gate Technologies for up to $390M",
-          "note": "$205M upfront plus $185M earn-out through 2028, expands drone and fuzing systems footprint",
-          "url": "https://en.globes.co.il/en/article-ondas-buys-israeli-co-gate-technologies-for-up-to-390m-1001555444"
-        },
-        {
-          "id": "keewano-agent-database-12m-seed",
-          "title": "Tel Aviv's Keewano raises $12M seed for an agent-focused database",
-          "note": "led by Hetz Ventures with a16z, built by ex-Plarium leaders for AI agent behavioral context",
-          "url": "https://siliconangle.com/2026/09/15/startup-keewano-launches-agent-focused-database-and-pulls-in-12m-in-funding/"
-        }
-      ]
+      "items": []
     }
   ]
 }
