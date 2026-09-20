@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-20",
   "topics": [
     {
       "id": "my-market",
@@ -11,16 +11,22 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "typesafe-ai-stealth-40m",
-          "title": "TypeSafe AI emerges from stealth with $40M seed",
-          "note": "ex-OpenAI RLHF co-inventor Diogo Almeida builds AI as machine-readable software components instead of chat agents, led by DCVC",
-          "url": "https://www.businesswire.com/news/home/20260915525333/en/TypeSafe-AI-Emerges-From-Stealth-With-%2440M-in-Funding-With-New-Model-for-Composable-AI"
+          "id": "ai-labs-antitrust-slowdown-suit",
+          "title": "Lawsuit accuses Anthropic, OpenAI, xAI and Google of illegally agreeing to slow AI",
+          "note": "suit says the labs' Sept 12 pace-the-frontier pledges were coordinated antitrust violation, not independent safety moves",
+          "url": "https://fortune.com/2026/09/19/lawsuit-anthropic-openai-spacexai-google-antitrust-laws-ai-slowdown-subscription-value/"
         },
         {
-          "id": "anthropic-retires-claude-cowork",
-          "title": "Anthropic retires Claude Cowork, folds it into Claude chat",
-          "note": "launches Claude Docs and Claude Slides as agentic workspace features move into the main app",
-          "url": "https://venturebeat.com/technology/anthropic-is-killing-off-cowork-and-folding-it-into-claude-launching-claude-docs-and-claude-slides"
+          "id": "anthropic-accenture-embedded-evaluator",
+          "title": "Anthropic taps Accenture as its first embedded AI safety evaluator",
+          "note": "both companies commit $1B+ over five years, Accenture's Faculty unit gets employee-level access to red-team models",
+          "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/"
+        },
+        {
+          "id": "temporal-550m-series-e",
+          "title": "Temporal raises $550M Series E at $12.55B valuation",
+          "note": "durable-execution platform underpinning agentic workflows, billable actions up 350% YoY",
+          "url": "https://siliconangle.com/2026/09/14/software-reliability-specialist-temporal-valued-at-12-55b-in-550m-round/"
         }
       ]
     },
@@ -29,17 +35,30 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "fed-rate-hike-mortgage-rates-7-percent",
-          "title": "Fed hikes rates for first time since 2023, mortgage relief looks distant",
-          "note": "NAR chief economist calls the path to lower mortgage rates 'highly uncertain' as 30-year rates push toward 7%",
-          "url": "https://www.realestatenews.com/2026/09/16/path-to-lower-mortgage-rates-highly-uncertain-after-fed-hike"
+          "id": "mortgage-rates-jump-6-95",
+          "title": "Mortgage rates jump to 6.95%, sharpest weekly rise in months",
+          "note": "30-year fixed up from 6.76% a week earlier per Freddie Mac's PMMS",
+          "url": "https://www.globenewswire.com/news-release/2026/09/17/3364253/0/en/mortgage-rates-average-6-95.html"
+        },
+        {
+          "id": "attom-foreclosures-august-2026",
+          "title": "Foreclosure filings up 13% year-over-year in August, ATTOM reports",
+          "note": "completed foreclosures surged 42% YoY, distressed supply keeps growing",
+          "url": "https://www.prnewswire.com/news-releases/foreclosure-activity-remains-above-year-ago-levels-in-august-2026-302881135.html"
         }
       ]
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
-      "items": []
+      "items": [
+        {
+          "id": "openai-acquires-glass-imaging",
+          "title": "OpenAI acquires Israeli-founded camera startup Glass Imaging for $300M+",
+          "note": "deal feeds OpenAI's push into consumer hardware alongside its Jony Ive device effort",
+          "url": "https://www.calcalistech.com/ctechnews/article/hyu2w0hkzl"
+        }
+      ]
     }
   ]
 }

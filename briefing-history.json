@@ -1,5 +1,5 @@
 {
-  "_comment": "Every story ever shipped in a briefing. The writer MUST read this and never repeat a url \u2014 or the same story from a different outlet. A repeat is the fastest way to make the TLDR worthless. Append after each briefing.",
+  "_comment": "Every story ever shipped in a briefing. The writer MUST read this and never repeat a url — or the same story from a different outlet. A repeat is the fastest way to make the TLDR worthless. Append after each briefing.",
   "shipped": [
     {
       "date": "2026-07-13",
@@ -533,6 +533,17 @@
         "https://www.businesswire.com/news/home/20260915525333/en/TypeSafe-AI-Emerges-From-Stealth-With-%2440M-in-Funding-With-New-Model-for-Composable-AI",
         "https://venturebeat.com/technology/anthropic-is-killing-off-cowork-and-folding-it-into-claude-launching-claude-docs-and-claude-slides",
         "https://www.realestatenews.com/2026/09/16/path-to-lower-mortgage-rates-highly-uncertain-after-fed-hike"
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "urls": [
+        "https://fortune.com/2026/09/19/lawsuit-anthropic-openai-spacexai-google-antitrust-laws-ai-slowdown-subscription-value/",
+        "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+        "https://siliconangle.com/2026/09/14/software-reliability-specialist-temporal-valued-at-12-55b-in-550m-round/",
+        "https://www.globenewswire.com/news-release/2026/09/17/3364253/0/en/mortgage-rates-average-6-95.html",
+        "https://www.prnewswire.com/news-releases/foreclosure-activity-remains-above-year-ago-levels-in-august-2026-302881135.html",
+        "https://www.calcalistech.com/ctechnews/article/hyu2w0hkzl"
       ]
     }
   ]
