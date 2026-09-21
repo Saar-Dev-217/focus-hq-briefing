@@ -1,32 +1,27 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": []
+      "items": [
+        {
+          "id": "mainstay-acquires-truelist",
+          "title": "Mainstay acquires proptech Truelist, raises $18M to expand AI across real estate",
+          "note": "former Zillow exec's listing-agent AI startup folds into brokerage platform, deal closed in June",
+          "url": "https://www.globenewswire.com/news-release/2026/09/16/3363326/0/en/mainstay-raises-18m-and-acquires-truelist-to-expand-ai-infrastructure-across-residential-real-estate.html"
+        }
+      ]
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "ai-labs-antitrust-slowdown-suit",
-          "title": "Lawsuit accuses Anthropic, OpenAI, xAI and Google of illegally agreeing to slow AI",
-          "note": "suit says the labs' Sept 12 pace-the-frontier pledges were coordinated antitrust violation, not independent safety moves",
-          "url": "https://fortune.com/2026/09/19/lawsuit-anthropic-openai-spacexai-google-antitrust-laws-ai-slowdown-subscription-value/"
-        },
-        {
-          "id": "anthropic-accenture-embedded-evaluator",
-          "title": "Anthropic taps Accenture as its first embedded AI safety evaluator",
-          "note": "both companies commit $1B+ over five years, Accenture's Faculty unit gets employee-level access to red-team models",
-          "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/"
-        },
-        {
-          "id": "temporal-550m-series-e",
-          "title": "Temporal raises $550M Series E at $12.55B valuation",
-          "note": "durable-execution platform underpinning agentic workflows, billable actions up 350% YoY",
-          "url": "https://siliconangle.com/2026/09/14/software-reliability-specialist-temporal-valued-at-12-55b-in-550m-round/"
+          "id": "aiuc-40m-series-a",
+          "title": "AI agent certification startup AIUC raises $40M Series A",
+          "note": "AIUC-1 standard already certifies Cursor, Harvey and UiPath, total funding now $55M",
+          "url": "https://www.prnewswire.com/news-releases/aiuc-raises-40m-series-a-from-ribbit--first-harmonic-to-build-confidence-infrastructure-for-frontier-ai-302879036.html"
         }
       ]
     },
@@ -35,16 +30,10 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "mortgage-rates-jump-6-95",
-          "title": "Mortgage rates jump to 6.95%, sharpest weekly rise in months",
-          "note": "30-year fixed up from 6.76% a week earlier per Freddie Mac's PMMS",
-          "url": "https://www.globenewswire.com/news-release/2026/09/17/3364253/0/en/mortgage-rates-average-6-95.html"
-        },
-        {
-          "id": "attom-foreclosures-august-2026",
-          "title": "Foreclosure filings up 13% year-over-year in August, ATTOM reports",
-          "note": "completed foreclosures surged 42% YoY, distressed supply keeps growing",
-          "url": "https://www.prnewswire.com/news-releases/foreclosure-activity-remains-above-year-ago-levels-in-august-2026-302881135.html"
+          "id": "nar-pending-home-sales-august",
+          "title": "Pending home sales edge up 0.3% in August, still down 4.7% year-over-year",
+          "note": "contract signings held despite higher rates, South and West gained while Northeast and Midwest fell",
+          "url": "https://www.nar.realtor/newsroom/nar-pending-home-sales-report-shows-0-point-3-percent-increase-in-august"
         }
       ]
     },
@@ -53,10 +42,16 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "openai-acquires-glass-imaging",
-          "title": "OpenAI acquires Israeli-founded camera startup Glass Imaging for $300M+",
-          "note": "deal feeds OpenAI's push into consumer hardware alongside its Jony Ive device effort",
-          "url": "https://www.calcalistech.com/ctechnews/article/hyu2w0hkzl"
+          "id": "mind-72m-series-b",
+          "title": "Israeli DLP startup MIND triples valuation to $300M with $72M Series B",
+          "note": "AI-era data loss prevention firm posts 1,700% revenue growth, led by Crosspoint Capital",
+          "url": "https://www.calcalistech.com/ctechnews/article/hklf44yygl"
+        },
+        {
+          "id": "gonen-fink-leaves-palo-alto",
+          "title": "Palo Alto Networks' Israel R&D chief Gonen Fink steps down after a decade",
+          "note": "Cortex XDR/XSIAM architect exits, Danny Cohen and Peretz Regev take over jointly",
+          "url": "https://www.calcalistech.com/ctechnews/article/hj1pmloygg"
         }
       ]
     }
