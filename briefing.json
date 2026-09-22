@@ -1,15 +1,21 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
       "items": [
         {
-          "id": "mainstay-acquires-truelist",
-          "title": "Mainstay acquires proptech Truelist, raises $18M to expand AI across real estate",
-          "note": "former Zillow exec's listing-agent AI startup folds into brokerage platform, deal closed in June",
-          "url": "https://www.globenewswire.com/news-release/2026/09/16/3363326/0/en/mainstay-raises-18m-and-acquires-truelist-to-expand-ai-infrastructure-across-residential-real-estate.html"
+          "id": "adaptive-30m-series-b-construction-accounting",
+          "title": "Adaptive raises $30M Series B to bring agentic accounting to construction",
+          "note": "Tidemark-led round brings total to $57M, 750+ construction companies already run on it",
+          "url": "https://www.prnewswire.com/news-releases/adaptive-raises-30-million-series-b-led-by-tidemark-to-bring-agentic-accounting-to-construction-302881537.html"
+        },
+        {
+          "id": "scaffold-15m-seed-homebuilding",
+          "title": "Scaffold raises $15M seed to connect the systems that run residential construction",
+          "note": "Navitas-led round backed by D.R. Horton and Pulte, deployed on 200,000+ homes across 30 states",
+          "url": "https://www.globenewswire.com/news-release/2026/09/15/3362272/0/en/scaffold-raises-15-million-to-connect-the-systems-that-run-residential-construction.html"
         }
       ]
     },
@@ -18,10 +24,16 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "aiuc-40m-series-a",
-          "title": "AI agent certification startup AIUC raises $40M Series A",
-          "note": "AIUC-1 standard already certifies Cursor, Harvey and UiPath, total funding now $55M",
-          "url": "https://www.prnewswire.com/news-releases/aiuc-raises-40m-series-a-from-ribbit--first-harmonic-to-build-confidence-infrastructure-for-frontier-ai-302879036.html"
+          "id": "anthropic-weighs-model-counter-astra",
+          "title": "Anthropic weighs rushing a new model to counter OpenAI's GPT-6 Astra",
+          "note": "Astra now 13% of tracked enterprise AI spend vs Claude's 8%, tension with Amodei's slowdown call",
+          "url": "https://www.calcalistech.com/ctechnews/article/2p5pufxhf"
+        },
+        {
+          "id": "nvidia-huggingface-open-data-for-agents",
+          "title": "NVIDIA and Hugging Face launch Open Data for Agents",
+          "note": "permissively licensed datasets and training recipes to standardize how coding and tool-use agents are trained",
+          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents"
         }
       ]
     },
@@ -30,10 +42,10 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "nar-pending-home-sales-august",
-          "title": "Pending home sales edge up 0.3% in August, still down 4.7% year-over-year",
-          "note": "contract signings held despite higher rates, South and West gained while Northeast and Midwest fell",
-          "url": "https://www.nar.realtor/newsroom/nar-pending-home-sales-report-shows-0-point-3-percent-increase-in-august"
+          "id": "redfin-pending-home-sales-3-year-low",
+          "title": "Pending home sales dip to lowest level in nearly 3 years",
+          "note": "fell 3.5% week over week, hundreds of thousands more sellers than buyers in the market",
+          "url": "https://www.prnewswire.com/news-releases/redfin-reports-pending-home-sales-dip-to-lowest-level-in-nearly-3-years-302881368.html"
         }
       ]
     },
@@ -42,16 +54,10 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "mind-72m-series-b",
-          "title": "Israeli DLP startup MIND triples valuation to $300M with $72M Series B",
-          "note": "AI-era data loss prevention firm posts 1,700% revenue growth, led by Crosspoint Capital",
-          "url": "https://www.calcalistech.com/ctechnews/article/hklf44yygl"
-        },
-        {
-          "id": "gonen-fink-leaves-palo-alto",
-          "title": "Palo Alto Networks' Israel R&D chief Gonen Fink steps down after a decade",
-          "note": "Cortex XDR/XSIAM architect exits, Danny Cohen and Peretz Regev take over jointly",
-          "url": "https://www.calcalistech.com/ctechnews/article/hj1pmloygg"
+          "id": "gemini-hacked-companies-irregular-test",
+          "title": "Google's Gemini hacked three real companies during a cyber test run by Israeli startup Irregular",
+          "note": "Tel Aviv AI security lab's capture-the-flag test spilled into the real internet, Google disclosed after WSJ inquiry",
+          "url": "https://www.calcalistech.com/ctechnews/article/rkf76ehfzl"
         }
       ]
     }
