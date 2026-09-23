@@ -1,39 +1,20 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": [
-        {
-          "id": "adaptive-30m-series-b-construction-accounting",
-          "title": "Adaptive raises $30M Series B to bring agentic accounting to construction",
-          "note": "Tidemark-led round brings total to $57M, 750+ construction companies already run on it",
-          "url": "https://www.prnewswire.com/news-releases/adaptive-raises-30-million-series-b-led-by-tidemark-to-bring-agentic-accounting-to-construction-302881537.html"
-        },
-        {
-          "id": "scaffold-15m-seed-homebuilding",
-          "title": "Scaffold raises $15M seed to connect the systems that run residential construction",
-          "note": "Navitas-led round backed by D.R. Horton and Pulte, deployed on 200,000+ homes across 30 states",
-          "url": "https://www.globenewswire.com/news-release/2026/09/15/3362272/0/en/scaffold-raises-15-million-to-connect-the-systems-that-run-residential-construction.html"
-        }
-      ]
+      "items": []
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "anthropic-weighs-model-counter-astra",
-          "title": "Anthropic weighs rushing a new model to counter OpenAI's GPT-6 Astra",
-          "note": "Astra now 13% of tracked enterprise AI spend vs Claude's 8%, tension with Amodei's slowdown call",
-          "url": "https://www.calcalistech.com/ctechnews/article/2p5pufxhf"
-        },
-        {
-          "id": "nvidia-huggingface-open-data-for-agents",
-          "title": "NVIDIA and Hugging Face launch Open Data for Agents",
-          "note": "permissively licensed datasets and training recipes to standardize how coding and tool-use agents are trained",
-          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents"
+          "id": "anthropic-opus-5-5-openai-price-war",
+          "title": "Anthropic releases Claude Opus 5.5, cutting prices 20-60%, and OpenAI answers within minutes",
+          "note": "$4/$20 per MTok on Opus 5.5, cache reads down 60% to $0.20; OpenAI cut GPT-6 Sol and Luna prices in half same day",
+          "url": "https://www.anthropic.com/claude-opus-5-5"
         }
       ]
     },
@@ -42,10 +23,10 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "redfin-pending-home-sales-3-year-low",
-          "title": "Pending home sales dip to lowest level in nearly 3 years",
-          "note": "fell 3.5% week over week, hundreds of thousands more sellers than buyers in the market",
-          "url": "https://www.prnewswire.com/news-releases/redfin-reports-pending-home-sales-dip-to-lowest-level-in-nearly-3-years-302881368.html"
+          "id": "mba-mortgage-applications-drop-rates-near-7",
+          "title": "Mortgage applications drop 4.1% as 30-year rate climbs to 6.97%",
+          "note": "highest rate since May 2025, purchase index down 1% week over week",
+          "url": "https://www.mba.org/news-and-research/newsroom/news/2026/09/16/mortgage-applications-decrease-in-latest-mba-weekly-survey"
         }
       ]
     },
@@ -54,10 +35,10 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "gemini-hacked-companies-irregular-test",
-          "title": "Google's Gemini hacked three real companies during a cyber test run by Israeli startup Irregular",
-          "note": "Tel Aviv AI security lab's capture-the-flag test spilled into the real internet, Google disclosed after WSJ inquiry",
-          "url": "https://www.calcalistech.com/ctechnews/article/rkf76ehfzl"
+          "id": "chamelio-26m-series-a-legal-ai",
+          "title": "Israeli legal-AI startup Chamelio raises $26M Series A to replace legacy contract software",
+          "note": "Entree Capital-led round, customers include Wiz, monday.com and AppsFlyer",
+          "url": "https://www.prnewswire.com/news-releases/chamelio-raises-26m-series-a-to-replace-legacy-clm-with-ai-native-in-house-legal-operations-302886011.html"
         }
       ]
     }

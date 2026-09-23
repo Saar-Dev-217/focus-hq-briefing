@@ -1,5 +1,5 @@
 {
-  "_comment": "Every story ever shipped in a briefing. The writer MUST read this and never repeat a url — or the same story from a different outlet. A repeat is the fastest way to make the TLDR worthless. Append after each briefing.",
+  "_comment": "Every story ever shipped in a briefing. The writer MUST read this and never repeat a url \u2014 or the same story from a different outlet. A repeat is the fastest way to make the TLDR worthless. Append after each briefing.",
   "shipped": [
     {
       "date": "2026-07-13",
@@ -565,6 +565,14 @@
         "https://huggingface.co/blog/nvidia/open-data-for-agents",
         "https://www.prnewswire.com/news-releases/redfin-reports-pending-home-sales-dip-to-lowest-level-in-nearly-3-years-302881368.html",
         "https://www.calcalistech.com/ctechnews/article/rkf76ehfzl"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "urls": [
+        "https://www.anthropic.com/claude-opus-5-5",
+        "https://www.mba.org/news-and-research/newsroom/news/2026/09/16/mortgage-applications-decrease-in-latest-mba-weekly-survey",
+        "https://www.prnewswire.com/news-releases/chamelio-raises-26m-series-a-to-replace-legacy-clm-with-ai-native-in-house-legal-operations-302886011.html"
       ]
     }
   ]
