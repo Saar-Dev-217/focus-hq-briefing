@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "topics": [
     {
       "id": "my-market",
@@ -11,10 +11,16 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "anthropic-opus-5-5-openai-price-war",
-          "title": "Anthropic releases Claude Opus 5.5, cutting prices 20-60%, and OpenAI answers within minutes",
-          "note": "$4/$20 per MTok on Opus 5.5, cache reads down 60% to $0.20; OpenAI cut GPT-6 Sol and Luna prices in half same day",
-          "url": "https://www.anthropic.com/claude-opus-5-5"
+          "id": "firecrawl-75m-series-b-alexandria",
+          "title": "Firecrawl raises $75M Series B, launches Alexandria data platform for AI agents",
+          "note": "Smash Ventures-led round; new cloud service pools 82 data providers and 113M+ documents for agent context",
+          "url": "https://siliconangle.com/2026/09/22/web-scraping-startup-firecrawl-closes-75m-investment/"
+        },
+        {
+          "id": "kastle-24m-series-a-banking-agents",
+          "title": "Kastle raises $24M Series A to build an AI workforce for bank lending operations",
+          "note": "Insight Partners-led round; agents already processed $1.8B in transactions inside legacy bank systems",
+          "url": "https://www.prnewswire.com/news-releases/kastle-raises-24m-series-a-led-by-insight-partners-to-build-the-ai-workforce-for-banking-operations-302881290.html"
         }
       ]
     },
@@ -23,24 +29,17 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "mba-mortgage-applications-drop-rates-near-7",
-          "title": "Mortgage applications drop 4.1% as 30-year rate climbs to 6.97%",
-          "note": "highest rate since May 2025, purchase index down 1% week over week",
-          "url": "https://www.mba.org/news-and-research/newsroom/news/2026/09/16/mortgage-applications-decrease-in-latest-mba-weekly-survey"
+          "id": "mba-mortgage-rate-712-highest-since-may-2024",
+          "title": "Mortgage applications fall as 30-year rate jumps to 7.12%, highest since May 2024",
+          "note": "purchase index down 1% week over week, refis down 3% and 62% below a year ago",
+          "url": "https://www.mba.org/news-and-research/newsroom/news/2026/09/23/mortgage-applications-decrease-in-latest-mba-weekly-survey"
         }
       ]
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
-      "items": [
-        {
-          "id": "chamelio-26m-series-a-legal-ai",
-          "title": "Israeli legal-AI startup Chamelio raises $26M Series A to replace legacy contract software",
-          "note": "Entree Capital-led round, customers include Wiz, monday.com and AppsFlyer",
-          "url": "https://www.prnewswire.com/news-releases/chamelio-raises-26m-series-a-to-replace-legacy-clm-with-ai-native-in-house-legal-operations-302886011.html"
-        }
-      ]
+      "items": []
     }
   ]
 }
