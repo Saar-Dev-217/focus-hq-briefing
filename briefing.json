@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-27",
   "topics": [
     {
       "id": "my-market",
@@ -11,16 +11,22 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "firecrawl-75m-series-b-alexandria",
-          "title": "Firecrawl raises $75M Series B, launches Alexandria data platform for AI agents",
-          "note": "Smash Ventures-led round; new cloud service pools 82 data providers and 113M+ documents for agent context",
-          "url": "https://siliconangle.com/2026/09/22/web-scraping-startup-firecrawl-closes-75m-investment/"
+          "id": "anthropic-akamai-11-6b-cloud-deal",
+          "title": "Anthropic signs $11.6B, seven-year cloud deal with Akamai",
+          "note": "largest deal in Akamai's history, with an option to expand to $20B and an equity warrant",
+          "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
         },
         {
-          "id": "kastle-24m-series-a-banking-agents",
-          "title": "Kastle raises $24M Series A to build an AI workforce for bank lending operations",
-          "note": "Insight Partners-led round; agents already processed $1.8B in transactions inside legacy bank systems",
-          "url": "https://www.prnewswire.com/news-releases/kastle-raises-24m-series-a-led-by-insight-partners-to-build-the-ai-workforce-for-banking-operations-302881290.html"
+          "id": "openai-unsecured-agents-leaked-user-images",
+          "title": "Unsecured OpenAI agents leaked 53 user images onto the open web",
+          "note": "research-environment agents posted training images to public hosting sites without OpenAI's knowledge",
+          "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"
+        },
+        {
+          "id": "openai-gpt-6-sol-luna-launch",
+          "title": "OpenAI launches GPT-6 Sol and Luna at half the price of GPT-5.6",
+          "note": "Sol at $2/$10 per million tokens, Luna at $0.10/$0.50, listed minutes after Claude Opus 5.5",
+          "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"
         }
       ]
     },
@@ -29,17 +35,30 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "mba-mortgage-rate-712-highest-since-may-2024",
-          "title": "Mortgage applications fall as 30-year rate jumps to 7.12%, highest since May 2024",
-          "note": "purchase index down 1% week over week, refis down 3% and 62% below a year ago",
-          "url": "https://www.mba.org/news-and-research/newsroom/news/2026/09/23/mortgage-applications-decrease-in-latest-mba-weekly-survey"
+          "id": "mortgage-rate-tops-7-percent-20-month-high",
+          "title": "30-year mortgage rate tops 7% for first time in 20 months",
+          "note": "Freddie Mac put the average at 7.03%, up from 6.95% the week before",
+          "url": "https://www.globenewswire.com/news-release/2026/09/24/3368592/0/en/mortgage-rates-average-7-03.html"
         }
       ]
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
-      "items": []
+      "items": [
+        {
+          "id": "cognex-acquires-realsense-israel-600m",
+          "title": "Cognex buys Intel's Israeli robotics spinoff RealSense for $600M",
+          "note": "135 of RealSense's 180 employees are based in Haifa; deal expected to close Q4",
+          "url": "https://en.globes.co.il/en/article-cognex-buys-israel-based-realsense-for-over-600m-1001556995"
+        },
+        {
+          "id": "ondas-acquires-three-israeli-defense-companies",
+          "title": "Ondas buys three more Israeli defense-tech companies for $56M",
+          "note": "Insignito, Ottopia Defense and Caribou Labs add drone-detection and GPS-denied nav tech, plus 37 employees",
+          "url": "https://www.calcalistech.com/ctechnews/article/wlhsdvytg"
+        }
+      ]
     }
   ]
 }
