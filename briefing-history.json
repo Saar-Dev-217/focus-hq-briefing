@@ -1,5 +1,5 @@
 {
-  "_comment": "Every story ever shipped in a briefing. The writer MUST read this and never repeat a url \u2014 or the same story from a different outlet. A repeat is the fastest way to make the TLDR worthless. Append after each briefing.",
+  "_comment": "Every story ever shipped in a briefing. The writer MUST read this and never repeat a url — or the same story from a different outlet. A repeat is the fastest way to make the TLDR worthless. Append after each briefing.",
   "shipped": [
     {
       "date": "2026-07-13",
@@ -592,6 +592,18 @@
         "https://www.globenewswire.com/news-release/2026/09/24/3368592/0/en/mortgage-rates-average-7-03.html",
         "https://en.globes.co.il/en/article-cognex-buys-israel-based-realsense-for-over-600m-1001556995",
         "https://www.calcalistech.com/ctechnews/article/wlhsdvytg"
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/place-acquires-fintech-maxwell-bolsters-its-platform-for-lenders-and-institutional-partners-302888469.html",
+        "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+        "https://www.prnewswire.com/news-releases/baselayer-raises-35m-series-a-led-by-m13-launches-identity-infrastructure-for-ai-agents-302885670.html",
+        "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+        "https://www.housingwire.com/articles/mortgage-rates-have-gone-wild-so-whats-next-for-housing/",
+        "https://www.calcalistech.com/ctechnews/article/bkonawz9fx",
+        "https://www.calcalistech.com/ctechnews/article/hkhi400m9zl"
       ]
     }
   ]
