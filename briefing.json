@@ -1,15 +1,15 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
       "items": [
         {
-          "id": "place-acquires-maxwell",
-          "title": "Proptech consolidator PLACE acquires mortgage fintech Maxwell",
-          "note": "Maxwell serves 400+ lenders and facilitates $130B in annual mortgage volume, terms undisclosed",
-          "url": "https://www.prnewswire.com/news-releases/place-acquires-fintech-maxwell-bolsters-its-platform-for-lenders-and-institutional-partners-302888469.html"
+          "id": "venn-acquires-zuma-ai-real-estate",
+          "title": "Proptech consolidator Venn acquires a16z-backed leasing AI startup Zuma for $50M",
+          "note": "folds Zuma's leasing/renewals AI into Venn OS as it closes in on 1 million managed units",
+          "url": "https://www.globenewswire.com/news-release/2026/09/22/3366532/0/en/venn-acquires-a16z-backed-zuma-for-50-million-as-its-platform-closes-in-on-one-million-homes.html"
         }
       ]
     },
@@ -18,22 +18,10 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "ema-77m-series-b-ai-employees",
-          "title": "Ema raises $77M Series B to scale AI employees across the enterprise",
-          "note": "quadruples valuation, revenue up 50x in two years, expanding to APAC and EMEA",
-          "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/"
-        },
-        {
-          "id": "baselayer-35m-agent-identity",
-          "title": "Baselayer raises $35M to build an identity layer for AI agents",
-          "note": "new \"Know Your Agent\" system verifies who deployed an agent and what it's allowed to do",
-          "url": "https://www.prnewswire.com/news-releases/baselayer-raises-35m-series-a-led-by-m13-launches-identity-infrastructure-for-ai-agents-302885670.html"
-        },
-        {
-          "id": "meta-muse-glasses-hardware-expansion",
-          "title": "Meta pushes its Muse AI agent onto smart glasses and new hardware",
-          "note": "Muse gets a wake word, shopping integrations with Walmart/Best Buy/Instacart, and its own email address",
-          "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
+          "id": "instinct-1b-series-c-10b-valuation",
+          "title": "Viral AI agent startup Instinct raises $1B Series C at a $10B valuation",
+          "note": "Sequoia, Benchmark and Coatue back the personal-agent startup just weeks after its public launch",
+          "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
         }
       ]
     },
@@ -42,10 +30,10 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "mortgage-rates-749-pending-sales-fall",
-          "title": "Mortgage rates spike to 7.49% as pending sales and purchase apps drop",
-          "note": "price cuts hit 42.5% of listings, purchase applications down 11% year over year",
-          "url": "https://www.housingwire.com/articles/mortgage-rates-have-gone-wild-so-whats-next-for-housing/"
+          "id": "we-buy-ugly-houses-franchisee-sentenced-fraud",
+          "title": "Dallas \"We Buy Ugly Houses\" franchise owner sentenced to 15+ years for $39.5M investor fraud",
+          "note": "sold properties without informing investors, forged lien releases, ordered to pay $24.4M restitution",
+          "url": "https://www.justice.gov/usao-ndtx/pr/dallas-real-estate-investor-sentenced-over-15-years-federal-prison-investment-fraud"
         }
       ]
     },
@@ -54,16 +42,10 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "island-400m-series-f-ai-agent-security",
-          "title": "Browser-security unicorn Island raises $400M at $6.4B valuation",
-          "note": "expanding from browser security into controlling AI agents inside the enterprise, 400 employees in Tel Aviv",
-          "url": "https://www.calcalistech.com/ctechnews/article/bkonawz9fx"
-        },
-        {
-          "id": "fimi-acquires-mmd-smart",
-          "title": "FIMI buys 55% control of Israeli comms company MMD SMART for $55M",
-          "note": "values MMD at $100M, funds go toward expanding into new countries",
-          "url": "https://www.calcalistech.com/ctechnews/article/hkhi400m9zl"
+          "id": "openweb-insolvency-protection-cashflow",
+          "title": "Former Israeli unicorn OpenWeb seeks insolvency protection amid cash-flow crisis",
+          "note": "lender's seizure of $7.3M overseas derailed a planned $14M capital injection, seeks Tel Aviv court protection",
+          "url": "https://www.calcalistech.com/ctechnews/article/s1kfnxo5mx"
         }
       ]
     }
