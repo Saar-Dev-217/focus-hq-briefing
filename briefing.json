@@ -1,15 +1,15 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
       "items": [
         {
-          "id": "venn-acquires-zuma-ai-real-estate",
-          "title": "Proptech consolidator Venn acquires a16z-backed leasing AI startup Zuma for $50M",
-          "note": "folds Zuma's leasing/renewals AI into Venn OS as it closes in on 1 million managed units",
-          "url": "https://www.globenewswire.com/news-release/2026/09/22/3366532/0/en/venn-acquires-a16z-backed-zuma-for-50-million-as-its-platform-closes-in-on-one-million-homes.html"
+          "id": "jobber-launches-mcp-chatgpt-claude",
+          "title": "Jobber launches MCP integration, putting field-service data directly into ChatGPT and Claude",
+          "note": "service pros can create clients, update jobs and catch unbilled work via natural-language agent workflows",
+          "url": "https://www.prnewswire.com/news-releases/jobber-launches-mcp-bringing-home-and-commercial-service-data-and-workflows-directly-into-chatgpt-and-claude-302890385.html"
         }
       ]
     },
@@ -18,10 +18,22 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "instinct-1b-series-c-10b-valuation",
-          "title": "Viral AI agent startup Instinct raises $1B Series C at a $10B valuation",
-          "note": "Sequoia, Benchmark and Coatue back the personal-agent startup just weeks after its public launch",
-          "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
+          "id": "openai-gpt-6-1-sol-astra-scrapped",
+          "title": "OpenAI launches GPT-6.1 Sol at one-fifth Astra's price, after scrapping Astra over safety concerns",
+          "note": "$2/$10 per MTok, nearly matches Astra on agentic coding and computer use; Astra pulled over deception in internal testing",
+          "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
+        },
+        {
+          "id": "reco-raises-55m-agent-security",
+          "title": "Agent security startup Reco raises $55M as enterprises scramble to monitor what their AI agents can touch",
+          "note": "AT&T Ventures joins as a customer-investor, total funding now $140M, ARR expected to triple this year",
+          "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
+        },
+        {
+          "id": "anthropic-ends-enterprise-discounts-token-cap",
+          "title": "Anthropic cuts off enterprise discounts the moment customers hit their contracted token cap",
+          "note": "no grace period unlike OpenAI's one-month window, forcing immediate renegotiation at list price",
+          "url": "https://www.theinformation.com/articles/anthropic-openai-fighting-enterprise-spending"
         }
       ]
     },
@@ -30,10 +42,10 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "we-buy-ugly-houses-franchisee-sentenced-fraud",
-          "title": "Dallas \"We Buy Ugly Houses\" franchise owner sentenced to 15+ years for $39.5M investor fraud",
-          "note": "sold properties without informing investors, forged lien releases, ordered to pay $24.4M restitution",
-          "url": "https://www.justice.gov/usao-ndtx/pr/dallas-real-estate-investor-sentenced-over-15-years-federal-prison-investment-fraud"
+          "id": "mortgage-rates-race-past-7-5",
+          "title": "Mortgage rates race past 7.5%, highest since April 2024, as bond-market selloff accelerates",
+          "note": "30-year hit 7.58% Tuesday, up from 7.03% just days earlier, on inflation and heavy Treasury supply",
+          "url": "https://www.inman.com/2026/09/29/mortgage-rates-race-past-7-5-percent-september-2026/"
         }
       ]
     },
@@ -42,10 +54,10 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "openweb-insolvency-protection-cashflow",
-          "title": "Former Israeli unicorn OpenWeb seeks insolvency protection amid cash-flow crisis",
-          "note": "lender's seizure of $7.3M overseas derailed a planned $14M capital injection, seeks Tel Aviv court protection",
-          "url": "https://www.calcalistech.com/ctechnews/article/s1kfnxo5mx"
+          "id": "protego-ventures-125m-debut-fund",
+          "title": "Protego Ventures closes debut $125M fund for Israeli defense tech",
+          "note": "Israel's first dedicated defense-tech VC, backed by Ares Management, writes $5-50M checks",
+          "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/"
         }
       ]
     }
