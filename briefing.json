@@ -1,39 +1,26 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": [
-        {
-          "id": "jobber-launches-mcp-chatgpt-claude",
-          "title": "Jobber launches MCP integration, putting field-service data directly into ChatGPT and Claude",
-          "note": "service pros can create clients, update jobs and catch unbilled work via natural-language agent workflows",
-          "url": "https://www.prnewswire.com/news-releases/jobber-launches-mcp-bringing-home-and-commercial-service-data-and-workflows-directly-into-chatgpt-and-claude-302890385.html"
-        }
-      ]
+      "items": []
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "openai-gpt-6-1-sol-astra-scrapped",
-          "title": "OpenAI launches GPT-6.1 Sol at one-fifth Astra's price, after scrapping Astra over safety concerns",
-          "note": "$2/$10 per MTok, nearly matches Astra on agentic coding and computer use; Astra pulled over deception in internal testing",
-          "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
+          "id": "google-gemini-4-argon-unveiled",
+          "title": "Google unveils Gemini 4 Argon, its most powerful model yet",
+          "note": "claims coding and knowledge-work benchmark lead over GPT-6 Astra, 1M output tokens, limited rollout to cybersecurity partners first",
+          "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
         },
         {
-          "id": "reco-raises-55m-agent-security",
-          "title": "Agent security startup Reco raises $55M as enterprises scramble to monitor what their AI agents can touch",
-          "note": "AT&T Ventures joins as a customer-investor, total funding now $140M, ARR expected to triple this year",
-          "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
-        },
-        {
-          "id": "anthropic-ends-enterprise-discounts-token-cap",
-          "title": "Anthropic cuts off enterprise discounts the moment customers hit their contracted token cap",
-          "note": "no grace period unlike OpenAI's one-month window, forcing immediate renegotiation at list price",
-          "url": "https://www.theinformation.com/articles/anthropic-openai-fighting-enterprise-spending"
+          "id": "openai-dots-always-on-agents",
+          "title": "OpenAI launches Dots, an always-on AI agent that connects to 4,000 apps",
+          "note": "challenges Meta's Muse, executes multi-step workflows unprompted via Slack, Teams and ChatGPT integrations",
+          "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html"
         }
       ]
     },
@@ -42,10 +29,10 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "mortgage-rates-race-past-7-5",
-          "title": "Mortgage rates race past 7.5%, highest since April 2024, as bond-market selloff accelerates",
-          "note": "30-year hit 7.58% Tuesday, up from 7.03% just days earlier, on inflation and heavy Treasury supply",
-          "url": "https://www.inman.com/2026/09/29/mortgage-rates-race-past-7-5-percent-september-2026/"
+          "id": "mortgage-apps-fall-rates-7-3",
+          "title": "Mortgage applications fall 6% as 30-year rate hits 7.3%, highest since November 2023",
+          "note": "refis down 9%, purchases down 4% for week ending Sept 25, per MBA's Joel Kan",
+          "url": "https://www.housingwire.com/articles/mba-mortgage-applications-down-6/"
         }
       ]
     },
@@ -54,10 +41,22 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "protego-ventures-125m-debut-fund",
-          "title": "Protego Ventures closes debut $125M fund for Israeli defense tech",
-          "note": "Israel's first dedicated defense-tech VC, backed by Ares Management, writes $5-50M checks",
-          "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/"
+          "id": "valley-national-acquires-bluevine",
+          "title": "Valley National Bancorp to acquire Israeli-founded fintech Bluevine for $340M",
+          "note": "Tel Aviv R&D center included, serves 175,000 US small-business customers, deal closes early 2027",
+          "url": "https://www.ynetnews.com/business/article/rkitftocgg"
+        },
+        {
+          "id": "base44-launches-base-code",
+          "title": "Wix's Base44 launches Base Code, taking direct aim at Claude Code and Cursor",
+          "note": "connects GitHub repos to a cloud workspace where non-engineers can edit code by prompt",
+          "url": "https://www.calcalistech.com/ctechnews/article/28rupo2bt"
+        },
+        {
+          "id": "cato-networks-employee-secondary",
+          "title": "Cato Networks employees cash out another $100M in shares as IPO stays on ice",
+          "note": "second secondary in 15 months, company valued at $4.8B and still growing fast while private",
+          "url": "https://en.globes.co.il/en/article-cato-networks-completes-100m-secondary-offering-1001557954"
         }
       ]
     }
