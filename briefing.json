@@ -1,26 +1,39 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-04",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": []
+      "items": [
+        {
+          "id": "zoominfo-acquires-doubleo-ai",
+          "title": "ZoomInfo acquires DoubleO.ai to make AI agents reliable enough to run GTM motions",
+          "note": "folds multi-agent orchestration into ZoomInfo as it ships Agent Teams the next day",
+          "url": "https://www.businesswire.com/news/home/20260930700553/en/ZoomInfo-Acquires-DoubleO.ai-to-Make-AI-Agents-Reliable-Enough-to-Run-Go-to-Market-Motions"
+        }
+      ]
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "google-gemini-4-argon-unveiled",
-          "title": "Google unveils Gemini 4 Argon, its most powerful model yet",
-          "note": "claims coding and knowledge-work benchmark lead over GPT-6 Astra, 1M output tokens, limited rollout to cybersecurity partners first",
-          "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
+          "id": "armadin-255m-agent-swarm-security",
+          "title": "Kevin Mandia's agent-swarm security startup Armadin raises $255.5M at $2.5B valuation",
+          "note": "second raise in six months, autonomous agent swarms attack networks before hackers do",
+          "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/"
         },
         {
-          "id": "openai-dots-always-on-agents",
-          "title": "OpenAI launches Dots, an always-on AI agent that connects to 4,000 apps",
-          "note": "challenges Meta's Muse, executes multi-step workflows unprompted via Slack, Teams and ChatGPT integrations",
-          "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html"
+          "id": "restate-20m-durable-agent-infra",
+          "title": "Restate raises $20M Series A for durable AI agent infrastructure",
+          "note": "Apache Flink creators' runtime now handles orchestration for Replit Agent",
+          "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
+        },
+        {
+          "id": "meta-muse-gadgets-open-source",
+          "title": "Meta open-sources Muse Gadgets, letting developers build hardware for its AI agent",
+          "note": "ESP32 firmware and a Linux SDK, plus a free USB-C Muse Home Link dongle",
+          "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
         }
       ]
     },
@@ -29,10 +42,10 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "mortgage-apps-fall-rates-7-3",
-          "title": "Mortgage applications fall 6% as 30-year rate hits 7.3%, highest since November 2023",
-          "note": "refis down 9%, purchases down 4% for week ending Sept 25, per MBA's Joel Kan",
-          "url": "https://www.housingwire.com/articles/mba-mortgage-applications-down-6/"
+          "id": "mortgage-rate-728-biggest-jump-since-2022",
+          "title": "30-year mortgage rate jumps to 7.28%, biggest weekly spike since 2022",
+          "note": "Freddie Mac survey puts the rate at its highest since November 2023",
+          "url": "https://www.globenewswire.com/news-release/2026/10/01/3373202/0/en/mortgage-rates-average-7-28.html"
         }
       ]
     },
@@ -41,22 +54,10 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "valley-national-acquires-bluevine",
-          "title": "Valley National Bancorp to acquire Israeli-founded fintech Bluevine for $340M",
-          "note": "Tel Aviv R&D center included, serves 175,000 US small-business customers, deal closes early 2027",
-          "url": "https://www.ynetnews.com/business/article/rkitftocgg"
-        },
-        {
-          "id": "base44-launches-base-code",
-          "title": "Wix's Base44 launches Base Code, taking direct aim at Claude Code and Cursor",
-          "note": "connects GitHub repos to a cloud workspace where non-engineers can edit code by prompt",
-          "url": "https://www.calcalistech.com/ctechnews/article/28rupo2bt"
-        },
-        {
-          "id": "cato-networks-employee-secondary",
-          "title": "Cato Networks employees cash out another $100M in shares as IPO stays on ice",
-          "note": "second secondary in 15 months, company valued at $4.8B and still growing fast while private",
-          "url": "https://en.globes.co.il/en/article-cato-networks-completes-100m-secondary-offering-1001557954"
+          "id": "nebius-acquires-inferize",
+          "title": "Nebius acquires 10-month-old Israeli AI startup Inferize for up to $130M",
+          "note": "swift exit before a commercial launch, tech folds into Nebius's Token Factory inference platform",
+          "url": "https://en.globes.co.il/en/article-nebius-acquires-10-month-old-israeli-startup-inferize-1001558149"
         }
       ]
     }
