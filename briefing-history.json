@@ -1,5 +1,5 @@
 {
-  "_comment": "Every story ever shipped in a briefing. The writer MUST read this and never repeat a url — or the same story from a different outlet. A repeat is the fastest way to make the TLDR worthless. Append after each briefing.",
+  "_comment": "Every story ever shipped in a briefing. The writer MUST read this and never repeat a url \u2014 or the same story from a different outlet. A repeat is the fastest way to make the TLDR worthless. Append after each briefing.",
   "shipped": [
     {
       "date": "2026-07-13",
@@ -646,6 +646,15 @@
         "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
         "https://www.globenewswire.com/news-release/2026/10/01/3373202/0/en/mortgage-rates-average-7-28.html",
         "https://en.globes.co.il/en/article-nebius-acquires-10-month-old-israeli-startup-inferize-1001558149"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "urls": [
+        "https://www.globenewswire.com/news-release/2026/09/30/3371967/0/en/servicetitan-announces-strategic-partnership-with-ramp-to-automate-financial-workflows-for-contractors-with-ai-powered-tools.html",
+        "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+        "https://venturebeat.com/orchestration/openclaw-launches-free-enterprise-control-plane-for-persistent-ai-agents-backed-by-openai-red-hat-and-nvidia",
+        "https://www.calcalistech.com/ctechnews/article/sy2ks2o9ml"
       ]
     }
   ]

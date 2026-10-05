@@ -1,15 +1,15 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
       "items": [
         {
-          "id": "zoominfo-acquires-doubleo-ai",
-          "title": "ZoomInfo acquires DoubleO.ai to make AI agents reliable enough to run GTM motions",
-          "note": "folds multi-agent orchestration into ZoomInfo as it ships Agent Teams the next day",
-          "url": "https://www.businesswire.com/news/home/20260930700553/en/ZoomInfo-Acquires-DoubleO.ai-to-Make-AI-Agents-Reliable-Enough-to-Run-Go-to-Market-Motions"
+          "id": "servicetitan-ramp-financial-workflows",
+          "title": "ServiceTitan partners with Ramp to automate contractor financial workflows",
+          "note": "Ramp's first embedded partnership inside a vertical software platform, AI bill pay and expense cards built into ServiceTitan",
+          "url": "https://www.globenewswire.com/news-release/2026/09/30/3371967/0/en/servicetitan-announces-strategic-partnership-with-ramp-to-automate-financial-workflows-for-contractors-with-ai-powered-tools.html"
         }
       ]
     },
@@ -18,46 +18,33 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "armadin-255m-agent-swarm-security",
-          "title": "Kevin Mandia's agent-swarm security startup Armadin raises $255.5M at $2.5B valuation",
-          "note": "second raise in six months, autonomous agent swarms attack networks before hackers do",
-          "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/"
+          "id": "openai-launches-dots-agent",
+          "title": "OpenAI launches Dots, an always-on personal AI agent inside ChatGPT",
+          "note": "runs on GPT-6 Astra with its own cloud computer and browser, live for Pro and Business Premium users",
+          "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/"
         },
         {
-          "id": "restate-20m-durable-agent-infra",
-          "title": "Restate raises $20M Series A for durable AI agent infrastructure",
-          "note": "Apache Flink creators' runtime now handles orchestration for Replit Agent",
-          "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
-        },
-        {
-          "id": "meta-muse-gadgets-open-source",
-          "title": "Meta open-sources Muse Gadgets, letting developers build hardware for its AI agent",
-          "note": "ESP32 firmware and a Linux SDK, plus a free USB-C Muse Home Link dongle",
-          "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
+          "id": "openclaw-enterprise-control-plane",
+          "title": "OpenClaw Foundation ships a free open-source control plane for enterprise AI agents",
+          "note": "built out of an OpenAI project with Red Hat and Nvidia, adds multi-tenant security and governance for persistent agents",
+          "url": "https://venturebeat.com/orchestration/openclaw-launches-free-enterprise-control-plane-for-persistent-ai-agents-backed-by-openai-red-hat-and-nvidia"
         }
       ]
     },
     {
       "id": "us-real-estate",
       "title": "US real estate",
-      "items": [
-        {
-          "id": "mortgage-rate-728-biggest-jump-since-2022",
-          "title": "30-year mortgage rate jumps to 7.28%, biggest weekly spike since 2022",
-          "note": "Freddie Mac survey puts the rate at its highest since November 2023",
-          "url": "https://www.globenewswire.com/news-release/2026/10/01/3373202/0/en/mortgage-rates-average-7-28.html"
-        }
-      ]
+      "items": []
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
       "items": [
         {
-          "id": "nebius-acquires-inferize",
-          "title": "Nebius acquires 10-month-old Israeli AI startup Inferize for up to $130M",
-          "note": "swift exit before a commercial launch, tech folds into Nebius's Token Factory inference platform",
-          "url": "https://en.globes.co.il/en/article-nebius-acquires-10-month-old-israeli-startup-inferize-1001558149"
+          "id": "enso-15m-series-a-growth-agents",
+          "title": "Israeli startup enso raises $15M Series A for AI \"growth hacking\" agents",
+          "note": "RapidAPI co-founder's agentic marketing startup lands top-decile Series A, clients include Papaya Global and MyHeritage",
+          "url": "https://www.calcalistech.com/ctechnews/article/sy2ks2o9ml"
         }
       ]
     }
