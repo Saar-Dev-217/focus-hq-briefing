@@ -1,15 +1,21 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
       "items": [
         {
-          "id": "servicetitan-ramp-financial-workflows",
-          "title": "ServiceTitan partners with Ramp to automate contractor financial workflows",
-          "note": "Ramp's first embedded partnership inside a vertical software platform, AI bill pay and expense cards built into ServiceTitan",
-          "url": "https://www.globenewswire.com/news-release/2026/09/30/3371967/0/en/servicetitan-announces-strategic-partnership-with-ramp-to-automate-financial-workflows-for-contractors-with-ai-powered-tools.html"
+          "id": "eliseai-350m-series-f-4b-valuation",
+          "title": "Proptech unicorn EliseAI raises $350M at $4B valuation",
+          "note": "a16z and Bessemer lead round that nearly doubles its valuation, platform now powers 1 in 6 US apartments",
+          "url": "https://www.bisnow.com/news/national/property-management/eliseai-raises-350m-funding-round-plans-automation-expansion"
+        },
+        {
+          "id": "kahua-bain-capital-250m-construction",
+          "title": "Bain Capital invests $250M in construction platform Kahua, crossing $1B valuation",
+          "note": "largest outside investor takes minority stake as AI megaproject platform hits $100M ARR",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-29/bain-invests-in-construction-tech-firm-kahua-at-1-billion-value"
         }
       ]
     },
@@ -18,33 +24,40 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "openai-launches-dots-agent",
-          "title": "OpenAI launches Dots, an always-on personal AI agent inside ChatGPT",
-          "note": "runs on GPT-6 Astra with its own cloud computer and browser, live for Pro and Business Premium users",
-          "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/"
-        },
-        {
-          "id": "openclaw-enterprise-control-plane",
-          "title": "OpenClaw Foundation ships a free open-source control plane for enterprise AI agents",
-          "note": "built out of an OpenAI project with Red Hat and Nvidia, adds multi-tenant security and governance for persistent agents",
-          "url": "https://venturebeat.com/orchestration/openclaw-launches-free-enterprise-control-plane-for-persistent-ai-agents-backed-by-openai-red-hat-and-nvidia"
+          "id": "nvidia-open-agent-safety-platform",
+          "title": "Nvidia launches Open Agent Safety Platform with Anthropic, Microsoft and 100+ partners",
+          "note": "OpenShell and Sentry move agent containment into silicon, shifting safety from the model layer to infrastructure",
+          "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform"
         }
       ]
     },
     {
       "id": "us-real-estate",
       "title": "US real estate",
-      "items": []
+      "items": [
+        {
+          "id": "deed-theft-laws-expand-maryland-alabama",
+          "title": "Maryland and Alabama deed theft protections take effect as states tighten title-fraud rules",
+          "note": "12 states now have dedicated deed theft laws, up from 7 in April, but 29 states still have none",
+          "url": "https://www.housingwire.com/articles/more-states-crack-down-on-deed-theft-as-real-estate-fraud-rises/"
+        }
+      ]
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
       "items": [
         {
-          "id": "enso-15m-series-a-growth-agents",
-          "title": "Israeli startup enso raises $15M Series A for AI \"growth hacking\" agents",
-          "note": "RapidAPI co-founder's agentic marketing startup lands top-decile Series A, clients include Papaya Global and MyHeritage",
-          "url": "https://www.calcalistech.com/ctechnews/article/sy2ks2o9ml"
+          "id": "capitolis-acquires-eseclending-200m",
+          "title": "Israeli fintech unicorn Capitolis buys securities-lending firm eSecLending for $200M",
+          "note": "all-cash deal is Capitolis' fourth acquisition in five years, adds securities lending to its platform",
+          "url": "https://en.globes.co.il/en/article-israeli-fintech-co-capitolis-buys-eseclending-for-200m-1001557887"
+        },
+        {
+          "id": "enso-acquires-ppg-digital-leadcoverage",
+          "title": "Israeli AI marketing startup enso to acquire two ad agencies for up to $25M",
+          "note": "PPG Digital and US-based LeadCoverage add ~50 staff, days after enso's $15M Series A",
+          "url": "https://www.calcalistech.com/ctechnews/article/lu31nb95d"
         }
       ]
     }
