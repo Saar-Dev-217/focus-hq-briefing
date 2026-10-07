@@ -1,65 +1,32 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": [
-        {
-          "id": "eliseai-350m-series-f-4b-valuation",
-          "title": "Proptech unicorn EliseAI raises $350M at $4B valuation",
-          "note": "a16z and Bessemer lead round that nearly doubles its valuation, platform now powers 1 in 6 US apartments",
-          "url": "https://www.bisnow.com/news/national/property-management/eliseai-raises-350m-funding-round-plans-automation-expansion"
-        },
-        {
-          "id": "kahua-bain-capital-250m-construction",
-          "title": "Bain Capital invests $250M in construction platform Kahua, crossing $1B valuation",
-          "note": "largest outside investor takes minority stake as AI megaproject platform hits $100M ARR",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-29/bain-invests-in-construction-tech-firm-kahua-at-1-billion-value"
-        }
-      ]
+      "items": []
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "nvidia-open-agent-safety-platform",
-          "title": "Nvidia launches Open Agent Safety Platform with Anthropic, Microsoft and 100+ partners",
-          "note": "OpenShell and Sentry move agent containment into silicon, shifting safety from the model layer to infrastructure",
-          "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform"
+          "id": "anthropic-claude-startups-program-expansion",
+          "title": "Anthropic expands Claude Startups program to court more founders",
+          "note": "free API credits, priority rate limits and founder-event access for early-stage companies building on Claude",
+          "url": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html"
         }
       ]
     },
     {
       "id": "us-real-estate",
       "title": "US real estate",
-      "items": [
-        {
-          "id": "deed-theft-laws-expand-maryland-alabama",
-          "title": "Maryland and Alabama deed theft protections take effect as states tighten title-fraud rules",
-          "note": "12 states now have dedicated deed theft laws, up from 7 in April, but 29 states still have none",
-          "url": "https://www.housingwire.com/articles/more-states-crack-down-on-deed-theft-as-real-estate-fraud-rises/"
-        }
-      ]
+      "items": []
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
-      "items": [
-        {
-          "id": "capitolis-acquires-eseclending-200m",
-          "title": "Israeli fintech unicorn Capitolis buys securities-lending firm eSecLending for $200M",
-          "note": "all-cash deal is Capitolis' fourth acquisition in five years, adds securities lending to its platform",
-          "url": "https://en.globes.co.il/en/article-israeli-fintech-co-capitolis-buys-eseclending-for-200m-1001557887"
-        },
-        {
-          "id": "enso-acquires-ppg-digital-leadcoverage",
-          "title": "Israeli AI marketing startup enso to acquire two ad agencies for up to $25M",
-          "note": "PPG Digital and US-based LeadCoverage add ~50 staff, days after enso's $15M Series A",
-          "url": "https://www.calcalistech.com/ctechnews/article/lu31nb95d"
-        }
-      ]
+      "items": []
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "_comment": "Every story ever shipped in a briefing. The writer MUST read this and never repeat a url \u2014 or the same story from a different outlet. A repeat is the fastest way to make the TLDR worthless. Append after each briefing.",
+  "_comment": "Every story ever shipped in a briefing. The writer MUST read this and never repeat a url — or the same story from a different outlet. A repeat is the fastest way to make the TLDR worthless. Append after each briefing.",
   "shipped": [
     {
       "date": "2026-07-13",
@@ -666,6 +666,12 @@
         "https://www.housingwire.com/articles/more-states-crack-down-on-deed-theft-as-real-estate-fraud-rises/",
         "https://en.globes.co.il/en/article-israeli-fintech-co-capitolis-buys-eseclending-for-200m-1001557887",
         "https://www.calcalistech.com/ctechnews/article/lu31nb95d"
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "urls": [
+        "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html"
       ]
     }
   ]
