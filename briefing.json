@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": []
+      "items": [
+        {
+          "id": "certifid-acquires-closinglock",
+          "title": "CertifID buys Closinglock in its second title-tech deal in four months",
+          "note": "adds escrow and secure-payments tools to CertifID's fraud-detection platform, covering 3,000+ title companies",
+          "url": "https://www.housingwire.com/articles/certifid-acquires-closinglock-to-strengthen-real-estate-fraud-defenses/"
+        }
+      ]
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
-      "items": [
-        {
-          "id": "anthropic-claude-startups-program-expansion",
-          "title": "Anthropic expands Claude Startups program to court more founders",
-          "note": "free API credits, priority rate limits and founder-event access for early-stage companies building on Claude",
-          "url": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html"
-        }
-      ]
+      "items": []
     },
     {
       "id": "us-real-estate",
