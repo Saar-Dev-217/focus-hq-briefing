@@ -1,27 +1,34 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-11",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": [
-        {
-          "id": "certifid-acquires-closinglock",
-          "title": "CertifID buys Closinglock in its second title-tech deal in four months",
-          "note": "adds escrow and secure-payments tools to CertifID's fraud-detection platform, covering 3,000+ title companies",
-          "url": "https://www.housingwire.com/articles/certifid-acquires-closinglock-to-strengthen-real-estate-fraud-defenses/"
-        }
-      ]
+      "items": []
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
-      "items": []
+      "items": [
+        {
+          "id": "supabase-raises-150m-acquires-turso",
+          "title": "Supabase raises $150M and buys Turso to chase the agent-database boom",
+          "note": "~70% of new Supabase databases are now spun up by agents, not humans",
+          "url": "https://siliconangle.com/?p=849239"
+        }
+      ]
     },
     {
       "id": "us-real-estate",
       "title": "US real estate",
-      "items": []
+      "items": [
+        {
+          "id": "mortgage-rates-highest-since-2023",
+          "title": "Mortgage rates post a 7th straight weekly rise, highest since late 2023",
+          "note": "30-year fixed near 7.4% as the 10-year Treasury hits its highest level since 2002",
+          "url": "https://www.freddiemac.com/pmms"
+        }
+      ]
     },
     {
       "id": "israel-tech",
