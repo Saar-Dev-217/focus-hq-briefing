@@ -1,59 +1,25 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "topics": [
     {
       "id": "my-market",
       "title": "My market",
-      "items": [
-        {
-          "id": "vesta-30m-mortgage-ai-agents",
-          "title": "Vesta raises $30M as mortgage lenders adopt AI loan agents",
-          "note": "Pennymac and New American Funding invested after cutting origination costs 25% with its agents",
-          "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/"
-        }
-      ]
+      "items": []
     },
     {
       "id": "agents",
       "title": "Agents & AI infra",
-      "items": [
-        {
-          "id": "claude-haiku-5-5",
-          "title": "Anthropic launches Claude Haiku 5.5, its cheapest agentic model yet",
-          "note": "75% cheaper than Haiku 4.5, with adjustable effort levels built for high-volume sub-agent work",
-          "url": "https://www.anthropic.com/claude-haiku-5-5"
-        },
-        {
-          "id": "google-gemini-universal-agent",
-          "title": "Google launches a universal Gemini agent that can also route work to Claude",
-          "note": "Private preview for enterprises, with the agent picking between Gemini and Anthropic's models per task",
-          "url": "https://techcrunch.com/?p=3175776"
-        }
-      ]
+      "items": []
     },
     {
       "id": "us-real-estate",
       "title": "US real estate",
-      "items": [
-        {
-          "id": "attom-q2-2026-flip-margins-shrink",
-          "title": "Home-flip profits keep shrinking, ATTOM's Q2 data shows",
-          "note": "Typical margin fell to 21.5%, down from 27.6% a year ago, as flippers' math gets tighter",
-          "url": "https://www.attomdata.com/news/market-trends/flipping/home-flipping-profits-continue-gradual-two-year-decline/"
-        }
-      ]
+      "items": []
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
-      "items": [
-        {
-          "id": "phantom-gi-5m-seed",
-          "title": "Tel Aviv's Phantom GI raises $5M for a 20-minute ostomy procedure",
-          "note": "Pitango HealthTech leads seed for a device letting inoperable bowel-obstruction patients skip surgery",
-          "url": "https://www.calcalistech.com/ctechnews/article/skjuvwsoge"
-        }
-      ]
+      "items": []
     }
   ]
 }
