@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "topics": [
     {
       "id": "my-market",
@@ -9,17 +9,56 @@
     {
       "id": "agents",
       "title": "Agents & AI infra",
-      "items": []
+      "items": [
+        {
+          "id": "gemini-4-argon-broad-pricing",
+          "title": "Gemini 4 Argon goes broadly available with promo pricing",
+          "note": "$2/$10 per 1M tokens through Nov 30, then doubles to $4/$20",
+          "url": "https://venturebeat.com/technology/google-makes-gemini-4-argon-broadly-available-with-limited-time-low-api-pricing-of-2-10-per-1m-token"
+        },
+        {
+          "id": "openai-gpt-6-1-sol",
+          "title": "OpenAI launches GPT-6.1 Sol for coding and computer use",
+          "note": "priced at one-fifth of GPT-6 Astra's standard API rates",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol/"
+        },
+        {
+          "id": "nous-research-series-b",
+          "title": "Nous Research confirms $1.5B valuation, launches business agents",
+          "note": "$90M Series B closes the round first reported in July; total funding now $158M",
+          "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
+        }
+      ]
     },
     {
       "id": "us-real-estate",
       "title": "US real estate",
-      "items": []
+      "items": [
+        {
+          "id": "existing-home-sales-sept-rates",
+          "title": "Existing-home sales stay under 4M pace as rates climb",
+          "note": "September sales rose 1.5% to 3.99M annualized; inventory highest since Nov 2019",
+          "url": "https://www.inman.com/2026/10/13/existing-home-sales-september-2026"
+        },
+        {
+          "id": "mortgage-apps-fall-749",
+          "title": "Mortgage applications fall 4.2% as 30-year rate hits 7.49%",
+          "note": "continued rate climb squeezes purchase and refi demand",
+          "url": "https://www.housingwire.com/articles/mortgage-applications-fall-7-49/"
+        }
+      ]
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
-      "items": []
+      "items": [
+        {
+          "id": "amazon-decart-7b-talks",
+          "title": "Amazon in advanced talks to buy Israeli AI startup Decart for $7B",
+          "note": "comes a month after Anthropic walked away from its own $6B deal for the company",
+          "url": "https://en.globes.co.il/en/article-amazon-in-talks-to-buy-israels-decart-at-7b-valuation-1001559158"
+        }
+      ]
     }
   ]
 }
