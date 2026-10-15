@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "topics": [
     {
       "id": "my-market",
@@ -11,52 +11,39 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "gemini-4-argon-broad-pricing",
-          "title": "Gemini 4 Argon goes broadly available with promo pricing",
-          "note": "$2/$10 per 1M tokens through Nov 30, then doubles to $4/$20",
-          "url": "https://venturebeat.com/technology/google-makes-gemini-4-argon-broadly-available-with-limited-time-low-api-pricing-of-2-10-per-1m-token"
+          "id": "google-gemini-universal-work-agent",
+          "title": "Google launches a universal Gemini agent for enterprise work",
+          "note": "plans and runs multi-step tasks across Workspace, Microsoft 365, and Slack; private preview",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/"
         },
         {
-          "id": "openai-gpt-6-1-sol",
-          "title": "OpenAI launches GPT-6.1 Sol for coding and computer use",
-          "note": "priced at one-fifth of GPT-6 Astra's standard API rates",
-          "url": "https://openai.com/index/introducing-gpt-6-1-sol/"
-        },
-        {
-          "id": "nous-research-series-b",
-          "title": "Nous Research confirms $1.5B valuation, launches business agents",
-          "note": "$90M Series B closes the round first reported in July; total funding now $158M",
-          "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
+          "id": "manus-butterfly-effect-500m",
+          "title": "Manus parent Butterfly Effect raises $500M+, its first round since the Meta split",
+          "note": "Boyu Capital and IDG Capital lead, after Beijing forced Meta to unwind its acquisition",
+          "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
         }
       ]
     },
     {
       "id": "us-real-estate",
       "title": "US real estate",
-      "items": [
-        {
-          "id": "existing-home-sales-sept-rates",
-          "title": "Existing-home sales stay under 4M pace as rates climb",
-          "note": "September sales rose 1.5% to 3.99M annualized; inventory highest since Nov 2019",
-          "url": "https://www.inman.com/2026/10/13/existing-home-sales-september-2026"
-        },
-        {
-          "id": "mortgage-apps-fall-749",
-          "title": "Mortgage applications fall 4.2% as 30-year rate hits 7.49%",
-          "note": "continued rate climb squeezes purchase and refi demand",
-          "url": "https://www.housingwire.com/articles/mortgage-applications-fall-7-49/"
-        }
-      ]
+      "items": []
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
       "items": [
         {
-          "id": "amazon-decart-7b-talks",
-          "title": "Amazon in advanced talks to buy Israeli AI startup Decart for $7B",
-          "note": "comes a month after Anthropic walked away from its own $6B deal for the company",
-          "url": "https://en.globes.co.il/en/article-amazon-in-talks-to-buy-israels-decart-at-7b-valuation-1001559158"
+          "id": "openweb-insolvency",
+          "title": "Israeli ad-tech unicorn OpenWeb seeks insolvency protection",
+          "note": "fell from a $1.5B valuation after losing Microsoft traffic and a $20M lender repayment demand",
+          "url": "https://www.ynetnews.com/business/article/ryttjh99fx"
+        },
+        {
+          "id": "rocket-software-geniez-ai",
+          "title": "Rocket Software acquires Israeli mainframe-agent startup Geniez AI",
+          "note": "one-year-old, six-employee company sold for an estimated $100M a year after its seed round",
+          "url": "https://www.calcalistech.com/ctechnews/article/996lzw73e"
         }
       ]
     }
