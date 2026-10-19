@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "topics": [
     {
       "id": "my-market",
@@ -11,10 +11,10 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "meta-muse-wonder",
-          "title": "Meta ships its first frontier model, Muse Wonder",
-          "note": "built for personal and professional AI agents, scores near Claude Opus 5.5 on independent benchmarks",
-          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder"
+          "id": "anthropic-q3-revenue-16-8b",
+          "title": "Anthropic tells investors Q3 revenue hit $16.8B, up 45%",
+          "note": "second straight adjusted-profitable quarter, growth decelerating ahead of a planned IPO",
+          "url": "https://www.theinformation.com/briefings/anthropic-reports-16-8-billion-third-quarter-revenue"
         }
       ]
     },
@@ -23,10 +23,10 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "mortgage-rate-7-5-highest-since-2023",
-          "title": "30-year mortgage rate hits 7.5%, its highest since November 2023",
-          "note": "MBA applications fell 2.7% for the week as purchase demand dropped further behind last year",
-          "url": "https://www.housingwire.com/articles/mba-applications-slip-2-7/"
+          "id": "foreclosure-filings-up-13pct",
+          "title": "Foreclosure filings rise 13% year-over-year in August",
+          "note": "ATTOM data shows REOs up 42% annually, South hit hardest led by South Carolina",
+          "url": "https://www.housingwire.com/articles/foreclosure-filings-rise-13-year-over-year-south-hit-hardest/"
         }
       ]
     },
@@ -35,22 +35,10 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "varonis-proofpoint-6-3b",
-          "title": "Proofpoint to acquire Israeli cybersecurity firm Varonis for $6.3B",
-          "note": "all-cash deal at a 52% premium, takes the Nasdaq-listed, Israel-founded data-security company private",
-          "url": "https://calcalistech.com/ctechnews/article/gzk6vlon8"
-        },
-        {
-          "id": "salesforce-loops-acquisition",
-          "title": "Salesforce agrees to buy Israeli AI analytics startup Loops",
-          "note": "will be folded into Tableau; deal reported at roughly $30M, closing expected in early November",
-          "url": "https://www.calcalistech.com/ctechnews/article/rypqhecozg"
-        },
-        {
-          "id": "rein-security-25m-series-a",
-          "title": "Rein Security raises $25M Series A to secure enterprise AI agents",
-          "note": "Glilot Capital and Sienna Venture Capital co-lead, brings Tel Aviv/NY startup's total funding to $35M",
-          "url": "https://www.calcalistech.com/ctechnews/article/rkf52cnimg"
+          "id": "pluto-security-stealth-42m",
+          "title": "Israeli startup Pluto Security exits stealth with $42M",
+          "note": "Jump Capital and TLV Partners back AI-agent and vibe-coded-app monitoring tool, backed by Armis founders",
+          "url": "https://calcalistech.com/ctechnews/article/hjf4d1himx"
         }
       ]
     }
