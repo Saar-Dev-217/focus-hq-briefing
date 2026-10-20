@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "topics": [
     {
       "id": "my-market",
@@ -11,10 +11,10 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "anthropic-q3-revenue-16-8b",
-          "title": "Anthropic tells investors Q3 revenue hit $16.8B, up 45%",
-          "note": "second straight adjusted-profitable quarter, growth decelerating ahead of a planned IPO",
-          "url": "https://www.theinformation.com/briefings/anthropic-reports-16-8-billion-third-quarter-revenue"
+          "id": "replit-drops-anthropic-default",
+          "title": "Replit drops Anthropic as its default coding model",
+          "note": "CEO Amjad Masad says OpenAI now wins on cost and performance, though insiders dispute the split",
+          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
         }
       ]
     },
@@ -23,10 +23,16 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "foreclosure-filings-up-13pct",
-          "title": "Foreclosure filings rise 13% year-over-year in August",
-          "note": "ATTOM data shows REOs up 42% annually, South hit hardest led by South Carolina",
-          "url": "https://www.housingwire.com/articles/foreclosure-filings-rise-13-year-over-year-south-hit-hardest/"
+          "id": "ct-wholesale-disclosure-oct1",
+          "title": "Connecticut's wholesale disclosure mandate takes effect",
+          "note": "wholesalers must hand sellers a written disclosure report before signing a contract, as of October 1",
+          "url": "https://prdext3.cga.ct.gov/2026/sup/chap_392a.htm"
+        },
+        {
+          "id": "two-sigma-real-estate-retreat",
+          "title": "Two Sigma guts its real estate investing unit",
+          "note": "quant giant halts new investments and cuts senior staff after raising under half its $2B target",
+          "url": "https://propmodo.com/?p=181755"
         }
       ]
     },
@@ -35,10 +41,10 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "pluto-security-stealth-42m",
-          "title": "Israeli startup Pluto Security exits stealth with $42M",
-          "note": "Jump Capital and TLV Partners back AI-agent and vibe-coded-app monitoring tool, backed by Armis founders",
-          "url": "https://calcalistech.com/ctechnews/article/hjf4d1himx"
+          "id": "bloomx-series-a-pollination-robots",
+          "title": "Israeli agtech BloomX raises $13M for pollinator robots",
+          "note": "Elah Fund leads round as the robotic-pollination startup eyes US and Latin America expansion",
+          "url": "https://www.calcalistech.com/ctechnews/article/ryfhzkrofx"
         }
       ]
     }
