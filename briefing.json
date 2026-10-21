@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "topics": [
     {
       "id": "my-market",
@@ -11,10 +11,22 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "replit-drops-anthropic-default",
-          "title": "Replit drops Anthropic as its default coding model",
-          "note": "CEO Amjad Masad says OpenAI now wins on cost and performance, though insiders dispute the split",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+          "id": "opencode-hack",
+          "title": "Hackers breach AI coding tool OpenCode, run up users' AI bills",
+          "note": "attackers hit the console where some users store API keys, Anthropic and Google blocked exposed ones",
+          "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
+        },
+        {
+          "id": "otter-ai-320m",
+          "title": "Otter.ai raises $320M from General Catalyst for its meeting agent",
+          "note": "non-dilutive growth fund backs enterprise and international expansion",
+          "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
+        },
+        {
+          "id": "meta-muse-spark-open",
+          "title": "Meta open-weights an 816B-parameter model for coding and agent work",
+          "note": "Muse Spark Open targets long-running agent tasks, still trails Chinese models on coding benchmarks",
+          "url": "https://siliconangle.com/2026/10/15/meta-releases-816b-parameter-muse-spark-open-for-coding-and-agent-work/"
         }
       ]
     },
@@ -23,16 +35,16 @@
       "title": "US real estate",
       "items": [
         {
-          "id": "ct-wholesale-disclosure-oct1",
-          "title": "Connecticut's wholesale disclosure mandate takes effect",
-          "note": "wholesalers must hand sellers a written disclosure report before signing a contract, as of October 1",
-          "url": "https://prdext3.cga.ct.gov/2026/sup/chap_392a.htm"
+          "id": "pending-home-sales-record-low",
+          "title": "NAR's pending home sales index hits a record low",
+          "note": "September reading fell 7.3% from August and 11.3% year over year as mortgage rates bite",
+          "url": "https://www.housingwire.com/articles/pending-home-sales-record-low/"
         },
         {
-          "id": "two-sigma-real-estate-retreat",
-          "title": "Two Sigma guts its real estate investing unit",
-          "note": "quant giant halts new investments and cuts senior staff after raising under half its $2B target",
-          "url": "https://propmodo.com/?p=181755"
+          "id": "investor-share-below-30",
+          "title": "Investors bought more homes in Q2, but their market share fell below 30%",
+          "note": "the largest investors sold more than they bought for a 10th straight quarter",
+          "url": "https://www.inman.com/2026/10/15/investors-bought-more-homes-in-q2-their-market-share-still-fell-below-30-report/"
         }
       ]
     },
@@ -41,10 +53,16 @@
       "title": "Israel tech",
       "items": [
         {
-          "id": "bloomx-series-a-pollination-robots",
-          "title": "Israeli agtech BloomX raises $13M for pollinator robots",
-          "note": "Elah Fund leads round as the robotic-pollination startup eyes US and Latin America expansion",
-          "url": "https://www.calcalistech.com/ctechnews/article/ryfhzkrofx"
+          "id": "proofpoint-varonis-6-3b",
+          "title": "Proofpoint to buy Israeli cybersecurity firm Varonis for $6.3B",
+          "note": "all-cash deal at a 52% premium to Varonis' pre-rumor price, expected to close H1 2027",
+          "url": "https://www.timesofisrael.com/israeli-cybersecurity-firm-varonis-systems-to-be-bought-by-proofpoint-in-6-3-billion-deal/"
+        },
+        {
+          "id": "zenzap-44m-stealth",
+          "title": "Zenzap emerges from stealth with $44M to replace WhatsApp at work",
+          "note": "Bessemer- and Lightspeed-backed Tel Aviv startup builds AI agents into team chat",
+          "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/"
         }
       ]
     }
