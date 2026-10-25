@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-25",
   "topics": [
     {
       "id": "my-market",
@@ -11,41 +11,29 @@
       "title": "Agents & AI infra",
       "items": [
         {
-          "id": "walmart-agent-gateway-amazon-blocks",
-          "title": "Walmart opens an MCP gateway to AI shopping agents as Amazon blocks them",
-          "note": "Agent Gateway lets approved agents buy via Walmart and Sam's Club over MCP; Amazon is blocking Meta's Muse agent",
-          "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
-        },
-        {
-          "id": "microsoft-guardian-agents-insider-threat",
-          "title": "Microsoft starts treating deployed AI agents as insider threats",
-          "note": "new Microsoft 365 E7 and Project Perception tools score every agent's risk and can contain or shut it down, now covering 60 agent types",
-          "url": "https://siliconangle.com/2026/10/19/microsoft-targets-the-agentic-insider-with-new-controls-for-rogue-ai-agents/"
-        },
-        {
-          "id": "openai-models-google-cloud",
-          "title": "OpenAI brings its frontier models to Google Cloud",
-          "note": "GPT-6 Astra, Sol and Luna land in Google's Model Garden within weeks, widening where a rival lab's models can run",
-          "url": "https://siliconangle.com/2026/10/21/openai-to-make-its-most-advanced-ai-models-available-in-google-cloud/"
+          "id": "anthropic-agent-skills-foundation-donation",
+          "title": "Anthropic donates its Agent Skills standard to the Agentic AI Foundation",
+          "note": "open standard already adopted by 70+ platforms incl. ChatGPT, Cursor, GitHub Copilot moves under the Linux Foundation to stay vendor-neutral",
+          "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
         }
       ]
     },
     {
       "id": "us-real-estate",
       "title": "US real estate",
-      "items": [
-        {
-          "id": "attom-q3-affordability-98-percent",
-          "title": "Home affordability lags historical norms in 98% of US counties",
-          "note": "ATTOM's Q3 2026 index: ownership costs still outpace wages almost everywhere even as median price dipped to $368k",
-          "url": "https://www.inman.com/2026/10/21/home-affordability-by-county-attom-q3-2026/"
-        }
-      ]
+      "items": []
     },
     {
       "id": "israel-tech",
       "title": "Israel tech",
-      "items": []
+      "items": [
+        {
+          "id": "mave-28m-series-a-threat-investigations",
+          "title": "Israeli cyber startup Mave raises $28M Series A to automate threat investigations",
+          "note": "Red Dot Capital Partners leads; Unit 8200 founders' AI triages security alerts across existing tools without centralizing data",
+          "url": "https://www.calcalistech.com/ctechnews/article/h1sq8ip2mx"
+        }
+      ]
     }
   ]
 }
